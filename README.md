@@ -1,8 +1,8 @@
 <!--
 * browser: decision-record
 * tracker: fc94c9c34370b9b2f36270aac1deca20
-* version: 2.1.0
-* updated: 2025-05-18T13:48:41Z
+* version: 3.0.0
+* updated: 2026-08-19T17:28:37Z
 * contact: Joel Parker Henderson (http://joelparkerhenderson.com)
 * options: commentable
 -->
@@ -21,31 +21,17 @@ Contents:
 - [Suggestions for writing good decision records](#suggestions-for-writing-good-decision-records)
 - [Teamwork advice for decision records](#teamwork-advice-for-decision-records)
 - [Teamwork questions for decision records](#teamwork-questions-for-decision-records)
-  - [Who can create a decision record?](#who-can-create-a-decision-record)
-  - [What justifies raising a decision record?](#what-justifies-raising-a-decision-record)
-  - [What justifies not rasing a decision record?](#what-justifies-not-rasing-a-decision-record)
-  - [What is the lifecycle of a decision record?](#what-is-the-lifecycle-of-a-decision-record)
-  - [What are criteria for lifecycle steps of a decision record?](#what-are-criteria-for-lifecycle-steps-of-a-decision-record)
-  - [What roles and responsibilities interact with a decision record?](#what-roles-and-responsibilities-interact-with-a-decision-record)
-  - [How does governance interact with a decision record?](#how-does-governance-interact-with-a-decision-record)
-  - [What principles interact with a decision record?](#what-principles-interact-with-a-decision-record)
 - [For more information](#for-more-information)
 
 What's in this repository:
 
-- [guide/index.md](guide/index.md) - what a decision record is, why people use them, lifecycle, governance, and more.
-- [template/template.md](template/template.md) - copy-paste template with markdown formatting and step-by-step suggestions.
-- [tutorial/index.md](tutorial/index.md) - a hands-on, step-by-step walkthrough: write your first decision record in under 20 minutes.
-- [examples/index.md](examples/index.md) - worked examples across strategy, sales, marketing, product, HR, risk, project, and technology decisions.
-- [checklist/index.md](checklist/index.md): checklists for deciding whether to write one, writing it well, reviewing it, and running the practice across an organization.
-- [help/index.md](help/index.md) — FAQ, troubleshooting, and a glossary for common questions leaders raise when adopting this.
-- [spec/index.md](spec/index.md) — the condensed specification: template fields, core benefits, best practices.
-
-## Quick start
-
-1. Read the [guide](guide/index.md) (10 minutes).
-2. Use the [checklist](checklist/index.md#checklist-does-this-decision-need-a-decision-record) to decide if a decision is worth recording.
-3. Copy the [lightweight template](template/index.md#lightweight-template) into your next decision, share it for comments, and work on it.
+- [guide](guide) - what a decision record is, why people use them, lifecycle, governance, and more.
+- [template](template) - copy-paste template with markdown formatting and step-by-step suggestions.
+- [tutorial](tutorial) - a hands-on, step-by-step walkthrough: write your first decision record in under 20 minutes.
+- [examples](examples) - worked examples across strategy, sales, marketing, product, HR, risk, project, and technology decisions.
+- [checklist](checklist): checklists for deciding whether to write one, writing it well, reviewing it, and running the practice across an organization.
+- [help](help) — FAQ, troubleshooting, and a glossary for common questions leaders raise when adopting this.
+- [spec](spec) — the condensed specification: template fields, core benefits, best practices.
 
 ## What is a decision record?
 
