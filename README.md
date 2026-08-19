@@ -34,7 +34,7 @@ Contents:
 What's in this repository:
 
 - [guide/index.md](guide/index.md) - what a decision record is, why people use them, lifecycle, governance, and more.
-- [template/index.md](template/index.md) - copy-paste templates: a lightweight version for everyday decisions and a comprehensive version for high-stakes ones.
+- [template/template.md](template/template.md) - copy-paste template with markdown formatting and step-by-step suggestions.
 - [tutorial/index.md](tutorial/index.md) - a hands-on, step-by-step walkthrough: write your first decision record in under 20 minutes.
 - [examples/index.md](examples/index.md) - worked examples across strategy, sales, marketing, product, HR, risk, project, and technology decisions.
 - [checklist/index.md](checklist/index.md): checklists for deciding whether to write one, writing it well, reviewing it, and running the practice across an organization.
