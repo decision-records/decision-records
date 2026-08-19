@@ -61,7 +61,7 @@ All these terms are within the topic of **knowledge management** (KM).
 
 The goal of this document is to provide a fast overview of decision records.
 
-## Decision records are ways of workign for organziations
+## Decision records are ways of working for organziations
 
 Wherever a choice is hard to reverse, affects other people, or will be questioned later, it deserves a decision record.
 
