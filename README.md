@@ -31,6 +31,22 @@ Contents:
   - [What principles interact with a decision record?](#what-principles-interact-with-a-decision-record)
 - [For more information](#for-more-information)
 
+What's in this repository:
+
+- [guide/index.md](guide/index.md) - what a decision record is, why people use them, lifecycle, governance, and more.
+- [template/index.md](template/index.md) - copy-paste templates: a lightweight version for everyday decisions and a comprehensive version for high-stakes ones.
+- [tutorial/index.md](tutorial/index.md) - a hands-on, step-by-step walkthrough: write your first decision record in under 20 minutes.
+- [examples/index.md](examples/index.md) - worked examples across strategy, sales, marketing, product, HR, risk, project, and technology decisions.
+- [checklist/index.md](checklist/index.md): checklists for deciding whether to write one, writing it well, reviewing it, and running the practice across an organization.
+- [help/index.md](help/index.md) — FAQ, troubleshooting, and a glossary for common questions leaders raise when adopting this.
+- [spec/index.md](spec/index.md) — the condensed specification: template fields, core benefits, best practices.
+
+## Quick start
+
+1. Read the [guide](guide/index.md) (10 minutes).
+2. Use the [checklist](checklist/index.md#checklist-does-this-decision-need-a-decision-record) to decide if a decision is worth recording.
+3. Copy the [lightweight template](template/index.md#lightweight-template) into your next decision, share it for comments, and work on it.
+
 ## What is a decision record?
 
 A **decision record** (DR) is a way to initiate, debate, and archive an important choice, along with its context and consequences.
@@ -44,6 +60,24 @@ A **significant requirement** (SR) is a project's need that has a measurable eff
 All these terms are within the topic of **knowledge management** (KM).
 
 The goal of this document is to provide a fast overview of decision records.
+
+## Decision records are ways of workign for organziations
+
+Wherever a choice is hard to reverse, affects other people, or will be questioned later, it deserves a decision record.
+
+- Strategy: Enter or exit a market, choose a growth vs. profitability posture, set a 3-year bet
+- Sales: Change territory model, select a CRM, restructure compensation
+- Marketing: Reposition a brand, choose a channel mix, pick an agency vs. in-house model
+- Product: Set pricing model, choose build-vs-buy, sunset a feature or product line
+- Finance: Choose a financing structure, set a capital allocation policy
+- Human Recourcs: Set a remote-work policy, redesign leveling and compensation bands
+- Risk & Legal: Accept, mitigate, or transfer a specific risk; choose a vendor concentration limit
+- Operations: Build vs. buy, insource vs. outsource, choose a delivery methodology
+- Public Relations: Choose a crisis communication posture, set a media engagement policy
+- Professional Development: Set a promotion or training investment policy
+- Technology:| Choose a cloud provider database, an integration pattern, a software methodology |
+
+If you can imagine someone on your team asking "wait, why did we do it this way?" a year from now, that decision is a candidate for a decision record.
 
 ## Decision record template
 
