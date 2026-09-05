@@ -1,3 +1,45 @@
+# Decision record templates
+
+Two templates, both plain Markdown: copy the one you want into a new file and fill it in.
+
+## Choosing which template to use
+
+Default to the **lightweight template** — most decisions need only its six fields, and a page that's growing past that is usually more than one decision anyway.
+
+Move to the **comprehensive template** when a decision is high-stakes, has several stakeholders whose opinions matter individually, or genuinely needs structured cost/SWOT/PEST analysis to defend the choice later. See the [checklist](../checklist/index.md#checklist-does-this-decision-need-a-decision-record) for the broader question of whether a decision needs a record at all, and the [guide](../guide/index.md#the-anatomy-of-a-decision-record) for how the two templates' fields map onto each other.
+
+## Lightweight template
+
+```markdown
+# Title (short, present-tense, active, up to ~50 characters)
+
+- Status: request for comments | proposed | accepted | rejected | deprecated | superseded
+- Date: YYYY-MM-DD
+- Decision-maker(s): [name(s) or role(s) with authority to accept this]
+- Owner: [who maintains and periodically reviews this record]
+
+## Context
+
+Describe the situation and constraints that made this decision necessary, written so a reader with no memory of the meeting understands why the question even came up.
+
+## Options considered
+
+List the realistic alternatives — including "do nothing" if relevant — as facts and trade-offs, not a strawman lineup that makes the chosen option look obviously correct.
+
+## Decision
+
+State the choice in plain, active language: "We will do X." Not a summary of pros and cons — a clear statement of what was chosen.
+
+## Consequences
+
+State what changes as a result: costs, risks, follow-on decisions, and anything given up by not choosing an alternative. Read as "we now do X instead of Y," not as a pros/cons recap of the decision already made.
+```
+
+See the [tutorial](../tutorial/index.md) for a full worked walkthrough of this template, and [examples/index.md](../examples/index.md) for finished, filled-in examples.
+
+## Comprehensive template
+
+```markdown
 # Title (short, present-tense, active, up to ~50 characters)
 
 - Status: request for comments | proposed | accepted | rejected | deprecated | superseded
@@ -188,3 +230,4 @@ If the enterprise has an agreed-upon set of principles, make sure the decision i
 ## Related notes
 
 Because decision-making processes can take significant time, we’ve found it useful to capture notes and issues that the team discusses during the socialization process.
+```
