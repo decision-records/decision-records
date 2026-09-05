@@ -1,8 +1,8 @@
 <!--
 * browser: decision-record
 * tracker: fc94c9c34370b9b2f36270aac1deca20
-* version: 3.0.0
-* updated: 2026-08-19T17:28:37Z
+* version: 3.1.0
+* updated: 2026-09-05T10:34:13Z
 * contact: Joel Parker Henderson (http://joelparkerhenderson.com)
 * options: commentable
 -->
@@ -18,6 +18,7 @@ Contents:
 - [How to start using decision records](#how-to-start-using-decision-records)
 - [Why are decision records better than just notes?](#why-are-decision-records-better-than-just-notes)
 - [How to start using decision records with tools](#how-to-start-using-decision-records-with-tools)
+- [Use decision records with Claude](#use-decision-records-with-claude)
 - [Suggestions for writing good decision records](#suggestions-for-writing-good-decision-records)
 - [Teamwork advice for decision records](#teamwork-advice-for-decision-records)
 - [Teamwork questions for decision records](#teamwork-questions-for-decision-records)
@@ -32,6 +33,8 @@ What's in this repository:
 - [checklist](checklist): checklists for deciding whether to write one, writing it well, reviewing it, and running the practice across an organization.
 - [help](help) — FAQ, troubleshooting, and a glossary for common questions leaders raise when adopting this.
 - [spec](spec) — the condensed specification: template fields, core benefits, best practices.
+- [skills](skills) — Claude Skills that apply this repository's templates and checklists inside an AI assistant: one for writing a decision record, one for maintaining this repository.
+- [site](site) — SvelteKit source for [decision-records.github.io](https://decision-records.github.io), which promotes the skills above.
 
 ## What is a decision record?
 
@@ -166,6 +169,16 @@ For example:
 - If you like project planning tools, such as Atlassian Jira, then use the tool's planning tracker.
 
 - If you like wikis, such as MediaWiki, then create a decision record wiki, with a wiki page per decision record.
+
+## Use decision records with Claude
+
+If you use [Claude Code](https://claude.com/claude-code) or another agent that supports [Claude Skills](https://code.claude.com/docs/en/skills), this repository ships two of them in [skills](skills):
+
+- [decision-records-skill](skills/decision-records-skill) — for anyone writing a decision record. Walks through whether a choice needs one, choosing the lightweight or comprehensive template, drafting it, filing it, and the pre-publish checklist.
+
+- [decision-records-maintainer-skill](skills/decision-records-maintainer-skill) — for maintainers of this repository itself: adding a worked example, keeping the examples index and cross-references consistent, and this repo's file conventions.
+
+To use one, clone this repository and copy the skill folder you want into wherever your agent loads project skills from (for Claude Code, typically `.claude/skills/<name>` in your own project) — then ask your assistant to use it. See [decision-records.github.io/skills](https://decision-records.github.io/skills/) for more, and [site](site) for that page's source.
 
 ## Suggestions for writing good decision records
 
