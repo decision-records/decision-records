@@ -1,8 +1,8 @@
 <script lang="ts">
 	import '../lib/styles/theme.css';
 	import { ContainerWithFixedWidth, Footer, SkipLink } from 'lily-design-system-svelte-headless';
-	import SiteHeader from '$lib/components/site/Header.svelte';
-	import FooterNav from '$lib/components/site/FooterNav.svelte';
+	import SiteHeader from '#lib/components/site/Header.svelte';
+	import FooterNav from '#lib/components/site/FooterNav.svelte';
 
 	let { children } = $props();
 

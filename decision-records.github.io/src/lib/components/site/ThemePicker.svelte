@@ -13,7 +13,7 @@
 	// under the same "dr-theme" key app.html's inline script already
 	// reads before first paint.
 	import ThemePicker from 'lily-design-system-svelte-theme-picker';
-	import { themes, DEFAULT_THEME_ID } from '$lib/data/themes';
+	import { themes, DEFAULT_THEME_ID } from '#lib/data/themes.js';
 
 	const STORAGE_KEY = 'dr-theme';
 	const themeSlugs = themes.map((t) => t.id);
