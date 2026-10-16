@@ -131,7 +131,7 @@ See the [tutorial](../tutorial/index.md) for a full worked walkthrough.
 
 ## Further reading
 
-* [spec/index.md](../spec/index.md) — the condensed specification this guide expands on.
+* [spec/decision-record.md](https://github.com/decision-records/decision-records/blob/main/spec/decision-record.md) — the condensed specification this guide expands on.
 * [Architectural decision (Wikipedia)](https://wikipedia.org/wiki/Architectural_decision)
 * [Documenting architecture decisions — Michael Nygard](http://thinkrelevance.com/blog/2011/11/15/documenting-architecture-decisions)
 * [Markdown Architectural Decision Records (MADR)](https://adr.github.io/madr/)

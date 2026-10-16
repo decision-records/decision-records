@@ -1,0 +1,168 @@
+{
+  "name": "Decision Records (DR)",
+  "summary": "A guide to decision records: a way to initiate, debate, and archive an important choice, along with its context and consequences, for any part of an organization. Includes a tutorial, templates, worked examples, and checklists.",
+  "site": "https://decision-records.github.io",
+  "repository": "https://github.com/decision-records/decision-records",
+  "counts": {
+    "sections": 6,
+    "pages": 31,
+    "examples": 25,
+    "locales": 14
+  },
+  "sections": {
+    "guide": [
+      {
+        "title": "Guide: Decision Records for Leaders",
+        "url": "https://decision-records.github.io/en-us/guide/"
+      }
+    ],
+    "tutorial": [
+      {
+        "title": "Tutorial: Write Your First Decision Record",
+        "url": "https://decision-records.github.io/en-us/tutorial/"
+      }
+    ],
+    "template": [
+      {
+        "title": "Decision record templates",
+        "url": "https://decision-records.github.io/en-us/template/"
+      }
+    ],
+    "examples": [
+      {
+        "title": "Examples",
+        "url": "https://decision-records.github.io/en-us/examples/"
+      },
+      {
+        "title": "Phase in the Agile Manifesto",
+        "url": "https://decision-records.github.io/en-us/examples/agile-manifesto/"
+      },
+      {
+        "title": "Phase in a business framework",
+        "url": "https://decision-records.github.io/en-us/examples/business-frameworks/"
+      },
+      {
+        "title": "Adopt contact relationship management",
+        "url": "https://decision-records.github.io/en-us/examples/contact-relationship-management/"
+      },
+      {
+        "title": "Phase in Extreme Programming",
+        "url": "https://decision-records.github.io/en-us/examples/extreme-programming/"
+      },
+      {
+        "title": "Weigh health economics in a treatment funding decision",
+        "url": "https://decision-records.github.io/en-us/examples/health-economics/"
+      },
+      {
+        "title": "Adopt a hybrid remote-work policy",
+        "url": "https://decision-records.github.io/en-us/examples/hr-remote-work-policy/"
+      },
+      {
+        "title": "Choose a hybrid working model",
+        "url": "https://decision-records.github.io/en-us/examples/hybrid-working-choices/"
+      },
+      {
+        "title": "Choose our information technology frameworks",
+        "url": "https://decision-records.github.io/en-us/examples/information-technology-frameworks/"
+      },
+      {
+        "title": "Phase in ITIL 5",
+        "url": "https://decision-records.github.io/en-us/examples/itil-5/"
+      },
+      {
+        "title": "Phase in lean manufacturing",
+        "url": "https://decision-records.github.io/en-us/examples/lean-manufacturing/"
+      },
+      {
+        "title": "Reposition the brand around reliability",
+        "url": "https://decision-records.github.io/en-us/examples/marketing-brand-repositioning/"
+      },
+      {
+        "title": "Choose between a product business and a service business",
+        "url": "https://decision-records.github.io/en-us/examples/product-business-versus-service-business/"
+      },
+      {
+        "title": "Move to usage-based pricing",
+        "url": "https://decision-records.github.io/en-us/examples/product-pricing-model-change/"
+      },
+      {
+        "title": "Build vs. buy for a project",
+        "url": "https://decision-records.github.io/en-us/examples/project-build-vs-buy/"
+      },
+      {
+        "title": "Adopt project portfolio management",
+        "url": "https://decision-records.github.io/en-us/examples/project-portfolio-management/"
+      },
+      {
+        "title": "Weigh public value in a service redesign",
+        "url": "https://decision-records.github.io/en-us/examples/public-value/"
+      },
+      {
+        "title": "Reduce single-vendor concentration risk",
+        "url": "https://decision-records.github.io/en-us/examples/risk-single-vendor-dependency/"
+      },
+      {
+        "title": "Select a CRM platform",
+        "url": "https://decision-records.github.io/en-us/examples/sales-crm-vendor-selection/"
+      },
+      {
+        "title": "Phase in Six Sigma",
+        "url": "https://decision-records.github.io/en-us/examples/six-sigma/"
+      },
+      {
+        "title": "Choose the primary database",
+        "url": "https://decision-records.github.io/en-us/examples/software-architecture-database-choice/"
+      },
+      {
+        "title": "Enter the mid-market segment",
+        "url": "https://decision-records.github.io/en-us/examples/strategy-enter-new-market/"
+      },
+      {
+        "title": "Adopt a target operating model",
+        "url": "https://decision-records.github.io/en-us/examples/target-operating-model/"
+      },
+      {
+        "title": "Adopt written ways of working",
+        "url": "https://decision-records.github.io/en-us/examples/ways-of-working/"
+      },
+      {
+        "title": "Adopt workplace planning and management",
+        "url": "https://decision-records.github.io/en-us/examples/workplace-planning-management/"
+      },
+      {
+        "title": "Set a process for workplace reasonable adjustments",
+        "url": "https://decision-records.github.io/en-us/examples/workplace-reasonable-adjustments/"
+      }
+    ],
+    "checklist": [
+      {
+        "title": "Checklists",
+        "url": "https://decision-records.github.io/en-us/checklist/"
+      }
+    ],
+    "help": [
+      {
+        "title": "Help / FAQ",
+        "url": "https://decision-records.github.io/en-us/help/"
+      }
+    ]
+  },
+  "skills": "https://decision-records.github.io/skills/",
+  "locales": [
+    "ar_001",
+    "cy_001",
+    "cy_GB",
+    "de_001",
+    "en_001",
+    "en_GB",
+    "en_GB_oxendict",
+    "en_US",
+    "es_001",
+    "fr_001",
+    "hi_001",
+    "hi_IN",
+    "zh_001",
+    "zh_CN"
+  ],
+  "translations": "https://github.com/decision-records/decision-records/tree/main/locales"
+}

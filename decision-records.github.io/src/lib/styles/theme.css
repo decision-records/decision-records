@@ -1,30 +1,22 @@
 /* ============================================================================
- * decision-records.github.io — site stylesheet
+ * architecture-decision-record.github.io — site stylesheet
  *
  * Deliberately small. The active Lily theme (one of 45, swapped at runtime
  * by ThemePicker.svelte via <link id="lily-theme">, default set in
- * app.html) already styles every Lily catalog class hook — colour,
- * border, radius, shadow, typography tokens as `--color-*` and `--lily-*`
+ * app.html) already styles every Lily catalog class hook — colour, border,
+ * radius, shadow, and typography tokens as `--color-*` and `--lily-*`
  * custom properties. This file only adds:
  *
  *   1. Base page chrome the theme intentionally leaves alone (Lily is
  *      headless about page composition): html/body, page-level layout,
- *      spacing between stacked components.
- *   2. Two confirmed gaps in the shared component layer: plain prose
- *      links and `.promo-tile-cta` get no colour from any Lily theme, so
- *      we set it here from the same `--color-primary` token the themes
- *      themselves expose.
+ *      sticky header, spacing between stacked components.
+ *   2. Prose typography for the rendered Markdown guide/template/example
+ *      pages (`.prose`), which isn't part of Lily's own catalog.
  *   3. Site-specific hooks that aren't part of the Lily catalog at all
- *      (.brand, .site-hero, .card, .link-list, .insight-card*).
+ *      (.brand, .site-nav, .card-grid, .intro, .link-list).
  *   4. The data-text-size → --user-font-scale mapping TextSizePicker.svelte's
  *      own doc comment describes: the picker only ever sets the data
  *      attribute, the scale value lives here.
- *
- * Everything else — .header, .footer, .button, .icon-button,
- * .skip-link, .theme-picker*, .text-size-picker*, .share-picker* — is
- * left to whichever Lily theme is loaded. Adapted from the equivalent
- * file in joelparkerhenderson.github.io, trimmed to what this smaller
- * site actually uses.
  * ========================================================================= */
 
 *,
@@ -33,12 +25,6 @@
 	box-sizing: border-box;
 }
 
-/* Standard visually-hidden utility — used by the picker status regions
-   (theme-picker) their packages' own docs recommend: present for
-   assistive technology, invisible in the icon-only header.
-   .share-picker-status is included here too: the share-picker package
-   always renders that status paragraph (never [hidden], by design — a
-   live region needs to stay in the a11y tree). */
 .visually-hidden,
 .share-picker-status {
 	position: absolute;
@@ -57,10 +43,17 @@ html {
 	scroll-behavior: smooth;
 }
 
-/* TextSizePicker.svelte's slugs, mapped to a scale factor. "default" is
-   deliberately absent: the base rule above already falls back to 1. */
+html[data-text-size='smallest'] {
+	--user-font-scale: 0.625;
+}
+html[data-text-size='smaller'] {
+	--user-font-scale: 0.75;
+}
 html[data-text-size='small'] {
 	--user-font-scale: 0.875;
+}
+html[data-text-size='normal'] {
+	--user-font-scale: 1;
 }
 html[data-text-size='large'] {
 	--user-font-scale: 1.125;
@@ -72,208 +65,318 @@ html[data-text-size='largest'] {
 	--user-font-scale: 1.375;
 }
 
-@media (prefers-reduced-motion: reduce) {
-	html {
-		scroll-behavior: auto;
-	}
-	*,
-	*::before,
-	*::after {
-		animation-duration: 0.001ms !important;
-		transition-duration: 0.001ms !important;
-	}
-}
-
 body {
 	margin: 0;
-	background: var(--lily-surface, var(--color-base-100));
-	color: var(--lily-text, var(--color-base-content));
-	font-family: var(--lily-font-body, system-ui, sans-serif);
-	line-height: 1.55;
-	-webkit-font-smoothing: antialiased;
-}
-
-h1,
-h2,
-h3,
-h4 {
-	line-height: 1.2;
-	font-weight: 700;
-	text-wrap: balance;
-}
-
-p {
-	max-width: 68ch;
-}
-
-/* Resting-state color uses --color-base-content, not --color-primary:
-   --color-primary is a button-background token, only guaranteed to
-   contrast against its own paired --color-primary-content, and falls
-   short of 4.5:1 as plain text against the page background in some
-   themes. --color-base-content is the token every theme guarantees is
-   readable on its own base background; --color-primary is kept as the
-   hover/focus accent. */
-a:not([class*='button']) {
+	background: var(--color-base-100);
 	color: var(--color-base-content);
+	font-family:
+		system-ui,
+		-apple-system,
+		'Segoe UI',
+		Roboto,
+		sans-serif;
+	line-height: 1.6;
 }
-a:not([class*='button']):hover,
-a:not([class*='button']):focus-visible {
-	color: var(--color-primary);
-}
-a:not([class]) {
-	text-decoration-thickness: from-font;
+
+/* Links use the theme's text colour, underlined: the accent (primary) colour
+ * fails WCAG AA contrast on the page or card background in about half of the
+ * 45 themes (checked with axe-core on every theme). */
+a {
+	color: var(--color-base-content);
+	text-decoration: underline;
 	text-underline-offset: 0.15em;
 }
 
-/* ---------------------------------------------------------------------------
- * Page layout — positions/arranges Lily's headless components; the theme
- * supplies their look, not their placement.
- * ------------------------------------------------------------------------- */
+a:hover {
+	text-decoration-thickness: 2px;
+}
 
 .site-header-bar {
 	display: flex;
 	align-items: center;
-	justify-content: space-between;
-	gap: 1rem;
-	padding-block: 0.75rem;
+	gap: 1.5rem;
+	padding: 0.75rem 0;
 	flex-wrap: wrap;
 }
 
-.site-header-nav {
-	display: flex;
+.brand {
+	display: inline-flex;
 	align-items: center;
+	gap: 0.5rem;
+	text-decoration: none;
+	color: inherit;
+	font-size: 1.05rem;
+}
+
+.brand-icon {
+	flex-shrink: 0;
+	border-radius: var(--radius-field, 0.25rem);
+}
+
+.site-nav {
+	display: flex;
 	gap: 1.25rem;
+	flex: 1 1 auto;
 	flex-wrap: wrap;
+}
+
+.site-nav a {
+	text-decoration: none;
+	color: var(--color-base-content);
+}
+
+.site-nav a:hover,
+.site-nav a:focus-visible {
+	color: var(--color-primary);
 }
 
 .site-header-controls {
 	display: flex;
 	align-items: center;
 	gap: 0.5rem;
-	flex-wrap: wrap;
+	margin-left: auto;
 }
-/* The three picker controls share Lily's 2.5rem target-size baseline,
-   so they line up exactly with no per-control size overrides here. */
 
-.brand {
-	display: inline-flex;
-	align-items: center;
-	gap: 0.6rem;
-	font-size: 1.05rem;
-	color: inherit;
+/* --- Phones: search opens over the picker buttons ---
+ * The theme drops the search panel below its button, which on a narrow
+ * screen runs off the edge and covers the page. At 40rem and below the panel
+ * instead fills the row of picker buttons, full width, inside the header (with
+ * its ⏎ button), and the other pickers are hidden only while it is open. The
+ * theme positions the panel inside :where() (zero specificity), so these plain
+ * class selectors win. Logical properties keep it correct for right-to-left
+ * pages (ar, ur).
+ */
+@media (max-width: 40rem) {
+	.site-header-controls {
+		position: relative;
+		flex: 1 1 100%;
+		justify-content: flex-end;
+		margin-left: 0;
+	}
+
+	.site-header-controls .picker-bar,
+	.site-header-controls .search-picker {
+		position: static;
+	}
+
+	.site-header-controls .search-picker-panel:not([hidden]) {
+		position: absolute;
+		inset-block: 0;
+		inset-inline: 0;
+		z-index: 20;
+		display: flex;
+		align-items: stretch;
+		min-width: 0;
+		max-height: none;
+		margin: 0;
+		padding: 0.25rem;
+		background-color: var(--lily-surface, var(--color-base-100));
+	}
+
+	.site-header-controls .search-picker-form {
+		flex: 1 1 auto;
+		min-width: 0;
+	}
+
+	.site-header-controls .search-picker-input {
+		flex: 1 1 auto;
+		min-width: 0;
+	}
+
+	.site-header-controls .picker-bar:has(.search-picker-panel:not([hidden])) > :not(.search-picker),
+	.site-header-controls .picker-bar:has(.search-picker-panel:not([hidden])) .search-picker-button {
+		visibility: hidden;
+	}
+}
+
+main {
+	max-width: 64rem;
+	margin: 0 auto;
+	padding: 2rem 1rem 4rem;
+}
+
+.site-footer {
+	border-top: 1px solid var(--lily-border, color-mix(in oklch, var(--color-base-content) 20%, transparent));
+	margin-top: 3rem;
+	padding: 2rem 0;
+	font-size: 0.9rem;
+	color: var(--color-base-content);
+}
+
+/* Full-strength text: fading it with opacity dropped contrast below 4.5:1 (WCAG AA). */
+.site-footer-notice {
+	margin: 0;
+}
+
+.back-link {
+	display: inline-block;
+	margin-bottom: 1.5rem;
 	text-decoration: none;
 }
 
-.site-hero {
-	padding-block: 3rem 2.5rem;
-}
-.site-hero p {
-	max-width: 62ch;
-	font-size: 1.08rem;
+/* --- Prose: typography for rendered Markdown content --- */
+.prose {
+	max-width: 42rem;
 }
 
-.page-hero {
-	padding-block: 2.5rem 1rem;
+.prose :is(h1, h2, h3, h4) {
+	line-height: 1.25;
 }
-.page-hero p {
-	max-width: 62ch;
-	font-size: 1.05rem;
+
+.prose h1 {
+	margin-top: 0;
+}
+
+.prose :is(ul, ol) {
+	padding-left: 1.5rem;
+}
+
+.prose pre {
+	background: var(--color-base-200);
+	padding: 1rem;
+	border-radius: var(--radius-box, 0.5rem);
+	overflow-x: auto;
+}
+
+.prose code {
+	background: var(--color-base-200);
+	padding: 0.1em 0.35em;
+	border-radius: 0.25em;
+}
+
+.prose pre code {
+	background: none;
+	padding: 0;
+}
+
+.prose blockquote {
+	border-left: 3px solid var(--color-primary);
+	margin-left: 0;
+	padding-left: 1rem;
+	color: var(--color-base-content);
+}
+
+.prose table {
+	border-collapse: collapse;
+	width: 100%;
+	overflow-x: auto;
+	display: block;
+}
+
+.prose :is(th, td) {
+	border: 1px solid var(--lily-border, color-mix(in oklch, var(--color-base-content) 20%, transparent));
+	padding: 0.5rem;
+	text-align: left;
+}
+
+/* --- Card grids: guide / templates / examples indexes --- */
+.card-grid {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+	display: grid;
+	grid-template-columns: repeat(auto-fill, minmax(15rem, 1fr));
+	gap: 1rem;
 }
 
 .card {
-	margin-block: 1.75rem;
-	scroll-margin-top: 3.5rem;
-}
-.card > h2 {
-	margin-block-start: 0;
-	font-size: 1.4rem;
-}
-.card > p:first-of-type {
-	opacity: 0.85;
+	border: 1px solid var(--lily-border, color-mix(in oklch, var(--color-base-content) 20%, transparent));
+	border-radius: var(--radius-box, 0.5rem);
+	padding: 1rem;
+	background: var(--color-base-200);
 }
 
-.section-group {
-	margin-block: 1.75rem;
-}
-.section-group h3 {
-	font-size: 1rem;
-	opacity: 0.85;
-	margin-block-end: 0.5rem;
-}
-.link-list {
-	list-style: none;
-	margin: 0;
-	padding: 0;
-	display: grid;
-	gap: 0.4rem;
-}
-
-.promo-tile-cta {
+.card-title {
 	font-weight: 600;
+	text-decoration: none;
+}
+
+.card-description {
+	margin: 0.5rem 0 0;
+	font-size: 0.9rem;
 	color: var(--color-base-content);
 }
-.promo-tile-cta:hover,
-.promo-tile-cta:focus-visible {
-	color: var(--color-primary);
+
+/* --- Home page intro ---
+ * Named `.intro`, not `.hero`: Lily's own catalog already styles a
+ * `.hero` class hook as a filled, centered banner (background-color:
+ * var(--color-primary)) — reusing that name here silently pulled in
+ * that styling, leaving this section's paragraph text (page-background
+ * contrast) unreadable against the primary-coloured box it landed on.
+ */
+.intro {
+	padding: 2rem 0 1rem;
 }
 
-/* Text-only cards for the /skills/ page — no image, unlike a promo-tile. */
-.insight-card-grid {
-	display: grid;
-	grid-template-columns: repeat(auto-fit, minmax(16rem, 1fr));
-	gap: 1.25rem;
-	margin-block: 1.5rem 2.5rem;
+.intro h1 {
+	font-size: 2.25rem;
+	margin-bottom: 0.5rem;
 }
-.insight-card {
+
+.intro p {
+	font-size: 1.15rem;
+	max-width: 42rem;
+	color: var(--color-base-content);
+}
+
+.button-row {
 	display: flex;
-	flex-direction: column;
-	padding: 1.5rem 1.75rem;
-}
-.insight-card h3 {
-	margin-block: 0 0.4rem;
-	font-size: 1.05rem;
-}
-.insight-card p {
-	margin: 0.35rem 0 0;
-	font-size: 0.92rem;
+	gap: 0.75rem;
+	flex-wrap: wrap;
+	margin: 1.5rem 0;
 }
 
-/* ---------------------------------------------------------------------------
- * Footer sitemap
- * ------------------------------------------------------------------------- */
+.button {
+	display: inline-block;
+	padding: 0.6rem 1.1rem;
+	border-radius: var(--radius-field, 0.5rem);
+	background: var(--color-primary);
+	color: var(--color-primary-content);
+	text-decoration: none;
+	font-weight: 600;
+}
 
-.footer-nav {
-	display: grid;
-	grid-template-columns: repeat(auto-fit, minmax(10rem, 1fr));
-	gap: 1.5rem;
-	padding-block: 2rem 1.5rem;
+.button.secondary {
+	background: var(--color-base-200);
+	color: var(--color-base-content);
 }
-.footer-nav-column h2 {
-	font-size: 0.85rem;
-	text-transform: uppercase;
-	letter-spacing: 0.04em;
-	margin: 0 0 0.6rem;
-	opacity: 0.75;
-}
-.footer-nav-column ul {
+
+/* --- Home page: a vertical list rather than a grid of tiles --- */
+.link-list {
 	list-style: none;
-	margin: 0;
+	margin: 1.5rem 0;
 	padding: 0;
-	display: grid;
-	gap: 0.4rem;
-}
-.footer-colophon {
-	padding-block: 1rem 1.5rem;
-	border-top: 1px solid var(--lily-border, var(--color-base-300));
-	font-size: 0.9rem;
+	border-top: 1px solid var(--lily-border, color-mix(in oklch, var(--color-base-content) 20%, transparent));
 }
 
-/* Print: strip header, footer, and picker chrome so "Print / save as PDF"
-   produces a clean document, not the whole site frame. */
-@media print {
-	.header,
-	.footer,
-	.no-print {
-		display: none !important;
-	}
+.link-list-item {
+	padding: 1rem 0;
+	border-bottom: 1px solid var(--lily-border, color-mix(in oklch, var(--color-base-content) 20%, transparent));
+}
+
+.link-list-title {
+	font-weight: 600;
+	text-decoration: none;
+}
+
+.link-list-description {
+	margin: 0.35rem 0 0;
+	font-size: 0.9rem;
+	color: var(--color-base-content);
+}
+
+/* Code blocks are keyboard-focusable (they scroll sideways on narrow screens). */
+.prose pre:focus-visible {
+	outline: 2px solid var(--color-base-content);
+	outline-offset: 2px;
+}
+
+/* Picker bar buttons: visible hover and open state on every theme. */
+button[class*="-picker-button"] {
+  transition: background-color 150ms, color 150ms, border-color 150ms;
+}
+button[class*="-picker-button"]:hover:not(:disabled),
+button[class*="-picker-button"][aria-expanded="true"] {
+  background-color: color-mix(in srgb, currentColor 16%, transparent) !important;
+  border-color: currentColor !important;
 }

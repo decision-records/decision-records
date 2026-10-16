@@ -18,7 +18,7 @@ Contents:
 - [How to start using decision records](#how-to-start-using-decision-records)
 - [Why are decision records better than just notes?](#why-are-decision-records-better-than-just-notes)
 - [How to start using decision records with tools](#how-to-start-using-decision-records-with-tools)
-- [Use decision records with Claude](#use-decision-records-with-claude)
+- [Skills on AI](#skills-on-ai)
 - [Suggestions for writing good decision records](#suggestions-for-writing-good-decision-records)
 - [Teamwork advice for decision records](#teamwork-advice-for-decision-records)
 - [Teamwork questions for decision records](#teamwork-questions-for-decision-records)
@@ -26,15 +26,16 @@ Contents:
 
 What's in this repository:
 
-- [guide](guide) - what a decision record is, why people use them, lifecycle, governance, and more.
-- [template](template) - copy-paste template with markdown formatting and step-by-step suggestions.
-- [tutorial](tutorial) - a hands-on, step-by-step walkthrough: write your first decision record in under 20 minutes.
-- [examples](examples) - worked examples across strategy, sales, marketing, product, HR, risk, project, and technology decisions.
-- [checklist](checklist): checklists for deciding whether to write one, writing it well, reviewing it, and running the practice across an organization.
-- [help](help) — FAQ, troubleshooting, and a glossary for common questions leaders raise when adopting this.
-- [spec](spec) — the condensed specification: template fields, core benefits, best practices.
+- [guide](locales/en-us/guide) - what a decision record is, why people use them, lifecycle, governance, and more.
+- [template](locales/en-us/template) - copy-paste template with markdown formatting and step-by-step suggestions.
+- [tutorial](locales/en-us/tutorial) - a hands-on, step-by-step walkthrough: write your first decision record in under 20 minutes.
+- [examples](locales/en-us/examples) - worked examples across strategy, sales, marketing, product, HR, risk, project, and technology decisions.
+- [checklist](locales/en-us/checklist): checklists for deciding whether to write one, writing it well, reviewing it, and running the practice across an organization.
+- [help](locales/en-us/help) — FAQ, troubleshooting, and a glossary for common questions leaders raise when adopting this.
+- [spec](spec) — the specification of this repository: layout, content, locales, website, and agents.
+- [locales](locales) — the content, one directory per locale; `en-us` is the English source of truth.
 - [skills](skills) — Claude Skills that apply this repository's templates and checklists inside an AI assistant: one for writing a decision record, one for maintaining this repository.
-- [site](site) — SvelteKit source for [decision-records.github.io](https://decision-records.github.io), which promotes the skills above.
+- [decision-records.github.io](decision-records.github.io) — SvelteKit 3 source for [decision-records.github.io](https://decision-records.github.io), which promotes the skills above.
 
 ## What is a decision record?
 
@@ -70,7 +71,7 @@ If you can imagine someone on your team asking "wait, why did we do it this way?
 
 ## Decision record template
 
-See our file [template.md](/template/template.md) which uses these major sections:
+See our file [template](locales/en-us/template/index.md) which uses these major sections:
 
 - **Title**: short present tense imperative up to 50 characters.
 
@@ -170,15 +171,15 @@ For example:
 
 - If you like wikis, such as MediaWiki, then create a decision record wiki, with a wiki page per decision record.
 
-## Use decision records with Claude
+## Skills on AI
 
-If you use [Claude Code](https://claude.com/claude-code) or another agent that supports [Claude Skills](https://code.claude.com/docs/en/skills), this repository ships two of them in [skills](skills):
+If you use [Claude Code](https://claude.com/claude-code) or another agent that supports [Claude Skills](https://code.claude.com/docs/en/skills), this repository ships two skills on AI in [skills](skills):
 
 - [decision-records-skill](skills/decision-records-skill) — for anyone writing a decision record. Walks through whether a choice needs one, choosing the lightweight or comprehensive template, drafting it, filing it, and the pre-publish checklist.
 
 - [decision-records-maintainer-skill](skills/decision-records-maintainer-skill) — for maintainers of this repository itself: adding a worked example, keeping the examples index and cross-references consistent, and this repo's file conventions.
 
-To use one, clone this repository and copy the skill folder you want into wherever your agent loads project skills from (for Claude Code, typically `.claude/skills/<name>` in your own project) — then ask your assistant to use it. See [decision-records.github.io/skills](https://decision-records.github.io/skills/) for more, and [site](site) for that page's source.
+To use one, clone this repository and copy the skill folder you want into wherever your agent loads project skills from (for Claude Code, typically `.claude/skills/<name>` in your own project) — then ask your assistant to use it. See [decision-records.github.io/skills](https://decision-records.github.io/skills/) for more, and [decision-records.github.io](decision-records.github.io) for that page's source.
 
 ## Suggestions for writing good decision records
 

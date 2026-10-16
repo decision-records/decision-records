@@ -1,6 +1,5 @@
 <script lang="ts">
-	import { ContainerWithFixedWidth } from 'lily-design-system-svelte-headless';
-
+	// The one hand-authored page outside the locale routes (English only).
 	const REPO = 'https://github.com/decision-records/decision-records';
 
 	const skills = [
@@ -14,62 +13,59 @@
 			id: 'decision-records-maintainer-skill',
 			audience: 'For maintainers of this repository',
 			blurb:
-				'Covers this repo’s own conventions: the index.md / README.md symlink pattern, adding a new worked example, the root README’s versioned header, and known cross-reference gaps to check before closing related work.'
+				'Covers this repo’s own conventions: the index.md / README.md symlink pattern, the locales layout, adding a new worked example, the root README’s versioned header, and known cross-reference gaps to check before closing related work.'
 		}
 	];
 </script>
 
 <svelte:head>
-	<title>Skills — Decision Records</title>
+	<title>Skills on AI</title>
 </svelte:head>
 
-<main id="content">
-	<section class="page-hero">
-		<ContainerWithFixedWidth maxWidth="72rem">
-			<h1>Claude Skills for decision records</h1>
-			<p>
-				A <a href="https://code.claude.com/docs/en/skills">Claude Skill</a> is a packaged set of
-				instructions an AI assistant loads for a particular kind of task. This project ships two,
-				living in
-				<a href={`${REPO}/tree/main/skills`}><code>skills/</code></a>
-				alongside the guide, template, and examples they draw on.
-			</p>
-		</ContainerWithFixedWidth>
-	</section>
+<div class="intro">
+	<h1>Skills on AI</h1>
+	<p>
+		A <a href="https://code.claude.com/docs/en/skills">Claude Skill</a> is a packaged set of instructions an AI
+		assistant loads for a particular kind of task. This project ships two skills on AI, living in
+		<a href={`${REPO}/tree/main/skills`}><code>skills/</code></a>
+		alongside the guide, template, and examples they draw on.
+	</p>
+</div>
 
-	<ContainerWithFixedWidth maxWidth="72rem">
-		<div class="insight-card-grid">
-			{#each skills as skill (skill.id)}
-				<div class="card insight-card">
-					<h3><code>{skill.id}</code></h3>
-					<p><strong>{skill.audience}</strong></p>
-					<p>{skill.blurb}</p>
-					<p>
-						<a href={`${REPO}/blob/main/skills/${skill.id}/SKILL.md`}>Read SKILL.md</a>
-					</p>
-				</div>
-			{/each}
-		</div>
+<ul class="card-grid">
+	{#each skills as skill (skill.id)}
+		<li class="card">
+			<h2 class="card-heading"><code>{skill.id}</code></h2>
+			<p><strong>{skill.audience}</strong></p>
+			<p class="card-description">{skill.blurb}</p>
+			<p><a href={`${REPO}/blob/main/skills/${skill.id}/SKILL.md`}>Read SKILL.md</a></p>
+		</li>
+	{/each}
+</ul>
 
-		<div class="section-group">
-			<h3>Using a skill</h3>
-			<ol>
-				<li>Clone the repo: <code>git clone {REPO}.git</code></li>
-				<li>
-					Copy the skill folder you want into wherever your agent loads project skills from — for
-					Claude Code, that's typically <code>.claude/skills/&lt;name&gt;</code> in your own
-					project.
-				</li>
-				<li>
-					Ask your assistant to use it — e.g. "use decision-records-skill to help me write a
-					decision record about &hellip;".
-				</li>
-			</ol>
-			<p>
-				The skill files themselves reference the rest of this repo by relative path (its guide,
-				template, tutorial, examples, and checklist), so keep the skill folder inside a checkout
-				of this repo rather than copying <code>SKILL.md</code> alone.
-			</p>
-		</div>
-	</ContainerWithFixedWidth>
-</main>
+<div class="prose">
+	<h2>Using a skill</h2>
+	<ol>
+		<li>Clone the repo: <code>git clone {REPO}.git</code></li>
+		<li>
+			Copy the skill folder you want into wherever your agent loads project skills from — for Claude Code, that's
+			typically <code>.claude/skills/&lt;name&gt;</code> in your own project.
+		</li>
+		<li>
+			Ask your assistant to use it — e.g. "use decision-records-skill to help me write a decision record about
+			&hellip;".
+		</li>
+	</ol>
+	<p>
+		The skill files themselves reference the rest of this repo by relative path (its guide, template, tutorial,
+		examples, and checklist under <code>locales/en-us/</code>), so keep the skill folder inside a checkout of this
+		repo rather than copying <code>SKILL.md</code> alone.
+	</p>
+</div>
+
+<style>
+	.card-heading {
+		margin: 0 0 0.5rem;
+		font-size: 1.05rem;
+	}
+</style>

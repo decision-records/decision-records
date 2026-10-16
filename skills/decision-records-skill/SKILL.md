@@ -9,7 +9,7 @@ Help a person write a good decision record (DR) — for any domain: strategy, sa
 marketing, product, HR, risk, project/operations, or software architecture, not
 just engineering. Work through the steps below with them; don't dump the whole
 repo at once. This skill lives inside the `decision-records` repo, so the paths
-below (`../../guide/index.md`, etc.) are relative to this skill's own folder.
+below (`../../locales/en-us/guide/index.md`, etc.) are relative to this skill's own folder.
 
 ## Step 0 — Does this decision need a record?
 
@@ -24,7 +24,7 @@ Ask, or infer from context. Write a record if **any** of these are true:
 Skip it if the decision is cheap to reverse, affects only the decision-maker or one
 self-contained team, is already covered by existing policy, or is explicitly
 temporary (a pilot, workaround, or time-boxed experiment). Full checklist:
-`../../checklist/index.md#checklist-does-this-decision-need-a-decision-record`.
+`../../locales/en-us/checklist/index.md#checklist-does-this-decision-need-a-decision-record`.
 
 ## Step 1 — Choose lightweight or comprehensive
 
@@ -41,7 +41,7 @@ Default to **lightweight** — six fields, one page:
 5. **Decision** — the choice in plain active voice: "We will do X."
 6. **Consequences** — what changes as a result, not a rehash of the options debate.
 
-Move to **comprehensive** — the full template at `../../template/index.md` — only
+Move to **comprehensive** — the full template at `../../locales/en-us/template/index.md` — only
 for high-stakes, multi-stakeholder decisions. It adds Assumptions, Constraints,
 optional Cost/SWOT/PEST analysis, per-person Opinions, a separate Argument
 section, and Related decisions/requirements/artifacts/principles/notes.
@@ -51,9 +51,9 @@ section, and Related decisions/requirements/artifacts/principles/notes.
 Write the six lightweight fields above in order, one to a few sentences each.
 Keep the whole thing to about one page — if it's sprawling, it's probably more
 than one decision; split it. For a fully worked, field-by-field walkthrough with
-a realistic non-technical example, follow `../../tutorial/index.md`. For a
+a realistic non-technical example, follow `../../locales/en-us/tutorial/index.md`. For a
 model close to the user's own domain, browse the table in
-`../../examples/index.md` (strategy, sales, marketing, product, HR, risk,
+`../../locales/en-us/examples/index.md` (strategy, sales, marketing, product, HR, risk,
 project, and technology examples are all there).
 
 ## Step 3 — File it
@@ -61,7 +61,7 @@ project, and technology examples are all there).
 Store it where the team already works — a version-controlled `decisions/`
 folder, a wiki space, or a shared drive, named consistently, e.g.
 `YYYY-MM-DD-short-title-slug.md`. Keep (or start) an index listing every
-record's title, status, and date — see `../../examples/index.md` for the
+record's title, status, and date — see `../../locales/en-us/examples/index.md` for the
 pattern. Many teams get faster adoption calling the folder `decisions/` rather
 than `decision-records/` — same template, more approachable name.
 
@@ -74,7 +74,7 @@ than `decision-records/` — same template, more approachable name.
   deadline (e.g., "comments by Friday, then default-accepted").
 - Decision-maker(s) and owner are named, not implied.
 
-Full pre-publish and review checklists: `../../checklist/index.md`.
+Full pre-publish and review checklists: `../../locales/en-us/checklist/index.md`.
 
 ## Step 5 — After acceptance
 
@@ -88,11 +88,11 @@ Full pre-publish and review checklists: `../../checklist/index.md`.
 
 ## Reference material in this repo
 
-- `../../guide/index.md` — full leadership-oriented guide: why this matters,
+- `../../locales/en-us/guide/index.md` — full leadership-oriented guide: why this matters,
   anatomy, lifecycle, governance, best practices, pitfalls.
-- `../../template/index.md` — the comprehensive template.
-- `../../tutorial/index.md` — hands-on walkthrough (~20 minutes).
-- `../../examples/index.md` — worked examples across business functions.
-- `../../checklist/index.md` — checklists for every stage, and for running the
+- `../../locales/en-us/template/index.md` — the comprehensive template.
+- `../../locales/en-us/tutorial/index.md` — hands-on walkthrough (~20 minutes).
+- `../../locales/en-us/examples/index.md` — worked examples across business functions.
+- `../../locales/en-us/checklist/index.md` — checklists for every stage, and for running the
   practice across an organization.
-- `../../help/index.md` — FAQ, troubleshooting table, and glossary.
+- `../../locales/en-us/help/index.md` — FAQ, troubleshooting table, and glossary.

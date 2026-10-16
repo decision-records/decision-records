@@ -1,38 +1,67 @@
-# decision-records.github.io
+# Decision Records — website
 
-The SvelteKit source for https://decision-records.github.io — a small site that
-promotes this repo's [Claude Skills](../skills) and links back to the
-[guide](../guide), [template](../template), [tutorial](../tutorial),
-[examples](../examples), and [checklist](../checklist).
+The published website for the [Architecture Decision
+Record](https://github.com/decision-records/decision-records)
+project: a guide, tutorial, templates, examples, checklists, and help for decision records. Live at
+<https://decision-records.github.io/>.
 
-Built with [SvelteKit](https://kit.svelte.dev) + `adapter-static`, and the
-[Lily Design System](https://lilydesignsystem.github.io/)'s theme-picker,
-text-size-picker, and share-picker packages — modeled on
-[joelparkerhenderson.github.io](https://github.com/joelparkerhenderson/joelparkerhenderson.github.io).
+Built with [SvelteKit](https://svelte.dev/docs/kit) (`@sveltejs/adapter-static`,
+fully prerendered) and the [Lily Design System](https://lilydesignsystem.com/)
+(headless components, theme/text-size/share pickers). Content is Markdown from
+the parent repo's `locales/`, rendered at build time with [marked](https://marked.js.org/).
 
-## Develop
+## Where the content comes from
 
-```sh
-npm install
-npm run dev
-```
+This directory lives inside the `decision-records` monorepo, one
+level below the repository root. Every page is a locale page: `scripts/sync-locales.mjs`
+copies each locale's pages and its root `index.md` (the translated README, the
+landing page) from `../locales/<code>/` into `src/content/locales/` and writes
+`src/lib/locale-pages.json` and `locale-peers.json`. English is the `en-us`
+locale.
 
-## Publish
-
-This directory lives in the `decision-records/decision-records` monorepo, but
-GitHub Pages for an org site must be served from the root of a repo named
-`<org>.github.io`. Publish this subtree to that separate repo with `git
-subtree`:
+**Never hand-edit files under `src/content/`.** Edit `../locales/` instead, then
+regenerate:
 
 ```sh
-# One-time: add the target repo as a remote.
-git remote add site-origin git@github.com:decision-records/decision-records.github.io.git
-
-# From the repo root, after committing changes under site/:
-git subtree push --prefix=site site-origin main
+pnpm run content   # sync locales, search indexes, llms.txt/json, sitemap.xml
 ```
 
-Pushing to `decision-records.github.io`'s `main` branch triggers
-`.github/workflows/deploy.yml` in that repo, which builds and deploys to
-GitHub Pages. Nothing needs to be built or deployed from this monorepo
-directly — only the source is published.
+## Development
+
+```sh
+pnpm install
+pnpm run dev       # http://localhost:5173
+pnpm run build     # prerenders the full site into build/
+pnpm run preview   # serve the production build locally
+pnpm run check     # svelte-check
+```
+
+## Structure
+
+- `src/content/locales/` : synced Markdown source (see above).
+- `src/routes/[locale]/…` : the locale routes (English is `en-us`), prerendered from
+  `locales/` via `src/lib/server/locale-pages.js`; `/<locale>/?<query>` is search.
+- `src/routes/+page.svelte` : the language router at `/` (reads
+  `navigator.languages`, goes to the matching locale route, else `/en-us/`).
+  `/skills/` is the one hand-authored page outside the locale routes.
+- `src/lib/components/Header.svelte`, `Footer.svelte`, `SearchResults.svelte` : the site chrome and search results.
+- `static/themes/*.css` : the 45 Lily Design System themes, switched at
+  runtime by `ThemePicker.svelte`.
+
+## Publishing
+
+This directory is published to its own
+[`decision-records.github.io`](https://github.com/architecture-decision-record/decision-records.github.io)
+repository with `git subtree`, from the parent monorepo's root:
+
+```sh
+git subtree push --prefix=decision-records.github.io \
+  git@github.com:architecture-decision-record/decision-records.github.io.git main
+```
+
+[`.github/workflows/deploy.yml`](.github/workflows/deploy.yml) — present in
+this directory so it lands at the *root* of the split-out repository — then
+builds and deploys to GitHub Pages on every push to that repository's
+`main` branch. For the first deployment, set repository **Settings → Pages
+→ Build and deployment → Source → GitHub Actions** on the
+`decision-records.github.io` repository.

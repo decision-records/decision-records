@@ -1,2 +1,4 @@
 User-agent: *
 Allow: /
+
+Sitemap: https://decision-records.github.io/sitemap.xml

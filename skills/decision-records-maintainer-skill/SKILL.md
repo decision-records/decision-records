@@ -12,6 +12,10 @@ rather than maintaining the repo.
 
 ## Repo map
 
+Content lives under `locales/en-us/` (the English source of truth; see
+`spec/locales.md`). Paths in the table are relative to it, except `spec/`,
+`skills/`, and `decision-records.github.io/`, which are top-level.
+
 | Directory | Content |
 |---|---|
 | `guide/` | Leadership-oriented explainer: what/why/anatomy/lifecycle/governance/pitfalls |
@@ -20,7 +24,9 @@ rather than maintaining the repo.
 | `examples/` | Worked, filled-in records across business functions, one per subfolder |
 | `checklist/` | Repeatable checklists for each stage of the practice |
 | `help/` | FAQ, troubleshooting table, glossary |
-| `spec/` | Condensed specification (template fields, benefits, best practices) |
+| `../../spec/` | The specification of this repository (layout, content, locales, website, agents); `spec/decision-record.md` is the condensed decision record specification |
+| `../../AGENTS.md`, `../../AGENTS/` | Agent rules and task guides |
+| `../../decision-records.github.io/` | SvelteKit 3 website; see its `AGENTS.md` |
 | `topics/` | Placeholder subfolders for related concepts (REMAP, DRL, IBIS, QOC, IBM e-Business RAF) — currently empty; the root README's "See also" list points at these names but they have no content yet |
 
 ## File and symlink convention

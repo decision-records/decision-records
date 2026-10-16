@@ -104,4 +104,4 @@ See the [checklist](../checklist/index.md) for a condensed, repeatable version o
 
 ## Worked scenario in full
 
-For a complete, filled-in example built from this tutorial's scenario, see a comparable worked record in [examples/index.md](../examples/index.md) — for instance the [Build vs. buy for a project](../examples/project-build-vs-buy.md) example follows the same structure end to end, including a fully written Consequences section.
+For a complete, filled-in example built from this tutorial's scenario, see a comparable worked record in [examples/index.md](../examples/index.md) — for instance the [Build vs. buy for a project](../examples/project-build-vs-buy/) example follows the same structure end to end, including a fully written Consequences section.
