@@ -7,7 +7,7 @@
     "sections": 6,
     "pages": 31,
     "examples": 25,
-    "locales": 14
+    "locales": 15
   },
   "sections": {
     "guide": [
@@ -150,6 +150,7 @@
   "skills": "https://decision-records.github.io/skills/",
   "locales": [
     "ar_001",
+    "bn_001",
     "cy_001",
     "cy_GB",
     "de_001",

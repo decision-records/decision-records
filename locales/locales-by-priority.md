@@ -5,19 +5,19 @@ Translate into these locales. Translate serially NOT subagents. After each local
 - en-us (done; source of truth)
 - cy-gb (done; cy-001 is a generated copy)
 - zh-cn (done)
-- zh-001
-- hi-001
+- zh-001 (done; generated copy of zh-cn)
+- hi-001 (done; generated copy of hi-in)
 - es-001 (done)
-- fr-001
-- ar-001
-- bn-001
+- fr-001 (done)
+- ar-001 (done)
+- bn-001 (done)
 - ru-001
 - pt-001
 - ur-001
 - id-001
 - ja-001
 - vi-001
-- de-001
+- de-001 (done)
 - sv-001
 - ko-001
 - nl-001

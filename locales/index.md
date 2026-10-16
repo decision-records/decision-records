@@ -1,4 +1,5 @@
 * [العربية (العالم)](ar-001/)
+* [বাংলা (বিশ্ব)](bn-001/)
 * [Cymraeg (Byd)](cy-001/)
 * [Cymraeg (Prydain Fawr)](cy-gb/)
 * [Deutsch (Welt)](de-001/)

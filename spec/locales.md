@@ -20,6 +20,7 @@ stray or duplicate directories fail the audit and the sync.
 | Directory and route | Picker value | Endonym (Intl) |
 |---|---|---|
 | `ar-001` | `ar_001` | العربية (العالم) |
+| `bn-001` | `bn_001` | বাংলা |
 | `cy-001` | `cy_001` | Cymraeg (Y Byd) |
 | `cy-gb` | `cy_GB` | Cymraeg (Y Deyrnas Unedig) |
 | `de-001` | `de_001` | Deutsch |
