@@ -1,55 +1,108 @@
 # Entrer sur le segment du marché intermédiaire
 
-* Statut : accepté
+* Statut : demande de commentaires
 * Date : 2026-03-10
-* Décideur(s) : PDG, avec l'approbation du conseil d'administration
+* Décideur(s) : PDG, avec l'avis du conseil d'administration (à confirmer)
 * Propriétaire : VP Stratégie
 
-Résumé : nous étendrons notre approche commerciale, jusqu'ici réservée aux grandes entreprises, au segment du marché intermédiaire (100 à 1 000 salariés), à partir du 3e trimestre, financée par la réaffectation de 15 % de la capacité de l'équipe de vente grands comptes.
+Résumé : travail en cours. Ceci est un point de départ pour une équipe qui envisage si, et comment, étendre une approche commerciale conçue pour de grands clients à un segment de clients de taille intermédiaire. Il montre comment une équipe peut cadrer la question, débattre des options et recueillir des informations. Il n'enregistre aucune décision.
 
 ## Problème
 
-Notre pipeline grands comptes s'est stabilisé à environ 40 comptes qualifiés par trimestre dans nos territoires accessibles, tandis que le taux de réussite est resté stable depuis deux ans. Dans le même temps, l'intérêt spontané des entreprises plus petites (100 à 1 000 salariés) a triplé d'une année sur l'autre, et nous écartons actuellement cette demande ou la servons mal avec un parcours de vente configuré pour les grands comptes. Le conseil a demandé une voie de croissance crédible au-delà de la saturation des comptes grandes entreprises.
+Une entreprise qui vend à de grands clients voit son pipeline s'aplatir et son taux de réussite stagner, alors que l'intérêt entrant de petites entreprises augmente. Aujourd'hui, elle refuse cette demande ou la sert mal avec une approche commerciale conçue pour de grosses affaires. Le conseil d'administration veut une voie de croissance crédible au-delà de la saturation du segment des grandes entreprises.
+
+Les questions auxquelles l'équipe doit répondre :
+
+* Le segment intermédiaire est-il attractif pour nous (taille, croissance, besoins que nous pouvons satisfaire, concurrence) ?
+* Pouvons-nous y gagner et le servir de façon rentable avec notre produit, notre prix et notre approche commerciale, ou faut-il changer quelque chose ?
+* Comment y entrer, avec quelles ressources, sachant que de nouveaux recrutements peuvent être impossibles ?
+* Qu'est-ce qui nous dirait tôt que cela fonctionne ou non ?
 
 ## Hypothèses
 
-* Les acheteurs du marché intermédiaire se convertissent plus vite (cycle moyen supposé de 45 jours contre 120 pour les grands comptes), mais pour environ un tiers de la valeur moyenne des contrats.
-* Notre produit nécessite une simplification modérée (moins d'étapes de configuration) pour être viable en intégration autonome sur le marché intermédiaire.
-* Les talents commerciaux grands comptes actuels ne sont pas optimisés pour un parcours plus rapide et à moindre contact, et devraient être reformés ou renforcés.
+Chaque hypothèse est à vérifier.
+
+* **Les acheteurs du marché intermédiaire décident plus vite mais dépensent moins par client.** Vérification : interroger des prospects récents de taille intermédiaire et examiner la durée et la taille des affaires dans les données dont nous disposons.
+* **Le produit demande une simplification modeste pour convenir à l'intégration des clients intermédiaires.** Vérification : observer des clients de taille intermédiaire l'utiliser et lister les étapes qui prêtent à confusion.
+* **Les commerciaux actuels peuvent s'adapter à une approche plus rapide et plus légère.** Vérification : demander à l'équipe commerciale ce dont elle aurait besoin et repérer qui l'a déjà fait.
+* **Entrer sur ce segment ne nuira pas aux résultats auprès des grandes entreprises.** Vérification : estimer la capacité que le projet prendrait aux grands comptes, et à quelles équipes.
 
 ## Contraintes
 
-* Aucun recrutement net n'est approuvé pour l'exercice 2026 ; toute démarche sur le marché intermédiaire doit être financée par le budget existant.
-* Les objectifs de revenus grands comptes de l'exercice en cours ne doivent pas être mis en péril.
-* Le service juridique a signalé que nos conditions actuelles de contrat-cadre de services supposent des cycles d'achat à l'échelle des grandes entreprises et nécessiteront une version simplifiée pour les affaires à conclusion plus rapide.
+* Aucun recrutement ne peut être approuvé cette année ; tout projet doit être financé par le budget existant.
+* Les engagements de chiffre d'affaires auprès des grandes entreprises pour l'exercice en cours ne doivent pas être mis en danger.
+* Les conditions contractuelles conçues pour de grands acheteurs peuvent être trop lourdes pour des affaires plus rapides ; le service juridique l'a signalé.
+* Inconnu, à confirmer : la taille du segment dans nos territoires, les prix que le segment acceptera et la charge de support.
 
 ## Options envisagées
 
-* **Rester sur les grands comptes uniquement, investir davantage dans leur développement.** Le risque d'exécution le plus faible, mais cela ne règle pas le plafonnement ; plusieurs administrateurs doutent que cela suffise à atteindre l'objectif de croissance de l'an prochain.
-* **Entrer sur le marché intermédiaire avec une nouvelle équipe dédiée, financée par de nouveaux recrutements.** L'exécution la plus propre, mais bloquée par le gel des embauches de l'année en cours.
-* **Entrer sur le marché intermédiaire en réaffectant 15 % de la capacité de vente grands comptes existante, avec une intégration simplifiée.** Démarrage plus lent qu'une équipe dédiée, mais finançable avec les effectifs actuels et réversible en deux trimestres en cas de contre-performance.
-* **Entrer sur le marché intermédiaire via un partenariat de canal/revendeurs plutôt qu'en vente directe.** Le coût interne le plus bas, mais des appels de référence avec deux entreprises homologues ont indiqué que les démarches pilotées par des partenaires performent environ deux fois moins bien que la vente directe la première année, et nous céderions la relation client.
+Pour chaque option, estimer la valeur, les coûts, le calendrier et les capacités nécessaires, et noter les éléments de preuve qui feraient changer l'équipe d'avis.
+
+* **Rester sur les grandes entreprises et investir davantage dans leur développement.**
+  * Valeur : risque d'exécution le plus faible ; s'appuie sur ce qui fonctionne.
+  * Risques : ne traite pas le pipeline qui s'aplatit ; les sceptiques doutent que cela suffise à atteindre les objectifs de croissance.
+* **Entrer avec une nouvelle équipe dédiée.**
+  * Valeur : exécution la plus nette et concentration.
+  * Postes de coût : recrutement, intégration, salaires, temps de management ; bloqué si les recrutements sont gelés.
+  * Forme du calendrier : lent au départ à cause du recrutement ; longue montée en puissance.
+* **Entrer en réaffectant une partie de la capacité commerciale existante des grands comptes**, avec un processus d'intégration simplifié.
+  * Valeur : finançable tout de suite ; réversible en cas de contre-performance ; données réelles sur l'économie du segment avant un engagement plus important.
+  * Postes de coût : couverture des grands comptes perdue ; reformation ; travail produit et juridique pour une intégration et des conditions plus simples.
+  * Capacités nécessaires : une cellule bien dirigée ; des changements produit ; des conditions contractuelles simplifiées.
+  * Risques : montée en puissance plus lente qu'avec une équipe dédiée ; le pipeline des grands comptes en souffre.
+* **Entrer par des partenaires de distribution ou de revente.**
+  * Valeur : coût interne le plus faible ; portée.
+  * Postes de coût : marge des partenaires, accompagnement, gestion des partenaires.
+  * Risques : moindre maîtrise de la relation client ; résultats pouvant être inférieurs à la vente directe (à vérifier auprès d'entreprises comparables).
+* **Servir le segment avec un produit en libre-service** et sans intervention commerciale. Tester la volonté d'acheter sans contact.
 
 ## Argumentation
 
-L'option de réaffectation est la seule à la fois finançable dans les contraintes de cette année et réversible si l'hypothèse sous-jacente sur la vitesse de conversion du marché intermédiaire se révèle fausse. Elle nous donne aussi de vraies données sur l'économie du marché intermédiaire avant de nous engager sur une équipe dédiée dans la planification budgétaire de l'exercice 2027, plutôt que d'engager des effectifs sur une démarche non éprouvée.
+Points de débat à prévoir :
+
+* **Croissance ou concentration.** Ajouter un segment dilue-t-il ce qui rend l'entreprise bonne auprès des grands comptes ?
+* **Vitesse ou réversibilité.** Quelles options peuvent être défaites à peu de frais si les hypothèses se révèlent fausses ?
+* **Qui paie ?** La réaffectation protège le budget mais déplace le coût vers une attention perdue sur les grands comptes.
+* **Position.** Selon la matrice d'Ansoff, vendre un produit existant à un nouveau marché (développement de marché) est moins risqué que de changer aussi le produit (diversification). Où se situe ce projet ?
+
+Comment l'équipe pourrait évaluer les coûts et les arbitrages :
+
+1. Dimensionner l'opportunité sous forme de fourchette : nombre d'entreprises cibles, part atteignable, valeur d'affaire attendue, taux de réussite et cycle de vente, avec des hypothèses clairement étiquetées.
+2. Chiffrer l'entrée : capacité déplacée, changements produit, travail juridique, marketing, conditions partenaires, et coût d'opportunité de ce que les ventes aux grands comptes feraient autrement.
+3. Comparer les options dans les scénarios optimiste, probable et pessimiste ; comparer le délai de retour et la valeur d'apprentissage.
+4. Choisir à l'avance des indicateurs avancés : opportunités qualifiées, conversion à chaque étape, délai de conclusion et coût d'acquisition d'un client, ainsi que les effets sur le pipeline des grands comptes.
+5. Utiliser une matrice pondérée (valeur, coût, rapidité, réversibilité, risque pour le cœur d'activité) et un pré-mortem.
 
 ## Décision
 
-Nous entrerons sur le segment du marché intermédiaire à partir du 3e trimestre, avec des effectifs issus de la réaffectation de 15 % de la capacité de vente grands comptes vers une cellule marché intermédiaire, avec un parcours d'intégration simplifié et des conditions de contrat-cadre adaptées au segment.
+**Pas encore décidé.** Ceci est un point de départ. Une équipe qui l'utilise doit remplacer cette section par sa propre décision.
+
+Manière suggérée d'aboutir à une décision :
+
+* Confirmer qui décide et ce que le conseil d'administration doit voir.
+* Convenir d'abord des critères et de leur pondération.
+* Recueillir les éléments ci-dessus et consigner ce qui a été trouvé.
+* Diffuser pour commentaires, puis décider et mettre à jour le Statut.
 
 ## Implications
 
-* Le VP Ventes identifiera quels 15 % de la capacité grands comptes sont transférés, d'ici la fin du 2e trimestre.
-* Le Produit délimitera la simplification de l'intégration pour une version du 3e trimestre.
-* Le service juridique rédigera une variante simplifiée du contrat-cadre pour les comptes du marché intermédiaire.
-* Le VP Stratégie rapportera au conseil les données de conversion et de coût d'acquisition du marché intermédiaire à la fin des 3e et 4e trimestres, comme base d'une décision d'investissement dans une équipe dédiée pour l'exercice 2027.
-* Les objectifs de revenus grands comptes restent inchangés ; si la réaffectation nuit de façon mesurable au pipeline grands comptes, cette décision sera réexaminée avant la planification de l'exercice 2027.
+Si l'équipe choisit une entrée par étapes, elle devrait :
+
+* Nommer la capacité qui se déplace, et quand, et ce qu'il advient des objectifs sur les grands comptes.
+* Planifier le travail produit, juridique et d'intégration dont le segment a besoin.
+* Convenir de points de contrôle (par exemple à la fin de deux périodes) avec des critères clairs pour poursuivre, élargir ou arrêter.
+* Rendre compte des résultats du segment au conseil d'administration de manière cohérente.
 
 ## Décisions liées
 
-* Ne remplace aucune décision antérieure ; établit une nouvelle stratégie de segment sur laquelle s'appuiera la planification des effectifs de l'exercice 2027.
+* [Passer à une tarification basée sur l'usage](../changement-modele-tarification/) : la tarification d'un nouveau segment peut devoir être repensée.
+* [Choisir une plateforme CRM](../choix-fournisseur-crm/) : les outils des ventes peuvent devoir changer pour une approche plus rapide.
+* Décisions pas encore prises : tarification et offres pour le segment ; stratégie de partenaires ; effectifs de l'an prochain.
 
 ## Notes liées
 
-* Deux administrateurs ont demandé un point de contrôle ferme à la fin du 4e trimestre plutôt qu'un pilote sans limite, consigné ci-dessus comme déclencheur de la planification de l'exercice 2027.
+* Points ouverts : interroger des prospects récents de taille intermédiaire ; lister les raisons d'affaires perdues et gagnées ; demander au service juridique un jeu de conditions plus léger.
+* En savoir plus :
+  * Wikipédia : [Market entry strategy](https://en.wikipedia.org/wiki/Market_entry_strategy), [Ansoff matrix](https://en.wikipedia.org/wiki/Ansoff_matrix), [Market segmentation](https://en.wikipedia.org/wiki/Market_segmentation), [Customer acquisition cost](https://en.wikipedia.org/wiki/Customer_acquisition_cost), [Porter's five forces analysis](https://en.wikipedia.org/wiki/Porter%27s_five_forces_analysis), [SWOT analysis](https://en.wikipedia.org/wiki/SWOT_analysis)
+  * ISO : [ISO 31000 family, Risk management](https://www.iso.org/standards/popular/iso-31000-family)
+  * Vidéo : [The Ansoff Matrix Explained with Example](https://www.youtube.com/watch?v=HeIipDK2CVc) (EPM)

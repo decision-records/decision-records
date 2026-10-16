@@ -20,7 +20,7 @@ Qué hay en este repositorio:
 - [guía](guia): qué es un registro de decisiones, por qué lo usa la gente, ciclo de vida, gobernanza y más.
 - [plantilla](plantilla): plantilla para copiar y pegar con formato Markdown y sugerencias paso a paso.
 - [tutorial](tutorial): un recorrido práctico, paso a paso: escriba su primer registro de decisiones en menos de 20 minutos.
-- [ejemplos](ejemplos): ejemplos desarrollados de decisiones de estrategia, ventas, marketing, producto, RR. HH., riesgo, proyectos y tecnología.
+- [ejemplos](ejemplos): ejemplos de partida (trabajos en curso, no decisiones finales) sobre decisiones de estrategia, ventas, marketing, producto, RR. HH., riesgo, proyectos y tecnología.
 - [lista de verificación](lista-de-verificacion): listas de verificación para decidir si escribir uno, escribirlo bien, revisarlo y llevar la práctica a toda una organización.
 - [ayuda](ayuda): preguntas frecuentes, solución de problemas y un glosario con las dudas habituales de los líderes al adoptar esto.
 - [spec](https://github.com/decision-records/decision-records/tree/main/spec): la especificación de este repositorio: estructura, contenido, configuraciones regionales, sitio web y agentes.

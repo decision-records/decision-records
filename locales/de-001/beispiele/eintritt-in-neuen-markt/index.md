@@ -1,55 +1,108 @@
 # In das Mittelstandssegment einsteigen
 
-* Status: angenommen
+* Status: Kommentierung erbeten
 * Datum: 2026-03-10
-* Entscheidende: CEO, mit Genehmigung des Aufsichtsrats
+* Entscheidende: CEO, mit Beitrag des Aufsichtsrats (noch zu bestätigen)
 * Verantwortlich: VP Strategie
 
-Zusammenfassung: Wir erweitern unseren bisher auf Großunternehmen ausgerichteten Marktzugang um das Mittelstandssegment (100 bis 1.000 Beschäftigte), beginnend im 3. Quartal, finanziert durch die Umschichtung von 15 % der Kapazität des Großkundenvertriebs.
+Zusammenfassung: in Arbeit. Dies ist ein Ausgangspunkt für ein Team, das überlegt, ob und wie ein auf Großkunden ausgerichteter Marktzugang auf ein Segment mittelgroßer Kunden ausgeweitet werden kann. Er zeigt, wie ein Team die Frage fassen, die Optionen diskutieren und Informationen sammeln kann. Er hält keine Entscheidung fest.
 
 ## Problem
 
-Unsere Pipeline im Großkundengeschäft hat sich in den von uns erschließbaren Gebieten bei etwa 40 qualifizierten Konten pro Quartal eingependelt, während die Abschlussquote seit zwei Jahren unverändert ist. Gleichzeitig ist das Eigeninteresse kleinerer Unternehmen (100 bis 1.000 Beschäftigte) im Jahresvergleich auf das Dreifache gestiegen, und wir weisen diese Nachfrage derzeit ab oder bedienen sie schlecht mit einem auf Großkunden ausgelegten Vertriebsprozess. Der Aufsichtsrat hat einen glaubwürdigen Wachstumspfad jenseits der Sättigung im Großkundengeschäft verlangt.
+Ein Unternehmen, das an Großkunden verkauft, sieht seine Pipeline abflachen und seine Gewinnquote stagnieren, während das eingehende Interesse kleinerer Unternehmen wächst. Heute weist es diese Nachfrage ab oder bedient sie schlecht mit einem Vertriebsansatz, der für große Abschlüsse gedacht ist. Der Aufsichtsrat wünscht einen glaubwürdigen Wachstumspfad jenseits der Sättigung des Großkundensegments.
+
+Die Fragen, die das Team beantworten muss:
+
+* Ist das Mittelstandssegment für uns attraktiv (Größe, Wachstum, Bedürfnisse, die wir erfüllen können, Wettbewerb)?
+* Können wir es mit unserem Produkt, Preis und Vertriebsansatz gewinnen und rentabel bedienen, oder muss sich etwas ändern?
+* Wie steigen wir ein und mit welchen Ressourcen, wenn Neueinstellungen womöglich nicht möglich sind?
+* Was würde uns früh zeigen, dass es funktioniert oder nicht?
 
 ## Annahmen
 
-* Käufer im Mittelstand schließen schneller ab (angenommen 45 Tage im Durchschnitt gegenüber 120 Tagen bei Großkunden), aber mit etwa einem Drittel des durchschnittlichen Vertragswerts.
-* Unser Produkt braucht eine moderate Vereinfachung (weniger Konfigurationsschritte), um für das Self-Service-Onboarding im Mittelstand tragfähig zu sein.
-* Die vorhandenen Vertriebstalente für Großkunden sind nicht auf einen schnelleren Vertrieb mit weniger Kundenkontakt ausgerichtet und müssten umgeschult oder ergänzt werden.
+Jede Annahme ist zu prüfen.
+
+* **Mittelstandskäufer entscheiden schneller, geben aber pro Kunde weniger aus.** Prüfung: jüngere mittelgroße Interessenten befragen und Dauer und Größe von Abschlüssen in den vorhandenen Daten ansehen.
+* **Das Produkt braucht eine bescheidene Vereinfachung, um zum Onboarding mittelgroßer Kunden zu passen.** Prüfung: mittelgroße Kunden bei der Nutzung beobachten und die verwirrenden Schritte auflisten.
+* **Das bestehende Vertriebspersonal kann sich auf einen schnelleren, weniger betreuungsintensiven Ansatz einstellen.** Prüfung: das Vertriebsteam fragen, was es bräuchte, und herausfinden, wer es schon gemacht hat.
+* **Der Einstieg in das Segment schadet den Ergebnissen bei Großkunden nicht.** Prüfung: schätzen, welche Kapazität die Maßnahme den Großkunden entzöge und aus welchen Teams.
 
 ## Einschränkungen
 
-* Für das Geschäftsjahr 2026 wurde kein zusätzliches Personal genehmigt; jeder Vorstoß im Mittelstand muss aus dem bestehenden Budget finanziert werden.
-* Die Umsatzziele im Großkundengeschäft für das laufende Geschäftsjahr dürfen nicht gefährdet werden.
-* Die Rechtsabteilung weist darauf hin, dass unsere aktuellen Rahmenvertragsbedingungen von Beschaffungszyklen in Großunternehmensgröße ausgehen und für schneller abschließende Geschäfte eine vereinfachte Fassung brauchen.
+* In diesem Jahr dürfen keine Neueinstellungen genehmigt werden; jede Maßnahme muss aus dem bestehenden Budget finanziert werden.
+* Die Umsatzzusagen im Großkundengeschäft für das laufende Geschäftsjahr dürfen nicht gefährdet werden.
+* Vertragsbedingungen für große Käufer können für schnellere Abschlüsse zu schwerfällig sein; die Rechtsabteilung hat darauf hingewiesen.
+* Unbekannt, zu klären: die Größe des Segments in unseren Gebieten, die Preise, die das Segment akzeptiert, und der Betreuungsaufwand.
 
 ## Betrachtete Optionen
 
-* **Nur Großkunden bedienen und weiter in deren Ausbau investieren.** Das geringste Ausführungsrisiko, löst aber die Stagnation nicht; mehrere Aufsichtsratsmitglieder bezweifeln, dass dies allein das Wachstumsziel des nächsten Jahres erreicht.
-* **Mit einem eigenen neuen Team, finanziert durch zusätzliches Personal, in den Mittelstand einsteigen.** Die sauberste Umsetzung, aber durch den Einstellungsstopp des laufenden Jahres blockiert.
-* **In den Mittelstand einsteigen, indem 15 % der vorhandenen Kapazität des Großkundenvertriebs umgeschichtet werden, mit vereinfachtem Onboarding.** Langsamerer Anlauf als bei einem eigenen Team, aber im vorhandenen Personalrahmen finanzierbar und bei Misserfolg innerhalb von zwei Quartalen umkehrbar.
-* **Über eine Kanal-/Reseller-Partnerschaft statt über den Direktvertrieb in den Mittelstand einsteigen.** Die geringsten internen Kosten, aber Referenzgespräche mit zwei vergleichbaren Unternehmen zeigten, dass partnergeführte Modelle im ersten Jahr etwa halb so gut abschneiden wie der Direktvertrieb, und wir würden die Kundenbeziehung abgeben.
+Für jede Option Nutzen, Kosten, Zeitplan und benötigte Fähigkeiten schätzen und festhalten, welche Belege das Team umstimmen würden.
+
+* **Bei Großkunden bleiben und stärker in deren Ausbau investieren.**
+  * Nutzen: geringstes Umsetzungsrisiko; baut auf dem auf, was funktioniert.
+  * Risiken: löst die abflachende Pipeline nicht; Skeptiker bezweifeln, dass es allein die Wachstumsziele erreicht.
+* **Mit einem neuen eigenen Team einsteigen.**
+  * Nutzen: sauberste Umsetzung und Fokus.
+  * Kostentreiber: Rekrutierung, Einarbeitung, Gehälter, Führungszeit; blockiert, wenn Neueinstellungen eingefroren sind.
+  * Zeitverlauf: langsamer Start wegen der Rekrutierung; lange Anlaufkurve.
+* **Einsteigen, indem ein Teil der bestehenden Vertriebskapazität für Großkunden umgeschichtet wird**, mit einem vereinfachten Onboarding-Prozess.
+  * Nutzen: sofort finanzierbar; umkehrbar, wenn die Leistung schwach bleibt; echte Daten zur Wirtschaftlichkeit des Segments vor einer größeren Festlegung.
+  * Kostentreiber: verlorene Abdeckung der Großkunden; Umschulung; Produkt- und Rechtsarbeit für einfacheres Onboarding und einfachere Bedingungen.
+  * Benötigte Fähigkeiten: ein gut geführtes Team; Produktänderungen; vereinfachte Vertragsbedingungen.
+  * Risiken: langsamere Anlaufkurve als bei einem eigenen Team; die Pipeline der Großkunden leidet.
+* **Über Vertriebs- oder Wiederverkaufspartner einsteigen.**
+  * Nutzen: geringste interne Kosten; Reichweite.
+  * Kostentreiber: Partnermarge, Befähigung, Partnermanagement.
+  * Risiken: weniger Kontrolle über die Kundenbeziehung; Ergebnisse können hinter dem Direktvertrieb zurückbleiben (bei vergleichbaren Unternehmen prüfen).
+* **Das Segment mit einem Self-Service-Produkt bedienen** und ganz ohne Vertriebskontakt. Die Kaufbereitschaft ohne Kontakt testen.
 
 ## Argumentation
 
-Die Umschichtungsoption ist die einzige, die unter den Einschränkungen dieses Jahres finanzierbar und umkehrbar ist, falls sich die zugrunde liegende Annahme zur Abschlussgeschwindigkeit im Mittelstand als falsch erweist. Sie liefert uns außerdem reale Daten zur Wirtschaftlichkeit des Mittelstands, bevor wir uns in der Budgetplanung für das Geschäftsjahr 2027 auf ein eigenes Team festlegen, statt Personal an ein unerprobtes Vorgehen zu binden.
+Diskussionspunkte, mit denen das Team rechnen sollte:
+
+* **Wachstum oder Fokus.** Verwässert ein zusätzliches Segment, was das Unternehmen bei Großkunden gut macht?
+* **Tempo oder Umkehrbarkeit.** Welche Optionen lassen sich günstig rückgängig machen, wenn sich die Annahmen als falsch erweisen?
+* **Wer zahlt?** Umschichtung schont das Budget, verlagert die Kosten aber auf verlorene Aufmerksamkeit für Großkunden.
+* **Position.** Nach der Ansoff-Matrix ist der Verkauf eines bestehenden Produkts an einen neuen Markt (Marktentwicklung) weniger riskant, als zusätzlich das Produkt zu ändern (Diversifikation). Wo liegt diese Maßnahme?
+
+Wie das Team Kosten und Zielkonflikte bewerten könnte:
+
+1. Die Chance als Spanne bemessen: Zahl der Zielunternehmen, erreichbarer Anteil, erwarteter Abschlusswert, Gewinnquote und Verkaufszyklus, mit klar gekennzeichneten Annahmen.
+2. Den Einstieg bewerten: verschobene Kapazität, Produktänderungen, Rechtsarbeit, Marketing, Partnerbedingungen und die Opportunitätskosten dessen, was der Großkundenvertrieb sonst täte.
+3. Die Optionen im besten, wahrscheinlichen und schlechtesten Szenario vergleichen; Amortisationszeit und Lernwert vergleichen.
+4. Frühindikatoren im Voraus wählen: qualifizierte Chancen, Konversion je Stufe, Abschlussdauer und Kosten der Kundengewinnung, dazu die Wirkung auf die Pipeline der Großkunden.
+5. Eine gewichtete Matrix (Nutzen, Kosten, Tempo, Umkehrbarkeit, Risiko für das Kerngeschäft) und ein Pre-Mortem verwenden.
 
 ## Entscheidung
 
-Wir steigen ab dem 3. Quartal in das Mittelstandssegment ein, mit Personal aus der Umschichtung von 15 % der Kapazität des Großkundenvertriebs in ein Mittelstandsteam, mit einem vereinfachten Onboarding-Ablauf und angepassten Rahmenvertragsbedingungen für das Segment.
+**Noch nicht entschieden.** Dies ist ein Ausgangspunkt. Ein Team, das ihn verwendet, sollte diesen Abschnitt durch seine eigene Entscheidung ersetzen.
+
+Vorgeschlagenes Vorgehen zur Entscheidungsfindung:
+
+* Klären, wer entscheidet und was der Aufsichtsrat sehen muss.
+* Zuerst Kriterien und Gewichtung vereinbaren.
+* Die oben genannten Belege sammeln und festhalten, was gefunden wurde.
+* Zur Kommentierung verteilen, dann entscheiden und den Status aktualisieren.
 
 ## Auswirkungen
 
-* Die VP Vertrieb legt bis Ende des 2. Quartals fest, welche 15 % der Großkundenkapazität wechseln.
-* Das Produktteam grenzt die Vereinfachung des Onboardings für ein Release im 3. Quartal ab.
-* Die Rechtsabteilung entwirft eine vereinfachte Rahmenvertragsvariante für Mittelstandskonten.
-* Die VP Strategie berichtet dem Aufsichtsrat Ende des 3. und 4. Quartals Konversions- und Kundengewinnungskosten-Daten aus dem Mittelstand als Grundlage für eine Investitionsentscheidung über ein eigenes Team im Geschäftsjahr 2027.
-* Die Umsatzziele im Großkundengeschäft bleiben unverändert; schadet die Umschichtung der Großkunden-Pipeline messbar, wird diese Entscheidung vor der Planung für 2027 erneut geprüft.
+Wenn sich das Team für einen gestuften Einstieg entscheidet, müsste es:
+
+* Benennen, welche Kapazität wann verschoben wird und was mit den Zielen im Großkundengeschäft geschieht.
+* Produkt-, Rechts- und Onboarding-Arbeit planen, die das Segment braucht.
+* Kontrollpunkte (etwa nach zwei Zeiträumen) mit klaren Kriterien zum Fortsetzen, Ausweiten oder Beenden vereinbaren.
+* Dem Aufsichtsrat die Segmentergebnisse einheitlich berichten.
 
 ## Verwandte Entscheidungen
 
-* Ersetzt keine frühere Entscheidung; legt eine neue Segmentstrategie fest, auf der die Personalplanung für 2027 aufbaut.
+* [Auf nutzungsbasierte Preise umstellen](../wechsel-preismodell/): die Preisgestaltung für ein neues Segment muss womöglich überdacht werden.
+* [Eine CRM-Plattform auswählen](../auswahl-crm-anbieter/): die Werkzeuge des Vertriebs müssen sich für einen schnelleren Ansatz womöglich ändern.
+* Noch nicht getroffene Entscheidungen: Preise und Pakete für das Segment; Partnerstrategie; Personalplanung des nächsten Jahres.
 
 ## Verwandte Hinweise
 
-* Zwei Aufsichtsratsmitglieder baten um einen festen Kontrollpunkt Ende des 4. Quartals statt eines offenen Pilotprojekts – oben als Auslöser der Planung für 2027 festgehalten.
+* Offene Punkte: jüngere mittelgroße Interessenten befragen; Gründe für gewonnene und verlorene Abschlüsse auflisten; die Rechtsabteilung um einen leichteren Satz von Bedingungen bitten.
+* Mehr erfahren:
+  * Wikipedia: [Market entry strategy](https://en.wikipedia.org/wiki/Market_entry_strategy), [Ansoff matrix](https://en.wikipedia.org/wiki/Ansoff_matrix), [Market segmentation](https://en.wikipedia.org/wiki/Market_segmentation), [Customer acquisition cost](https://en.wikipedia.org/wiki/Customer_acquisition_cost), [Porter's five forces analysis](https://en.wikipedia.org/wiki/Porter%27s_five_forces_analysis), [SWOT analysis](https://en.wikipedia.org/wiki/SWOT_analysis)
+  * ISO: [ISO 31000 family, Risk management](https://www.iso.org/standards/popular/iso-31000-family)
+  * Video: [The Ansoff Matrix Explained with Example](https://www.youtube.com/watch?v=HeIipDK2CVc) (EPM)

@@ -105,4 +105,4 @@ Consulte la [lista de verificación](../lista-de-verificacion/index.md) para una
 
 ## El escenario completo desarrollado
 
-Para un ejemplo completo y ya rellenado construido a partir del escenario de este tutorial, consulte un registro desarrollado comparable en [examples/index.md](../ejemplos/index.md); por ejemplo, el ejemplo [Construir o comprar para un proyecto](../ejemplos/construir-o-comprar/) sigue la misma estructura de principio a fin, incluida una sección de consecuencias completamente redactada.
+Para un ejemplo rellenado de una decisión comparable, consulte [examples/index.md](../ejemplos/index.md); por ejemplo, el ejemplo [Construir o comprar para un proyecto](../ejemplos/construir-o-comprar/). Usa la plantilla completa, en la que Implicaciones corresponde a la sección de consecuencias de arriba, y es un trabajo en curso que muestra cómo avanza un equipo en una decisión, no un registro final.

@@ -1,54 +1,104 @@
 # Mabwysiadu polisi gwaith o bell hybrid
 
-* Statws: wedi'i dderbyn
+* Statws: cais am sylwadau
 * Dyddiad: 2026-01-08
-* Gwneuthurwr(wyr) penderfyniadau: Prif Weithredwr a Phennaeth Pobl, gyda mewnbwn y tîm gweithredol
+* Gwneuthurwr(wyr) penderfyniadau: Prif Weithredwr a Phennaeth Pobl, gyda mewnbwn y tîm gweithredol (i'w gadarnhau)
 * Perchennog: Pennaeth Pobl
 
-Crynodeb: Byddwn yn symud o bolisi o bell yn llawn i bolisi hybrid sy'n gofyn am ddau ddiwrnod angori yr wythnos yn y swyddfa i weithwyr o fewn pellter cymudo i swyddfa'r cwmni, yn effeithiol y chwarter nesaf.
+Crynodeb: gwaith ar y gweill. Man cychwyn yw hwn ar gyfer tîm sy'n ystyried symud o bolisi hollol o bell i bolisi hybrid ar gyfer pobl sy'n byw o fewn cyrraedd swyddfa. Mae'n dangos sut y gall tîm fframio'r cwestiwn, dadlau'r dewisiadau a chasglu gwybodaeth. Nid yw'n cofnodi unrhyw benderfyniad.
 
 ## Mater
 
-Mae data arolwg gweithwyr dros y flwyddyn ddiwethaf yn dangos rhaniad: mae gweithwyr o fewn pellter cymudo yn adrodd llai o gydweithio rhwng timau a sefydlu arafach i weithwyr newydd, tra bod gweithwyr o bell yn llawn (y tu allan i bellter cymudo) yn adrodd boddhad uchel ac yn nodi hyblygrwydd gwaith o bell fel un o'r prif resymau dros ymuno. Rhaid i'r arweinyddiaeth benderfynu a ddylid safoni un polisi neu gynnal trefniant wedi'i hollti, ac os yw'n hybrid, faint o ddiwrnodau angori i'w gwneud yn ofynnol.
+Mae sefydliad wedi gweithio'n gyfan gwbl o bell ers sawl blwyddyn. Mae canlyniadau arolygon yn awgrymu rhaniad: mae pobl sy'n byw o fewn pellter cymudo i swyddfa yn adrodd am lai o gydweithio rhwng timau a chyflwyno arafach i weithwyr newydd, tra bod pobl sy'n byw ymhell o unrhyw swyddfa yn adrodd am foddhad uchel ac yn nodi hyblygrwydd gwaith o bell fel un o'r prif resymau dros ymuno. Rhaid i'r arweinwyr benderfynu a ddylid cadw un polisi i bawb, symud i un safon, neu gadw trefniant ar wahân.
+
+Y cwestiynau i'w hateb:
+
+* Pa dystiolaeth sydd bod lleoliad yn effeithio ar gydweithio, cyflwyno a pherfformiad yma?
+* Pa grwpiau fyddai'n cael eu heffeithio, a sut, gan bob dewis?
+* Sut y byddai unrhyw ddisgwyliad o fod yn y swyddfa yn cael ei osod, ei egluro a'i gymhwyso'n deg?
+* Beth fyddem yn ei fesur, ac am ba hyd, i wybod a yw'r polisi'n gweithio?
 
 ## Rhagdybiaethau
 
-* Mae cydweithio yn y swyddfa yn gwella cyflymder sefydlu a chydlynu rhwng timau yn sylweddol i weithwyr sy'n gallu cyrraedd swyddfa, yn seiliedig ar ddata amser sefydlu sy'n cymharu ein dau garfan swyddfa flaenorol.
-* Mae polisi sy'n gofyn am ddiwrnodau yn y swyddfa dim ond i'r rhai o fewn pellter cymudo yn hawdd ei weinyddu heb ymddangos yn fympwyol nac yn annheg, os caiff ei ddogfennu'n glir.
-* Mae ôl troed eiddo tiriog yn ddigonol i gefnogi presenoldeb dau ddiwrnod angori heb fuddsoddiad swyddfa ychwanegol.
+Mae pob rhagdybiaeth yn rhywbeth i'w brofi.
+
+* **Mae amser wyneb yn wyneb yn gwella cyflwyno a gwaith rhwng timau.** Prawf: cymharu amseroedd cyflwyno a mesurau cydweithio i bobl â symiau gwahanol o amser wyneb yn wyneb, a gofyn i weithwyr newydd beth a helpodd. Trin cydberthnasau'n ofalus.
+* **Gellir egluro polisi sydd ond yn berthnasol i bobl o fewn pellter cymudo fel un teg.** Prawf: drafftio'r polisi a gofyn i grŵp cymysg sut mae'n teimlo.
+* **Gall y swyddfeydd presennol gynnal y presenoldeb disgwyliedig.** Prawf: gwirio capasiti, desgiau, ystafelloedd cyfarfod a chost eu hehangu.
+* **Mae hyblygrwydd gwaith o bell yn bwysig i bobl a ymunodd oherwydd hynny.** Prawf: edrych ar y risg o adael fesul grŵp a gofyn yn uniongyrchol.
 
 ## Cyfyngiadau
 
-* Ni all fynnu adleoli na phresenoldeb yn y swyddfa gan weithwyr a gyflogwyd yn benodol fel rhai o bell yn llawn, yn ôl telerau eu cynnig.
-* Rhaid cyfathrebu unrhyw newid polisi gyda rhybudd o chwarter llawn o leiaf.
-* Mae Cyfreithiol wedi cadarnhau bod yn rhaid cymhwyso'r polisi'n gyson o fewn pob categori gweithwyr i osgoi risg gwahaniaethu.
+* Ni ellir gofyn i bobl a gyflogwyd yn benodol fel rhai sy'n gweithio'n gyfan gwbl o bell adleoli na bod yn bresennol, yn ôl eu telerau.
+* Mae unrhyw newid yn gofyn am rybudd digonol i staff.
+* Rhaid cymhwyso rheolau'n gyson o fewn pob grŵp o weithwyr i osgoi gwahaniaethu; cymryd cyngor cyfreithiol ar gyfer eich awdurdodaeth.
+* Anhysbys, i'w gadarnhau: costau gofod, teithio ac unrhyw lwfansau, a cheisiadau am addasiadau gan bobl ag anabledd neu gyfrifoldebau gofalu.
 
 ## Dewisiadau a ystyriwyd
 
-* **Cadw o bell yn llawn i bawb.** Yn cadw sgoriau boddhad gweithwyr presennol ac yn osgoi newid polisi anodd, ond nid yw'n mynd i'r afael â'r bylchau sefydlu a chydweithio a godwyd yn annibynnol gan dri phennaeth adran.
-* **Mynnu llawn amser yn y swyddfa i bob gweithiwr o fewn pellter cymudo.** Yn mynd i'r afael yn uniongyrchol â phryderon cydweithio a sefydlu, ond mae data'r arolwg yn awgrymu y byddai hyn yn achosi colli staff sylweddol y byddai'n destun gofid ymhlith gweithwyr a ymunodd yn benodol am yr hyblygrwydd o bell.
-* **Hybrid: dau ddiwrnod angori yr wythnos i weithwyr o fewn pellter cymudo; o bell yn llawn heb ei newid i'r rhai y tu allan i bellter cymudo.** Yn targedu'r boblogaeth benodol lle mae'r data'n dangos bwlch go iawn, heb newid telerau i weithwyr a gyflogwyd fel rhai o bell yn llawn.
+Ar gyfer pob dewis, amcangyfrif y gwerth, y costau, yr amserlen a'r galluoedd sydd eu hangen, a nodi pa dystiolaeth fyddai'n newid meddwl y tîm.
+
+* **Cadw pawb yn gweithio'n gyfan gwbl o bell.**
+  * Gwerth: yn cadw'r boddhad presennol; dim tarfu.
+  * Risgiau: nid yw'n mynd i'r afael â'r bylchau a adroddwyd wrth gyflwyno a chydweithio.
+* **Mynnu presenoldeb amser llawn yn y swyddfa ar gyfer pobl o fewn pellter cymudo.**
+  * Gwerth: yn mynd i'r afael yn uniongyrchol â phryderon cydweithio a chyflwyno.
+  * Ysgogwyr cost: gofod swyddfa a chyfleusterau; baich cymudo; colli pobl yn debygol a ymunodd oherwydd hyblygrwydd.
+* **Hybrid: nifer o ddyddiau angori yr wythnos yn y swyddfa ar gyfer pobl o fewn pellter cymudo; gwaith o bell heb ei newid i'r lleill.**
+  * Gwerth: yn targedu'r grŵp lle adroddir am y bwlch, heb newid telerau'r rhai a gyflogwyd fel rhai o bell.
+  * Ysgogwyr cost: cynllunio gofod; cyfathrebu; amser rheolwyr i gymhwyso'r rheolau'n gyson.
+* **Rhythmau a osodir gan dimau.** Mae timau'n dewis eu dyddiau gyda'i gilydd, o fewn terfynau'r cwmni.
+* **Peilota yn gyntaf**, gan roi cynnig ar y model hybrid mewn rhai lleoliadau neu dimau a chymharu'r canlyniadau cyn polisi ehangach.
 
 ## Dadl
 
-Mae'r data sefydlu a chydweithio yn awgrymu'n benodol weithwyr o fewn pellter cymudo sy'n dewis peidio â dod i mewn ar hyn o bryd, nid gweithwyr o bell yn gyffredinol. Byddai newid polisi cyffredinol yn creu risg o golli staff nad yw'r data'n ei chefnogi; mae polisi hybrid wedi'i dargedu'n mynd i'r afael â'r bwlch gwirioneddol gan gadw'n benodol y telerau yr ymunodd gweithwyr a gyflogwyd o bell odanynt.
+Pwyntiau dadl y dylai'r tîm eu disgwyl:
+
+* **Ansawdd y dystiolaeth.** Mae ymchwil ar waith o bell a hybrid yn bodoli (er enghraifft astudiaethau ar hap o weithio gartref ac arolygon o drefniadau hybrid), ond mae'r canlyniadau'n dibynnu ar y math o waith. Beth sy'n berthnasol yma?
+* **Tegwch.** Gall rheolau gwahanol i grwpiau gwahanol ymddangos yn fympwyol oni bai bod y rhesymau'n glir.
+* **Ymreolaeth yn erbyn cydlynu.** Ymddiriedaeth a hyblygrwydd yn erbyn manteision bod gyda'n gilydd.
+* **Risg o golli pobl.** Pwy sydd fwyaf tebygol o adael, a beth fyddai'r gost?
+
+Sut y gallai'r tîm werthuso costau a chyfaddawdau:
+
+1. Disgrifio'r canlyniadau a ddymunir (cyflymder cyflwyno, cydweithio, cadw, perfformiad, lles) a sut y caiff pob un ei fesur.
+2. Costio pob dewis: gofod, cyfleusterau, teithio, amser rheolwyr, cyfathrebu, a chost colli pobl neu gael anhawster recriwtio. Dangos amrediadau.
+3. Ystyried iechyd a diogelwch a lles seicolegol, gan gynnwys cymudo ac unigedd.
+4. Cymharu'r dewisiadau yn y sefyllfaoedd gorau, mwyaf tebygol a gwaethaf.
+5. Cynllunio adolygiad ar ôl cyfnod penodedig, gyda mesurau a enwir a rheol ar beth i'w wneud yn dibynnu ar yr hyn y maent yn ei ddangos.
 
 ## Penderfyniad
 
-Byddwn yn mabwysiadu polisi hybrid sy'n gofyn am ddau ddiwrnod angori yr wythnos yn y swyddfa i weithwyr o fewn pellter cymudo i swyddfa'r cwmni, yn effeithiol y chwarter nesaf. Nid yw gweithwyr a gyflogwyd yn benodol fel rhai o bell yn llawn yn cael eu heffeithio.
+**Heb ei benderfynu eto.** Man cychwyn yw hwn. Dylai tîm sy'n ei ddefnyddio roi ei benderfyniad ei hun yn lle'r adran hon.
+
+Ffordd awgrymedig o gyrraedd penderfyniad:
+
+* Cadarnhau pwy sy'n penderfynu a phwy a ymgynghorir.
+* Cytuno ar y meini prawf a'r pwysoliad yn gyntaf.
+* Casglu'r dystiolaeth uchod a chofnodi'r hyn a ganfuwyd.
+* Rhannu am sylwadau, yna penderfynu a diweddaru'r Statws.
 
 ## Goblygiadau
 
-* Bydd Pennaeth Pobl yn cyfathrebu'r polisi gyda rhybudd o chwarter llawn, gan gynnwys pa ddiwrnodau penodol sy'n ddiwrnodau angori i bob swyddfa.
-* Bydd Cyfleusterau'n cadarnhau bod capasiti'r swyddfa'n cefnogi presenoldeb deuddydd heb fuddsoddiad eiddo tiriog ychwanegol.
-* Bydd angen arweiniad ar reolwyr ar gymhwyso'r polisi'n gyson o fewn eu timau.
-* Bydd Gweithrediadau Pobl yn olrhain metrigau arolwg amser sefydlu a chydweithio am ddau chwarter ar ôl y cyflwyno i gadarnhau bod y polisi'n cyflawni ei effaith fwriadedig.
-* Nid yw'r penderfyniad hwn yn berthnasol i gynigion o bell yn llawn yn y dyfodol oni bai bod penderfyniad ar wahân yn newid y categori recriwtio hwnnw o hyn ymlaen.
+Pe bai'r tîm yn penderfynu ar bolisi hybrid, byddai angen iddo:
+
+* Rhoi rhybudd llawn i staff a nodi pa ddyddiau sy'n berthnasol ym mhob swyddfa.
+* Cadarnhau bod capasiti'r swyddfeydd yn cefnogi'r presenoldeb disgwyliedig.
+* Rhoi arweiniad i reolwyr ar gymhwyso'r polisi'n gyson.
+* Olrhain mesurau cyflwyno a chydweithio am gyfnod penodedig.
+* Penderfynu sut y caiff ceisiadau am addasiadau unigol eu trin.
 
 ## Penderfyniadau cysylltiedig
 
-* Dim wedi'u disodli; dyma'r penderfyniad polisi gwaith o bell ffurfiol cyntaf a gofnodwyd ers y newid gwreiddiol i bopeth o bell dair blynedd yn ôl (cyn y log penderfyniadau hwn).
+* [Dewis model gweithio hybrid](../dewisiadau-gweithio-hybrid/): y dewisiadau o fewn model hybrid.
+* [Gosod proses ar gyfer addasiadau rhesymol yn y gweithle](../addasiadau-rhesymol-yn-y-gweithle/): anghenion unigol.
+* [Mabwysiadu cynllunio a rheoli gweithle](../cynllunio-a-rheoli-gweithle/): sut y caiff gofod ei gynllunio.
+* Penderfyniadau heb eu gwneud eto: a yw cyflog yn dibynnu ar leoliad; recriwtio o bell yn gyfan gwbl yn y dyfodol.
 
 ## Nodiadau cysylltiedig
 
-* Gofynnodd dau bennaeth adran i'r polisi gynnwys pwynt gwirio adolygu datganedig yn hytrach na bod yn benagored; cofnodir hyn uchod fel yr adolygiad metrig dau chwarter.
+* Pwyntiau agored: gwirio data cyflwyno ac arolygon; gofyn i benaethiaid adrannau am dystiolaeth; cadarnhau cyngor cyfreithiol ar gymhwyso'r polisi.
+* Dysgu mwy:
+  * Wicipedia: [Remote work](https://en.wikipedia.org/wiki/Remote_work), [Employee retention](https://en.wikipedia.org/wiki/Employee_retention), [Onboarding](https://en.wikipedia.org/wiki/Onboarding), [Employee engagement](https://en.wikipedia.org/wiki/Employee_engagement)
+  * ISO: [ISO 45003:2021, Psychological health and safety at work](https://www.iso.org/standard/64283.html), [ISO 45001:2018, Occupational health and safety management systems](https://www.iso.org/standard/63787.html), [ISO 30414, Human capital reporting](https://www.iso.org/standard/30414)
+  * Fideo: [The No.1 Remote Work Expert: Winners and Losers of Hybrid Work](https://www.youtube.com/watch?v=WaJJ7Nc3MxI) (Nick Bloom, What The Teck Show)

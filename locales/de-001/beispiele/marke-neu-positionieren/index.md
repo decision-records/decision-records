@@ -1,54 +1,105 @@
 # Die Marke auf Verlässlichkeit ausrichten
 
-* Status: angenommen
+* Status: Kommentierung erbeten
 * Datum: 2026-01-15
-* Entscheidende: CMO
+* Entscheidende: CMO (noch zu bestätigen)
 * Verantwortlich: Leitung Marke
 
-Zusammenfassung: Wir positionieren unsere Kernbotschaft der Marke von „innovativ“ auf „verlässlich“ um, entsprechend dem, wo Kundenforschung zeigt, dass wir tatsächlich Geschäfte gewinnen und verlieren, in einer schrittweisen Einführung, die mit Vertriebsmaterialien und bezahlten Kanälen beginnt.
+Zusammenfassung: in Arbeit. Dies ist ein Ausgangspunkt für ein Team, das überlegt, ob es die Kernbotschaft seiner Marke ändern soll, etwa von „innovativ“ zu „verlässlich“. Er zeigt, wie ein Team die Frage fassen, die Optionen diskutieren und Informationen sammeln kann. Er hält keine Entscheidung fest.
 
 ## Problem
 
-Gewinn-/Verlustinterviews der letzten zwei Quartale zeigen durchgängig, dass Kunden uns gegenüber schneller agierenden Wettbewerbern gerade wegen unserer Verfügbarkeitsbilanz und der Reaktionsfähigkeit unseres Supports wählen – nicht weil sie uns für innovativer halten, was unsere derzeitige Markenpositionierung ist. Unsere Botschaft arbeitet aktiv gegen den Grund, aus dem Kunden nach eigener Aussage bei uns kaufen.
+Interviews mit Kunden, die Abschlüsse gewonnen und verloren haben, deuten darauf hin, dass Kunden das Unternehmen oft wegen seiner Bilanz und seines Supports gegenüber schnelleren Wettbewerbern wählen und nicht, weil sie es für das innovativste halten, was die derzeitige Markenbotschaft ist. Stimmt das, kann die Botschaft den Kaufgründen entgegenwirken. Das Team muss entscheiden, ob, wie weit und wie sie geändert werden soll.
+
+Die zu beantwortenden Fragen:
+
+* Was schätzen Kunden und Interessenten tatsächlich, und wie stark sind die Belege?
+* Wie wird die Marke heute wahrgenommen, und von wem?
+* Wenn wir die Botschaft ändern, was ändert sich mit ihr (Bildsprache, Vertriebsunterlagen, Aussagen zum Produkt), und was muss gleich bleiben?
+* Woran erkennen wir, dass die Änderung geholfen hat?
 
 ## Annahmen
 
-* Der Verlässlichkeitsvorteil ist dauerhaft und kein vorübergehender Effekt eines jüngsten Ausfalls bei einem Wettbewerber.
-* Die in den letzten drei Jahren um „innovativ“ aufgebaute Markenwerte sind nicht so verfestigt, dass eine Neupositionierung Bestandskunden verwirrt.
-* Vertrieb und Customer Success können die neue Positionierung nach einer Schulung konsistent vermitteln.
+Jede Annahme ist zu prüfen.
+
+* **Der Verlässlichkeitsvorteil ist dauerhaft**, nicht die vorübergehende Wirkung eines jüngsten Problems eines Wettbewerbers. Prüfung: den Trend über einen längeren Zeitraum und in mehreren Segmenten ansehen.
+* **Die bestehende Botschaft ist nicht so verfestigt, dass eine Änderung die Kunden verwirrt.** Prüfung: Kunden und Vertriebsteam fragen, wie sie das Unternehmen heute beschreiben.
+* **Vertrieb und Customer Success können die neue Botschaft einheitlich vermitteln.** Prüfung: einen kleinen Piloten mit einer Gruppe von ihnen durchführen und vergleichen.
+* **Die Gewinn- und Verlust-Interviews sind repräsentativ.** Prüfung: Stichprobengröße prüfen, wer befragt wurde und wer fehlt.
 
 ## Einschränkungen
 
-* Es gibt kein Budget für einen vollständigen Markenrelaunch (neues Logo, visuelle Identität); es handelt sich um eine Neupositionierung der Botschaft innerhalb des bestehenden visuellen Systems.
-* Es darf keine Aussagen widersprechen, die bereits in unterzeichneten Unternehmensverträgen mit Bezug auf die aktuelle Botschaft gemacht wurden.
-* Die Rechtsabteilung verlangt, dass jede Verlässlichkeitsaussage (z. B. Verfügbarkeitsstatistiken) vor der Veröffentlichung unabhängig überprüfbar ist.
+* Kein Budget für einen vollständigen visuellen Markenwechsel; jede Änderung muss im bestehenden visuellen System bleiben.
+* Bereits in unterschriebenen Verträgen gemachte Aussagen dürfen nicht widersprochen werden.
+* Jede Verlässlichkeitsaussage (etwa Verfügbarkeitsstatistiken) muss vor der Veröffentlichung unabhängig überprüfbar sein.
+* Unbekannt, zu klären: wie die Wettbewerber positioniert sind und wie stark die Botschaft in Produkt, Support und Personalgewinnung vorkommt.
 
 ## Betrachtete Optionen
 
-* **Die Positionierung „innovativ“ beibehalten und in Belege investieren, um sie glaubwürdiger zu machen.** Vermeidet das Risiko einer Neupositionierung, geht aber nicht darauf ein, dass die Gewinn-/Verlustdaten zeigen, dass Kunden uns nicht deswegen wählen – diese Option optimiert die falsche Botschaft.
-* **Vollständig auf „verlässlich“ umpositionieren, schrittweise Einführung über zwei Quartale.** Bringt die Botschaft mit den tatsächlichen Kaufmotiven in Einklang; der schrittweise Ansatz begrenzt das Risiko, falls der Wechsel schlechter abschneidet.
-* **Beide Botschaften parallel fahren, nach Kanal getrennt.** Vermeidet eine volle Festlegung, aber Forschung zur Markenkonsistenz legt nahe, dass gemischte Botschaften die Erinnerung messbar schwächen; zwei frühere interne Experimente mit getrennten Botschaften schnitten schlechter ab als eine einzige konsistente Botschaft.
+Für jede Option Nutzen, Kosten, Zeitplan und benötigte Fähigkeiten schätzen und festhalten, welche Belege das Team umstimmen würden.
+
+* **„Innovativ“ beibehalten und Belege ergänzen.**
+  * Nutzen: kein Risiko einer Neupositionierung.
+  * Risiken: optimiert womöglich eine Botschaft, für die Kunden nicht kaufen.
+* **Vollständig auf Verlässlichkeit neu ausrichten, in Phasen** (etwa zuerst Vertriebsunterlagen und bezahlte Kanäle, später eine breitere Auffrischung).
+  * Nutzen: bringt die Botschaft mit den Kaufgründen in Einklang; die Phasen begrenzen das Risiko und lassen das Team lernen.
+  * Kostentreiber: kreative Arbeit; rechtliche Prüfung der Aussagen; Schulung; Aktualisierung aller Kanäle.
+* **Beide Botschaften parallel je Kanal fahren.**
+  * Nutzen: vermeidet die volle Festlegung.
+  * Risiken: gemischte Botschaften können die Erinnerung schwächen; mit Daten testen, bevor man sich darauf verlässt.
+* **Sich mit einer Kombination positionieren** (Verlässlichkeit mit einem zweiten Unterscheidungsmerkmal), damit die Marke neben einem Wettbewerber, der Tempo betont, nicht grau wirkt.
+* **Die Botschaft noch nicht ändern** und zuerst in bessere Forschung zum Kundennutzen investieren.
+
+Eine nützliche Art, die Debatte zu strukturieren, ist der von April Dunford beschriebene Positionierungsansatz: Wettbewerbsalternativen, einzigartige Merkmale, der Wert, den sie ermöglichen, die Kunden, denen er am wichtigsten ist, und die Marktkategorie, die den Wert offensichtlich macht.
 
 ## Argumentation
 
-Gewinn-/Verlustdaten sind das stärkste Signal, das wir dafür haben, was Kunden tatsächlich schätzen, und sie weisen klar auf Verlässlichkeit hin. Eine schrittweise Einführung (zuerst Material und bezahlte Kanäle, der vollständige Markenrelaunch wird zurückgestellt) erlaubt uns, die Wirkung der neuen Botschaft zu prüfen, bevor wir Budget, das wir derzeit nicht haben, in einen vollständigen visuellen Relaunch stecken.
+Diskussionspunkte, mit denen das Team rechnen sollte:
+
+* **Belege oder Bauchgefühl.** Wie viel Gewicht haben Interviews gegenüber dem Bauchgefühl von Vertrieb und Führung?
+* **Verlässlich oder langweilig?** Der Vertrieb fürchtet womöglich, dass „verlässlich“ neben einem Wettbewerber unspektakulär klingt. Lässt es sich mit etwas verbinden, das Energie gibt?
+* **Tiefe der Änderung.** Nur die Botschaft, oder auch Produkt, Support und Personalgewinnung? Eine Botschaft, die das Unternehmen nicht einlösen kann, beschädigt das Vertrauen.
+* **Tempo.** Schnellere Änderung bringt früher Nutzen; langsamere erlaubt Lernen.
+
+Wie das Team Kosten und Zielkonflikte bewerten könnte:
+
+1. Die erwarteten Ergebnisse festlegen: Gewinnquote in Zielsegmenten, Beachtung, Verkaufszyklus, Markenwahrnehmung, Kundenbindung und Weiterempfehlung.
+2. Die Optionen bewerten: Forschung, Kreation, Aktualisierung der Kanäle, rechtliche Prüfung, Schulung und die Kosten gemischter Botschaften im Übergang. Spannen zeigen.
+3. Vor der Festlegung testen: Botschaftstests mit Kunden, kleine Kampagnentests und ein Pilot mit einem Teil des Vertriebsteams.
+4. Die Optionen nach Nutzen, Kosten, Risiko, Umkehrbarkeit und Passung zu bestehenden Verträgen abwägen.
+5. Ein Pre-Mortem durchführen und die Frühindikatoren benennen, die eine Pause auslösen würden.
 
 ## Entscheidung
 
-Wir positionieren die Kernbotschaft der Marke auf Verlässlichkeit um und führen sie zuerst über Vertriebsmaterialien und bezahlte Kanäle ein; die Entscheidung über einen vollständigen Markenrelaunch wird bis zum Vorliegen von Leistungsdaten zurückgestellt.
+**Noch nicht entschieden.** Dies ist ein Ausgangspunkt. Ein Team, das ihn verwendet, sollte diesen Abschnitt durch seine eigene Entscheidung ersetzen.
+
+Vorgeschlagenes Vorgehen zur Entscheidungsfindung:
+
+* Klären, wer entscheidet und wer zustimmen muss (Vertrieb, Recht, Produkt).
+* Zuerst Kriterien und Gewichtung vereinbaren.
+* Die oben genannten Belege sammeln und festhalten, was gefunden wurde.
+* Zur Kommentierung verteilen, dann entscheiden und den Status aktualisieren.
 
 ## Auswirkungen
 
-* Die Leitung Marke aktualisiert Vertriebsmaterialien und Kreativmaterial der bezahlten Kanäle innerhalb eines Quartals.
-* Die Rechtsabteilung validiert alle Verfügbarkeits- und Verlässlichkeitsaussagen, bevor ein neues Asset ausgeliefert wird.
-* Vertrieb und Customer Success erhalten aktualisierte Gesprächspunkte und eine Schulung zur Botschaft.
-* Ein Folge-Entscheidungsprotokoll bewertet die Investition in einen vollständigen visuellen Relaunch, sobald die Leistungsdaten der ersten Phase vorliegen, voraussichtlich in zwei Quartalen.
-* Bestehende unterzeichnete Verträge mit Bezug auf die Positionierung „innovativ“ bleiben unberührt; dies ist nur eine zukunftsgerichtete Änderung der Botschaft.
+Wenn sich das Team für eine phasenweise Neupositionierung entscheidet, müsste es:
+
+* Zuerst Vertriebsunterlagen und Motive für bezahlte Kanäle aktualisieren und vereinbaren, wie Ergebnisse gemessen werden.
+* Jede Aussage vor der Veröffentlichung von der Rechtsabteilung validieren lassen.
+* Vertrieb und Customer Success aktualisierte Gesprächsleitfäden und Schulung geben.
+* Eine spätere Entscheidung über eine breitere visuelle Auffrischung vorsehen, sobald erste Ergebnisse vorliegen.
+* Bestätigen, dass bestehende unterschriebene Verträge unberührt bleiben, da die Änderung nach vorn gerichtet ist.
 
 ## Verwandte Entscheidungen
 
-* Keine ersetzt; dies ist die erste förmliche Neupositionierungsentscheidung für dieses Markenelement.
+* [Auf nutzungsbasierte Preise umstellen](../wechsel-preismodell/): Preis und Positionierung beeinflussen einander.
+* Noch nicht getroffene Entscheidungen: breitere visuelle Auffrischung; Änderungen an Produktnamen.
 
 ## Verwandte Hinweise
 
-* Der Vertrieb äußerte die Sorge, „verlässlich“ könne im Vergleich zum Marketing eines bestimmten Wettbewerbers als „langweilig“ gelesen werden; die Leitung Marke testet vor der endgültigen Einführung kreative Varianten, die Verlässlichkeit mit einem zweiten Unterscheidungsmerkmal verbinden.
+* Offene Punkte: die Qualität der Gewinn- und Verlust-Interviews prüfen; Aussagen auflisten, die eine unabhängige Überprüfung bräuchten; kreative Motive testen, die Verlässlichkeit mit einem zweiten Unterscheidungsmerkmal verbinden.
+* Mehr erfahren:
+  * Wikipedia: [Positioning (marketing)](https://en.wikipedia.org/wiki/Positioning_(marketing)), [Brand equity](https://en.wikipedia.org/wiki/Brand_equity), [Rebranding](https://en.wikipedia.org/wiki/Rebranding), [Net promoter score](https://en.wikipedia.org/wiki/Net_promoter_score), [Value proposition](https://en.wikipedia.org/wiki/Value_proposition), [Brand awareness](https://en.wikipedia.org/wiki/Brand_awareness)
+  * ISO: [ISO 20671-1:2021, Brand evaluation: Principles and fundamentals](https://www.iso.org/standard/81739.html)
+  * Video: [Positioning in Crowded Markets: How to Make Any Offering Obviously Awesome](https://www.youtube.com/watch?v=j7gYVXjDePw) (April Dunford)
+  * Lesen: *Obviously Awesome* (April Dunford)

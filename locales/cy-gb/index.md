@@ -20,7 +20,7 @@ Beth sydd yn yr ystorfa hon:
 - [canllaw](canllaw): beth yw cofnod penderfyniad, pam mae pobl yn eu defnyddio, cylch oes, llywodraethiant, a mwy.
 - [templed](templed): templed i'w gopïo a'i ludo gyda fformatio Markdown ac awgrymiadau cam wrth gam.
 - [tiwtorial](tiwtorial): taith gerdded ymarferol, cam wrth gam: ysgrifennwch eich cofnod penderfyniad cyntaf mewn llai nag 20 munud.
-- [enghreifftiau](enghreifftiau): enghreifftiau gweithredol ar draws penderfyniadau strategaeth, gwerthiant, marchnata, cynnyrch, AD, risg, prosiect a thechnoleg.
+- [enghreifftiau](enghreifftiau): enghreifftiau man cychwyn (gwaith ar y gweill, nid penderfyniadau terfynol) ar draws penderfyniadau strategaeth, gwerthiant, marchnata, cynnyrch, AD, risg, prosiect a thechnoleg.
 - [rhestr wirio](rhestr-wirio): rhestrau gwirio ar gyfer penderfynu a ddylid ysgrifennu un, ei ysgrifennu'n dda, ei adolygu, a rhedeg yr arfer ar draws sefydliad.
 - [cymorth](cymorth): cwestiynau cyffredin, datrys problemau a geirfa ar gyfer cwestiynau cyffredin y mae arweinwyr yn eu codi wrth fabwysiadu hyn.
 - [spec](https://github.com/decision-records/decision-records/tree/main/spec): manyleb yr ystorfa hon: cynllun, cynnwys, lleoliadau, gwefan ac asiantau.

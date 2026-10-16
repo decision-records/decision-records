@@ -20,7 +20,7 @@ What's in this repository:
 - [guide](guide) - what a decision record is, why people use them, lifecycle, governance, and more.
 - [template](template) - copy-paste template with markdown formatting and step-by-step suggestions.
 - [tutorial](tutorial) - a hands-on, step-by-step walkthrough: write your first decision record in under 20 minutes.
-- [examples](examples) - worked examples across strategy, sales, marketing, product, HR, risk, project, and technology decisions.
+- [examples](examples) - starting-point examples (works in progress, not finished decisions) across strategy, sales, marketing, product, HR, risk, project, and technology decisions.
 - [checklist](checklist): checklists for deciding whether to write one, writing it well, reviewing it, and running the practice across an organization.
 - [help](help) — FAQ, troubleshooting, and a glossary for common questions leaders raise when adopting this.
 - [spec](https://github.com/decision-records/decision-records/tree/main/spec) — the specification of this repository: layout, content, locales, website, and agents.

@@ -106,4 +106,4 @@ Voir la [liste de contrôle](../liste-de-controle/index.md) pour une version con
 
 ## Le scénario complet
 
-Pour un exemple complet et rempli, construit à partir du scénario de ce tutoriel, consultez un registre comparable dans [examples/index.md](../exemples/index.md), par exemple l'exemple [Construire ou acheter pour un projet](../exemples/construire-ou-acheter/) suit la même structure de bout en bout, y compris une section Conséquences entièrement rédigée.
+Pour un exemple rempli d'une décision comparable, consultez [examples/index.md](../exemples/index.md), par exemple l'exemple [Construire ou acheter pour un projet](../exemples/construire-ou-acheter/). Il utilise le modèle complet, où Implications correspond à la section Conséquences ci-dessus, et c'est un travail en cours qui montre comment une équipe progresse sur une décision, et non un registre final.

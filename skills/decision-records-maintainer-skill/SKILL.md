@@ -43,20 +43,27 @@ ln -s index.md README.md
 Do not create `README.md` as a separate real file in these subdirectories — that
 would fork the content from what `index.md` says.
 
-## Adding a new worked example
+## Adding a new example
+
+Examples are starting points for teams considering a kind of decision, not
+finished records.
 
 1. Create `examples/<domain-slug>/index.md` following the shape every existing
    example uses:
    - `# Title` (present-tense, active)
-   - Bulleted `Status` / `Date` / `Decision-maker(s)` / `Owner`
-   - `## Context`
-   - `## Options considered` (each option as a fact + trade-off, not a strawman)
-   - `## Decision` (plain active voice)
-   - `## Consequences` (what changes, not a pros/cons rehash)
-   - Optional `## Related`
+   - Bulleted `Status` (`request for comments`) / `Date` / `Decision-maker(s)` /
+     `Owner`, then a `Summary:` line saying it is a work in progress
+   - The nine comprehensive-template sections in order: `## Issue`,
+     `## Assumptions`, `## Constraints`, `## Options considered` (value,
+     costs, timeline, capabilities, evidence to gather), `## Argument` (the
+     debates, and how the team could evaluate costs and trade-offs),
+     `## Decision` ("Not yet decided" plus a suggested way to decide),
+     `## Implications`, `## Related decisions`, `## Related notes` (open items
+     and a "Learn more" list)
+   - No staff counts, currencies, or prices; describe how to estimate instead
+   - Only links you have verified: Wikipedia titles, ISO pages, YouTube videos
 2. Symlink `examples/<domain-slug>/README.md -> index.md`.
-3. Add a row to the table in `examples/index.md`: link text, domain, `Lightweight`
-   or `Comprehensive` (whichever the example actually matches), and status.
+3. Add a list item to `examples/index.md`: link text and domain.
 4. If the example introduces uncommon proper nouns or terms, add them to
    `cSpell.words` in `.vscode/settings.json` so the editor spell-checker stays
    quiet (existing list: Akerman, commentable, evalation, Nygard, Nygard's,

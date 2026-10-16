@@ -1,32 +1,103 @@
 # Évaluer l'économie de la santé dans une décision de financement de traitement
 
-* Statut : accepté
+* Statut : demande de commentaires
 * Date : 2026-05-12
-* Décideur(s) : conseil régional de commissionnement
+* Décideur(s) : conseil régional de commissionnement (à confirmer)
 * Propriétaire : directeur du commissionnement stratégique
 
-## Contexte
+Résumé : travail en cours. Ceci est un point de départ pour une équipe de commissionnement de santé qui envisage si, et comment, financer un nouveau traitement, en pesant bénéfice clinique, rapport coût-efficacité, impact budgétaire et équité. Il montre comment une équipe peut cadrer la question, débattre des options et recueillir des informations. Il n'enregistre aucune décision.
 
-Le financement d'un nouveau médicament pour une maladie chronique touchant environ 6 000 personnes de notre région a été proposé. Les preuves issues des essais montrent une amélioration modeste de la qualité de vie et une réduction des hospitalisations, à un prix de 9 500 par patient et par an. Notre budget est fixe, donc le financer signifie financer moins autre chose. Une décision fondée uniquement sur le prix ou uniquement sur le bénéfice clinique ignorerait cet arbitrage. Nous devons mettre en balance le rapport coût-efficacité, l'effet sur le budget et l'équité.
+## Problème
+
+Le financement d'un nouveau médicament pour une maladie de longue durée touchant beaucoup de personnes dans une région a été proposé. Les données d'essais suggèrent une amélioration de la qualité de vie et une réduction des hospitalisations. Le budget est fixe : financer le médicament signifie financer moins autre chose. Une décision fondée uniquement sur le prix, ou uniquement sur le bénéfice clinique, ignore cet arbitrage.
+
+Les questions auxquelles répondre :
+
+* Quelle est l'ampleur et la certitude du bénéfice, pour quels patients ?
+* Combien cela coûte-t-il, et quel est le coût par unité de santé gagnée comparé à d'autres usages du même argent ?
+* Quel est l'impact budgétaire, sur plusieurs années, et qu'est-ce qui serait déplacé ?
+* Comment chaque option affecte-t-elle l'équité et les inégalités de santé ?
+
+## Hypothèses
+
+Chaque hypothèse est à vérifier.
+
+* **Les résultats des essais s'appliquent à nos patients.** Vérification : comparer les populations d'essai aux patients locaux et considérer les données en vie réelle.
+* **Le groupe qui a le plus à gagner peut être identifié de façon fiable.** Vérification : définir des critères et les confronter aux dossiers locaux.
+* **Le fournisseur acceptera des conditions telles qu'un prix plus bas et la collecte de données.** Vérification : ouvrir tôt la discussion.
+* **Les données de résultats peuvent réellement être recueillies avec les systèmes locaux.** Vérification : vérifier ce qui est enregistré et ce qui demanderait une nouvelle saisie.
+
+## Contraintes
+
+* Le budget est fixe.
+* Le coût par année de vie ajustée sur la qualité (QALY) gagnée doit être considéré au regard des seuils et pratiques de l'organe de décision.
+* Tout dispositif géré exige des données qui peuvent être recueillies et examinées.
+* Inconnu, à confirmer : le nombre de patients, le prix et sa confidentialité, les autres traitements et toute recommandation nationale applicable.
 
 ## Options envisagées
 
-* **Financer pour tous les patients éligibles.** Donne accès à tous les patients éligibles et est simple à gérer, mais l'impact budgétaire (environ 57 millions par an en pleine adoption) exigerait des coupes ailleurs, et le coût par année de vie ajustée sur la qualité (QALY) gagnée dépasse notre seuil habituel.
-* **Ne pas financer.** Aucun impact budgétaire et aucun déplacement d'autres services, mais les patients perdent un traitement dont le bénéfice est démontré et la décision peut accroître les inégalités pour ceux qui n'ont pas d'autres options.
-* **Financer pour un groupe défini avec un accord d'accès géré.** Financer pour les patients qui en bénéficient le plus (ceux ayant les taux d'hospitalisation les plus élevés), le fournisseur baissant le prix, recueillant des données de résultats et réexaminant à trois ans. Rapproche le coût par QALY du seuil et limite l'impact budgétaire, mais exclut certains patients et dépend de l'accord du fournisseur et de données que nous pouvons réellement recueillir.
+Pour chaque option, estimer la valeur, les coûts, le calendrier et les capacités nécessaires, et noter les éléments de preuve qui feraient changer l'équipe d'avis.
+
+* **Financer pour tous les patients éligibles.**
+  * Valeur : accès pour tous les patients éligibles ; simple à gérer.
+  * Risques : l'impact budgétaire peut exiger des coupes ailleurs ; le coût par QALY peut dépasser les niveaux acceptés.
+* **Ne pas financer.**
+  * Valeur : aucun impact budgétaire ; aucun déplacement.
+  * Risques : les patients perdent un traitement dont le bénéfice est démontré ; les inégalités peuvent s'aggraver pour ceux qui n'ont pas d'autres options.
+* **Financer pour un groupe défini dans le cadre d'un accord d'accès géré.** Par exemple ceux qui en bénéficient le plus, le fournisseur ajustant le prix, recueillant des données de résultats et un réexamen après une période définie.
+  * Valeur : rapproche le coût par QALY des niveaux acceptés ; limite l'impact budgétaire.
+  * Postes de coût : négociation ; suivi ; recueil de données ; administration.
+  * Risques : exclut certains patients ; dépend de l'accord du fournisseur et de données qui peuvent être recueillies.
+* **Différer** pendant que davantage d'éléments sont rassemblés, en acceptant que les patients attendent.
+* **Financer pour une durée limitée** avec un réexamen convenu à l'avance.
+
+## Argumentation
+
+Points de débat à prévoir :
+
+* **Efficience ou équité.** Un traitement peut être coût-efficace globalement tout en bénéficiant davantage à des groupes déjà favorisés.
+* **Preuves et incertitude.** Comment le conseil doit-il traiter un bénéfice à long terme estimé à partir d'essais courts ?
+* **Seuils.** Où placer la limite, avec quelle souplesse ? Le QALY (voir l'explication de MIDAS) est très utilisé mais aussi critiqué ; l'équipe doit en connaître les limites.
+* **Transparence.** Que sera-t-il publié sur les raisons ?
+
+Comment l'équipe pourrait évaluer les coûts et les arbitrages :
+
+1. Recourir aux méthodes établies d'évaluation des technologies de santé : analyse coût-efficacité ou coût-utilité exprimée par QALY gagné, avec l'incertitude montrée par une analyse de sensibilité (voir le manuel de méthodes du NICE pour une approche détaillée).
+2. Estimer l'impact budgétaire sur plusieurs années sous différents scénarios d'adoption, et nommer ce qui serait déplacé.
+3. Considérer l'équité : qui gagne, qui est exclu, et l'effet sur les inégalités de santé.
+4. Décider quelles données un accord d'accès géré recueillerait, et quel résultat changerait la décision lors du réexamen.
+5. Documenter la justification pour qu'elle puisse être expliquée et contestée.
 
 ## Décision
 
-Nous financerons le médicament pour le groupe défini dans le cadre d'un accord d'accès géré avec un prix plus bas, un recueil de données de résultats et un réexamen à trois ans. Nous prenons cette décision sur trois considérations conjointes : le coût différentiel par QALY gagné pour le groupe, l'impact budgétaire sur cinq ans et l'effet sur les inégalités de santé.
+**Pas encore décidé.** Ceci est un point de départ. Une équipe qui l'utilise doit remplacer cette section par sa propre décision.
 
-## Conséquences
+Manière suggérée d'aboutir à une décision :
 
-* Le directeur du commissionnement stratégique négociera l'accord ; si le fournisseur n'accepte pas les conditions de prix et de données, nous reporterons la décision devant le conseil.
-* L'impact budgétaire est estimé à environ 14 millions par an en pleine adoption dans le groupe défini ; le conseil nommera ce qui est déplacé, au lieu de le laisser non dit.
-* Les patients hors du groupe défini ne seront pas financés, et les critères d'éligibilité seront publiés avec leurs motifs.
-* Nous mesurerons les hospitalisations, la qualité de vie et l'adoption par groupe de précarité, et réexaminerons l'effet sur l'équité lors du réexamen à trois ans.
-* Nous acceptons le risque que les preuves au niveau du groupe soient moins certaines que les preuves globales de l'essai, et nous le dirons dans la justification publiée.
+* Confirmer qui décide et selon quelles règles.
+* Convenir d'abord des critères et de leur pondération, y compris la façon dont l'équité compte.
+* Recueillir les éléments ci-dessus et consigner ce qui a été trouvé.
+* Diffuser pour commentaires lorsque c'est approprié, puis décider et mettre à jour le Statut.
 
-## Liés
+## Implications
 
-* Voir le [Health Economics Guide](https://github.com/health-economics-guide/health-economics-guide) pour l'évaluation économique, l'impact budgétaire, le rationnement et l'équité.
+Si l'équipe décide d'un dispositif d'accès géré, elle devrait :
+
+* Négocier les conditions ; si le fournisseur n'y consent pas, ramener la question devant le conseil.
+* Nommer ce qui est déplacé, au lieu de le laisser non dit.
+* Publier les critères d'éligibilité et les raisons qui les fondent.
+* Mesurer les résultats, y compris l'adoption par groupe, et réexaminer l'équité au point de revue.
+* Énoncer ouvertement l'incertitude des éléments de preuve.
+
+## Décisions liées
+
+* [Évaluer la valeur publique dans la refonte d'un service](../valeur-publique/) : évaluation du secteur public avec l'équité en tête.
+* Décisions pas encore prises : critères d'éligibilité ; conception du réexamen ; recueil des données.
+
+## Notes liées
+
+* Points ouverts : rassembler les données d'essais ; estimer la population éligible ; interroger le fournisseur sur ses conditions ; vérifier la saisie des données.
+* En savoir plus :
+  * Wikipédia : [Health economics](https://en.wikipedia.org/wiki/Health_economics), [Quality-adjusted life year](https://en.wikipedia.org/wiki/Quality-adjusted_life_year), [Cost-effectiveness analysis](https://en.wikipedia.org/wiki/Cost-effectiveness_analysis), [Cost–utility analysis](https://en.wikipedia.org/wiki/Cost%E2%80%93utility_analysis), [Incremental cost-effectiveness ratio](https://en.wikipedia.org/wiki/Incremental_cost-effectiveness_ratio), [Health technology assessment](https://en.wikipedia.org/wiki/Health_technology_assessment), [Health care rationing](https://en.wikipedia.org/wiki/Health_care_rationing), [Health equity](https://en.wikipedia.org/wiki/Health_equity)
+  * Vidéo : [Quality-adjusted life year (QALY), MIDAS Health Economics series](https://www.youtube.com/watch?v=owG8jVF_YWg)
+  * Lecture : [NICE health technology evaluations: the manual](https://www.nice.org.uk/process/pmg36); [Health Economics Guide](https://github.com/health-economics-guide/health-economics-guide)

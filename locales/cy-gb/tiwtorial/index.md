@@ -105,4 +105,4 @@ Gweler y [rhestr wirio](../rhestr-wirio/index.md) am fersiwn gryno, ailadroddadw
 
 ## Y sefyllfa enghreifftiol yn llawn
 
-I gael enghraifft gyflawn, wedi'i llenwi, a adeiladwyd o sefyllfa'r tiwtorial hwn, gweler cofnod enghreifftiol tebyg yn [examples/index.md](../enghreifftiau/index.md), er enghraifft mae'r enghraifft [Adeiladu neu brynu ar gyfer prosiect](../enghreifftiau/adeiladu-neu-brynu/) yn dilyn yr un strwythur o'r dechrau i'r diwedd, gan gynnwys adran Canlyniadau wedi'i hysgrifennu'n llawn.
+I gael enghraifft wedi'i llenwi o benderfyniad tebyg, gweler [examples/index.md](../enghreifftiau/index.md), er enghraifft yr enghraifft [Adeiladu neu brynu ar gyfer prosiect](../enghreifftiau/adeiladu-neu-brynu/). Mae'n defnyddio'r templed cynhwysfawr, lle mae Goblygiadau yn cyfateb i'r adran Canlyniadau uchod, ac mae'n waith ar y gweill sy'n dangos sut mae tîm yn gwneud cynnydd ar benderfyniad, nid cofnod terfynol.

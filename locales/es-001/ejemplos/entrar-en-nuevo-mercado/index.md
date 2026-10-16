@@ -1,55 +1,108 @@
 # Entrar en el segmento de mercado medio
 
-* Estado: aceptado
+* Estado: solicitud de comentarios
 * Fecha: 2026-03-10
-* Quien decide: CEO, con la aprobación del Consejo
+* Quien decide: CEO, con la opinión del Consejo (por confirmar)
 * Responsable: vicepresidente de Estrategia
 
-Resumen: ampliaremos nuestro enfoque comercial, hasta ahora solo para grandes empresas, para incluir el segmento de mercado medio (de 100 a 1000 empleados), a partir del tercer trimestre, financiado reasignando el 15 % de la capacidad del equipo de ventas corporativas.
+Resumen: trabajo en curso. Este es un punto de partida para un equipo que está considerando si extender, y cómo, un enfoque comercial pensado para grandes clientes a un segmento de clientes de tamaño medio. Muestra cómo un equipo puede enmarcar la cuestión, debatir las opciones y reunir información. No registra ninguna decisión.
 
 ## Problema
 
-Nuestro embudo corporativo se ha estancado en unas 40 cuentas cualificadas por trimestre en nuestros territorios alcanzables, mientras que la tasa de éxito se ha mantenido plana durante dos años. Mientras tanto, el interés espontáneo de empresas más pequeñas (de 100 a 1000 empleados) se ha triplicado año tras año, y actualmente rechazamos esa demanda o la atendemos mal con un proceso de ventas configurado para grandes empresas. El Consejo ha pedido una vía de crecimiento creíble más allá de la saturación de las cuentas corporativas.
+Una empresa que vende a grandes clientes ve aplanarse su cartera de oportunidades y estancarse su tasa de éxito, mientras crece el interés entrante de empresas más pequeñas. Hoy rechaza esa demanda o la atiende mal con un enfoque comercial diseñado para grandes operaciones. El Consejo quiere una vía de crecimiento creíble más allá de la saturación del segmento de grandes empresas.
+
+Las preguntas que el equipo debe responder:
+
+* ¿Es atractivo el segmento medio para nosotros (tamaño, crecimiento, necesidades que podemos atender, competencia)?
+* ¿Podemos ganar y atenderlo de forma rentable con nuestro producto, nuestro precio y nuestro enfoque comercial, o hay que cambiar algo?
+* ¿Cómo entrar y con qué recursos, dado que puede no ser posible contratar personal nuevo?
+* ¿Qué nos diría pronto que funciona o no?
 
 ## Supuestos
 
-* Los compradores del mercado medio convierten más rápido (se supone un ciclo medio de 45 días frente a 120 días en el segmento corporativo), pero con aproximadamente un tercio del valor medio del contrato.
-* Nuestro producto necesita una simplificación moderada (menos pasos de configuración) para ser viable en una incorporación autoservicio del mercado medio.
-* El talento comercial corporativo actual no está optimizado para un proceso de mayor velocidad y menor contacto, y necesitaría reciclaje o refuerzo.
+Cada supuesto es algo que hay que comprobar.
+
+* **Los compradores del segmento medio deciden más rápido pero gastan menos por cliente.** Comprobación: entrevistar a posibles clientes medianos recientes y revisar la duración y el tamaño de las operaciones en los datos que ya tenemos.
+* **El producto necesita una simplificación modesta para ajustarse a la incorporación de clientes medianos.** Comprobación: observar a clientes medianos usándolo y enumerar los pasos que generan confusión.
+* **El equipo comercial actual puede adaptarse a un enfoque más rápido y de menor contacto.** Comprobación: preguntar al equipo comercial qué necesitaría e identificar quién lo ha hecho antes.
+* **Entrar en el segmento no perjudicará los resultados con grandes empresas.** Comprobación: estimar la capacidad que la medida quitaría a las grandes cuentas y de qué equipos.
 
 ## Restricciones
 
-* No se ha aprobado personal nuevo neto para el ejercicio 2026; cualquier iniciativa para el mercado medio debe financiarse con el presupuesto existente.
-* No deben ponerse en riesgo los objetivos de ingresos corporativos del ejercicio en curso.
-* Legal ha señalado que los términos actuales de nuestro acuerdo marco de servicios presuponen ciclos de compra de escala corporativa y necesitarán una versión simplificada para operaciones de cierre más rápido.
+* Este año no se puede aprobar ninguna contratación nueva; cualquier iniciativa debe financiarse con el presupuesto existente.
+* No deben ponerse en riesgo los compromisos de ingresos con grandes empresas del ejercicio en curso.
+* Los términos contractuales pensados para grandes compradores pueden ser demasiado pesados para operaciones más rápidas; el área jurídica lo ha señalado.
+* Desconocido, por confirmar: el tamaño del segmento en nuestros territorios, los precios que aceptará el segmento y la carga de soporte.
 
 ## Opciones consideradas
 
-* **Seguir solo con grandes empresas e invertir más en su expansión.** El menor riesgo de ejecución, pero no resuelve el estancamiento; varios miembros del Consejo dudan de que esto por sí solo alcance el objetivo de crecimiento del próximo año.
-* **Entrar en el mercado medio con un equipo nuevo dedicado, financiado con personal nuevo.** La ejecución más limpia, pero bloqueada por la congelación de contrataciones del año en curso.
-* **Entrar en el mercado medio reasignando el 15 % de la capacidad de ventas corporativas existente, con un proceso de incorporación simplificado.** Arranque más lento que un equipo dedicado, pero financiable con la plantilla actual y reversible en dos trimestres si el rendimiento es bajo.
-* **Entrar en el mercado medio mediante una alianza con canales o revendedores en lugar de ventas directas.** El menor coste interno, pero las llamadas de referencia con dos empresas homólogas indicaron que los modelos liderados por socios rinden aproximadamente la mitad que la venta directa durante el primer año, y cederíamos la relación con el cliente.
+Para cada opción, estimar el valor, los costos, el calendario y las capacidades necesarias, y anotar qué evidencia haría cambiar de opinión al equipo.
+
+* **Seguir solo con grandes empresas e invertir más en su expansión.**
+  * Valor: menor riesgo de ejecución; se apoya en lo que funciona.
+  * Riesgos: no resuelve el aplanamiento de la cartera; los escépticos dudan de que baste para alcanzar los objetivos de crecimiento.
+* **Entrar con un equipo nuevo dedicado.**
+  * Valor: ejecución más limpia y enfoque.
+  * Factores de costo: contratación, incorporación, salarios, tiempo de gestión; bloqueado si hay congelación de contrataciones.
+  * Forma del calendario: arranque lento por la contratación; rampa de aceleración larga.
+* **Entrar reasignando parte de la capacidad comercial existente de grandes cuentas**, con un proceso de incorporación simplificado.
+  * Valor: financiable ahora; reversible si el rendimiento es bajo; datos reales sobre la economía del segmento antes de un compromiso mayor.
+  * Factores de costo: cobertura perdida de grandes cuentas; recapacitación; trabajo de producto y jurídico para una incorporación y términos más sencillos.
+  * Capacidades necesarias: una célula con buen liderazgo; cambios de producto; términos contractuales simplificados.
+  * Riesgos: rampa más lenta que con un equipo dedicado; la cartera de grandes cuentas sufre.
+* **Entrar mediante socios de canal o revendedores.**
+  * Valor: menor costo interno; alcance.
+  * Factores de costo: margen de los socios, capacitación, gestión de socios.
+  * Riesgos: menor control de la relación con el cliente; los resultados pueden quedar por debajo de la venta directa (conviene comprobarlo con empresas comparables).
+* **Atender el segmento con un producto de autoservicio** y sin intervención comercial. Probar la disposición a comprar sin contacto.
 
 ## Argumento
 
-La opción de reasignación es la única que es a la vez financiable con las restricciones de este año y reversible si el supuesto subyacente sobre la velocidad de conversión del mercado medio resulta equivocado. También nos da datos reales sobre la economía del mercado medio antes de comprometer la inversión en un equipo dedicado en la planificación presupuestaria del ejercicio 2027, en lugar de comprometer personal en un modelo no probado.
+Puntos de debate que el equipo debería esperar:
+
+* **Crecimiento frente a enfoque.** ¿Añadir un segmento diluye lo que hace buena a la empresa con las grandes cuentas?
+* **Rapidez frente a reversibilidad.** ¿Qué opciones pueden deshacerse a bajo costo si los supuestos resultan falsos?
+* **¿Quién paga?** La reasignación protege el presupuesto pero traslada el costo a la atención perdida a las grandes cuentas.
+* **Posición.** Según la matriz de Ansoff, vender un producto existente a un mercado nuevo (desarrollo de mercado) es menos arriesgado que cambiar además el producto (diversificación). ¿Dónde se sitúa esta medida?
+
+Cómo podría el equipo evaluar los costos y las compensaciones:
+
+1. Dimensionar la oportunidad como un rango: número de empresas objetivo, parte alcanzable, valor esperado de la operación, tasa de éxito y ciclo de venta, con supuestos claramente etiquetados.
+2. Valorar la entrada: capacidad desplazada, cambios de producto, trabajo jurídico, marketing, términos con socios y el costo de oportunidad de lo que haría de otro modo el equipo de grandes cuentas.
+3. Comparar las opciones en escenarios optimista, probable y pesimista; comparar el período de recuperación y el valor de aprendizaje.
+4. Elegir con antelación indicadores adelantados: oportunidades calificadas, conversión en cada etapa, tiempo de cierre y costo de adquirir un cliente, junto con los efectos sobre la cartera de grandes cuentas.
+5. Usar una matriz ponderada (valor, costo, rapidez, reversibilidad, riesgo para el negocio principal) y un pre-mortem.
 
 ## Decisión
 
-Entraremos en el segmento de mercado medio a partir del tercer trimestre, con personal procedente de la reasignación del 15 % de la capacidad de ventas corporativas a un grupo de mercado medio, con un flujo de incorporación simplificado y términos del acuerdo marco ajustados para el segmento.
+**Aún no se ha decidido.** Este es un punto de partida. Un equipo que lo use debe sustituir esta sección por su propia decisión.
+
+Forma sugerida de llegar a una decisión:
+
+* Confirmar quién decide y qué necesita ver el Consejo.
+* Acordar primero los criterios y las ponderaciones.
+* Reunir la evidencia indicada arriba y anotar lo que se encontró.
+* Compartir para comentarios; luego decidir y actualizar el Estado.
 
 ## Implicaciones
 
-* El vicepresidente de Ventas identificará qué 15 % de la capacidad corporativa se traslada, antes de que termine el segundo trimestre.
-* Producto definirá el alcance de la simplificación de la incorporación para una versión del tercer trimestre.
-* Legal redactará una variante simplificada del acuerdo marco para las cuentas del mercado medio.
-* El vicepresidente de Estrategia informará al Consejo de los datos de conversión y de coste de adquisición de clientes del mercado medio al final del tercer y del cuarto trimestre, como base de una decisión de inversión en un equipo dedicado para el ejercicio 2027.
-* Los objetivos de ingresos corporativos no cambian; si la reasignación perjudica de forma medible al embudo corporativo, esta decisión se revisará antes de la planificación del ejercicio 2027.
+Si el equipo elige una entrada por etapas, necesitaría:
+
+* Indicar qué capacidad se desplaza, cuándo, y qué pasa con los objetivos de grandes cuentas.
+* Planificar el trabajo de producto, jurídico y de incorporación que necesita el segmento.
+* Acordar puntos de control (por ejemplo, al final de dos períodos) con criterios claros para continuar, ampliar o detenerse.
+* Informar al Consejo de los resultados del segmento de manera coherente.
 
 ## Decisiones relacionadas
 
-* No sustituye ninguna decisión anterior; establece una nueva estrategia de segmento sobre la que se construirá la planificación de personal del ejercicio 2027.
+* [Pasar a precios basados en el uso](../cambio-modelo-precios/): los precios de un segmento nuevo pueden requerir replantearse.
+* [Seleccionar una plataforma CRM](../seleccion-proveedor-crm/): las herramientas de ventas pueden tener que cambiar para un enfoque más rápido.
+* Decisiones aún no tomadas: precios y paquetes para el segmento; estrategia de socios; dotación de personal del próximo año.
 
 ## Notas relacionadas
 
-* Dos miembros del Consejo pidieron un punto de control firme al final del cuarto trimestre en lugar de un piloto sin plazo; se recoge arriba como el detonante de la planificación del ejercicio 2027.
+* Puntos abiertos: entrevistar a posibles clientes medianos recientes; enumerar las razones de operaciones ganadas y perdidas; pedir al área jurídica un conjunto de términos más ligero.
+* Más información:
+  * Wikipedia: [Market entry strategy](https://en.wikipedia.org/wiki/Market_entry_strategy), [Ansoff matrix](https://en.wikipedia.org/wiki/Ansoff_matrix), [Market segmentation](https://en.wikipedia.org/wiki/Market_segmentation), [Customer acquisition cost](https://en.wikipedia.org/wiki/Customer_acquisition_cost), [Porter's five forces analysis](https://en.wikipedia.org/wiki/Porter%27s_five_forces_analysis), [SWOT analysis](https://en.wikipedia.org/wiki/SWOT_analysis)
+  * ISO: [ISO 31000 family, Risk management](https://www.iso.org/standards/popular/iso-31000-family)
+  * Vídeo: [The Ansoff Matrix Explained with Example](https://www.youtube.com/watch?v=HeIipDK2CVc) (EPM)

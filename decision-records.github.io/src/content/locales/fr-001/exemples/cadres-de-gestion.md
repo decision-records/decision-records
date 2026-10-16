@@ -1,32 +1,109 @@
 # Introduire progressivement un cadre de gestion
 
-* Statut : accepté
+* Statut : demande de commentaires
 * Date : 2026-10-01
-* Décideur(s) : PDG et équipe de direction
+* Décideur(s) : PDG et équipe de direction (à confirmer)
 * Propriétaire : chef de cabinet
 
-## Contexte
+Résumé : travail en cours. Ceci est un point de départ pour une équipe qui envisage comment introduire un cadre de définition d'objectifs à l'échelle de l'entreprise, tel que les Objectifs et résultats clés (OKR). Il montre comment une équipe peut cadrer la question, débattre des options et recueillir des éléments de preuve. Il n'enregistre aucune décision.
 
-La direction veut adopter les objectifs et résultats clés (OKR) comme cadre de fixation d'objectifs à l'échelle de l'entreprise, parce que les équipes fixent actuellement leurs objectifs dans des formats et des rythmes différents et que les dirigeants ne voient pas comment le travail des équipes se relie aux priorités de l'entreprise. Notre dernière tentative de déployer un nouveau processus de planification auprès des 240 salariés d'un seul coup s'est enlisée en deux trimestres : les managers n'étaient pas formés, l'outillage n'était pas arrêté, et les gens l'ont traité comme du reporting supplémentaire. Nous devons choisir comment introduire le cadre, non pas s'il faut le faire.
+## Problème
+
+La direction envisage un cadre commun de définition d'objectifs, car les équipes fixent actuellement leurs objectifs dans des formats et à des rythmes différents, et les dirigeants voient mal comment le travail des équipes se rattache aux priorités de l'entreprise. Les OKR (Objectives and Key Results) sont le principal candidat, mais l'équipe n'a pas encore convenu qu'ils sont le bon cadre. Une tentative passée de déployer partout à la fois un nouveau processus de planification s'est enlisée : les managers n'étaient pas formés, les outils n'étaient pas arrêtés et les gens y ont vu un reporting supplémentaire.
+
+Les questions auxquelles l'équipe doit répondre :
+
+* Un cadre commun est-il la bonne réponse au manque de visibilité, ou quelque chose de plus simple suffit-il ?
+* Si oui, les OKR sont-ils le bon cadre, ou une autre approche (par exemple un tableau de bord prospectif, ou le management par objectifs) conviendrait-elle mieux ?
+* Comment l'introduire : partout à la fois, par phases, ou seulement au sommet ?
+* Qu'est-ce qui permettrait de dire qu'une phase est « terminée », pour que la suivante puisse commencer ?
+
+## Hypothèses
+
+Chaque hypothèse est à vérifier, pas à tenir pour acquise.
+
+* **Les équipes utiliseront le cadre s'il leur fait gagner du temps.** Vérification : interroger quelques équipes sur la façon dont elles fixent et suivent leurs objectifs aujourd'hui et sur ce à quoi elles renonceraient.
+* **Un petit pilote est représentatif.** Vérification : choisir des équipes pilotes de nature différente (par exemple une équipe tournée vers les clients, une équipe produit, une équipe support) et voir si leurs expériences divergent.
+* **Les dirigeants dégageront du temps pour la formation.** Vérification : leur demander ce qu'ils arrêteraient de faire pour se libérer, et consulter les agendas avant de s'engager.
+* **Le manque de visibilité vient d'objectifs incohérents**, et non d'autre chose, comme des priorités peu claires ou un reporting faible. Vérification : suivre deux ou trois priorités de l'entreprise jusqu'au travail des équipes et repérer où le lien se rompt.
+
+## Contraintes
+
+* Un déploiement précédent s'est enlisé : la patience pour une répétition est limitée. Confirmer ce qui a exactement mal tourné la dernière fois.
+* Les managers doivent être formés avant que leurs équipes soient invitées à utiliser le cadre.
+* Le choix de l'outil doit découler de ce dont les équipes pilotes ont réellement besoin, mais il faut dès le départ un moyen provisoire d'enregistrer les objectifs.
+* Inconnu, à confirmer : le lien entre le cadre et les cycles existants de planification, de budget et d'évaluation, et ce que la direction accepte ou non d'y rattacher.
 
 ## Options envisagées
 
-* **Déploiement en un seul coup.** Chaque équipe adopte les OKR au début du trimestre prochain. Donne le plus vite un langage commun et évite de faire tourner deux systèmes côte à côte, mais reproduit les conditions qui ont enlisé le dernier déploiement : pas le temps de former les managers, pas d'exemples éprouvés, et aucune chance de corriger le cadre avant que tout le monde en dépende.
-* **Déploiement progressif sur trois trimestres.** Commencer par l'équipe de direction, ajouter un petit groupe de départements pilotes, puis étendre à toute l'entreprise. Coûte environ deux trimestres de plus avant que toutes les équipes soient alignées, et pendant ce temps deux systèmes de fixation d'objectifs coexistent, mais chaque phase nous apprend ce qu'il faut changer avant la suivante.
-* **L'adopter au niveau de la direction seulement.** Le moindre effort et le moindre risque, mais cela ne règle pas le problème de visibilité, car les objectifs des équipes resteraient dans des formats et des rythmes différents.
+Pour chaque option, l'équipe doit estimer la valeur, le coût, le calendrier et les capacités nécessaires, et noter les éléments de preuve qui lui feraient changer d'avis.
+
+* **Introduire partout en même temps.**
+  * Valeur : un langage commun rapidement ; pas de période où deux systèmes coexistent.
+  * Postes de coût : formation de tous les managers à la fois ; temps de chaque équipe pour rédiger et revoir ses objectifs ; charge de support pour le responsable du cadre ; coût d'un déploiement raté (perte de crédibilité).
+  * Forme du calendrier : court au départ, long à stabiliser. Les problèmes apparaissent chez tout le monde simultanément.
+  * Capacités nécessaires : animateurs formés en nombre ; outils arrêtés.
+  * Risques : reproduit les conditions de l'enlisement précédent.
+* **Introduire par phases : équipe de direction, puis quelques départements pilotes, puis tout le monde.**
+  * Valeur : chaque phase apprend à l'équipe ce qu'il faut changer avant la suivante ; des exemples précoces convainquent les sceptiques.
+  * Postes de coût : une période plus longue avec deux approches de définition d'objectifs ; coordination supplémentaire ; temps de formation et de revue supplémentaire pour les équipes pilotes, à budgéter explicitement.
+  * Forme du calendrier : des phases successives, chacune assez longue pour mener au moins un cycle d'objectifs complet, notation et revue comprises.
+  * Capacités nécessaires : un responsable nommé ; des critères de sortie écrits pour chaque phase ; un moyen de recueillir les retours des pilotes.
+  * Risques : l'élan retombe entre les phases ; les équipes pilotes ne sont pas représentatives.
+* **Adopter seulement au niveau de la direction.**
+  * Valeur : effort et risque minimaux.
+  * Postes de coût : faibles, mais le bénéfice peut l'être aussi.
+  * Risques : ne résout pas la visibilité en dessous de l'équipe de direction.
+* **Ne rien introduire de nouveau et traiter le manque de visibilité autrement** (par exemple avec un simple document de priorités partagé). À chiffrer honnêtement comme référence à laquelle comparer les autres options.
+
+## Argumentation
+
+Points de débat à prévoir :
+
+* **Vitesse ou apprentissage.** Déployer partout à la fois est plus rapide, mais ne laisse aucune chance de corriger le cadre avant que tout le monde en dépende. Que vaut cette vitesse ?
+* **Adéquation ou effet de mode.** Les OKR sont très cités, mais l'équipe doit se demander quel problème ils résolvent ici et à quoi ressemble un bon résultat en termes de changement observable.
+* **Coût de deux systèmes.** Procéder par phases signifie que certaines équipes travaillent encore à l'ancienne un moment. Est-ce acceptable, et combien de temps ?
+
+Comment l'équipe pourrait évaluer les coûts et les arbitrages :
+
+1. Lister les coûts ponctuels (conception, formation, animation, mise en place des outils) et les coûts récurrents (temps passé à rédiger, revoir et noter les objectifs ; licences ; temps du responsable) selon les termes propres à l'organisation, par exemple en temps de travail et en dépenses, sous forme de fourchettes plutôt que de chiffres uniques.
+2. Lister les bénéfices observables : moins d'objectifs en double ou contradictoires, conversations d'alignement plus rapides, meilleure capacité à relier le travail aux priorités.
+3. Comparer les options dans au moins trois scénarios (cela marche bien, cela marche en partie, cela s'enlise) et se demander quelle option laisse le moins de regrets si cela s'enlise.
+4. Utiliser une matrice de décision pondérée simple pour des critères tels que l'apprentissage, la vitesse, le risque, le coût et l'adéquation avec la planification existante.
+5. Mener un pré-mortem : supposer que le déploiement a échoué dans un an et lister les raisons.
 
 ## Décision
 
-Nous introduirons progressivement les OKR sur trois trimestres : l'équipe de direction au premier, trois départements pilotes (Ventes, Produit et Support client) au deuxième, et toutes les équipes restantes au troisième. Chaque phase ne commence que lorsque les critères de sortie de la précédente sont remplis : les dirigeants ont été formés, les objectifs ont été notés à la fin d'un cycle complet, et les équipes pilotes indiquent que le processus vaut le temps qu'il prend.
+**Pas encore décidé.** Ceci est un point de départ. Une équipe qui l'utilise doit remplacer cette section par sa propre décision une fois les questions ci-dessus traitées.
 
-## Conséquences
+Manière suggérée d'aboutir à une décision :
 
-* Le chef de cabinet pilotera le déploiement, publiera les critères de sortie de chaque phase et rendra compte chaque mois de l'avancement à l'équipe de direction.
-* Jusqu'au troisième trimestre, la plupart des équipes gardent leur format actuel de fixation d'objectifs, si bien que la visibilité à l'échelle de l'entreprise sera incomplète pendant le déploiement. Nous l'acceptons en échange de la correction du cadre avant que tout le monde en dépende.
-* Les départements pilotes prennent en charge du temps supplémentaire de formation et de revue, que nous budgéterons explicitement plutôt que de l'absorber en silence.
-* Nous déciderons de l'outil (un document partagé ou un produit dédié) à la fin du deuxième trimestre, d'après ce dont les équipes pilotes ont réellement eu besoin, pas avant.
-* Si les critères de sortie d'une phase ne sont pas remplis, nous répétons cette phase un trimestre de plus au lieu d'avancer ; une décision de suite consignera tout changement du plan.
+* Confirmer qui décide (une personne, ou une règle telle que le consensus avec escalade après un délai défini).
+* Convenir des critères et de leur pondération avant de comparer les options.
+* Recueillir les éléments listés sous Hypothèses et consigner ce qui a été trouvé.
+* Diffuser le registre pour commentaires avec une date limite, puis décider et mettre à jour le Statut.
 
-## Liés
+## Implications
 
-* Cette décision ne change ni les rémunérations ni les évaluations de performance ; les lier ou non aux OKR est une décision distincte que nous ne prendrons pas avant la troisième phase.
+Si l'équipe choisit une approche par phases, elle devrait :
+
+* Nommer un responsable et publier des critères de sortie pour chaque phase (par exemple dirigeants formés, un cycle complet noté, équipes pilotes estimant que le processus vaut le temps qu'il demande).
+* Budgéter explicitement le temps de formation et de revue, au lieu de l'absorber silencieusement.
+* Décider de l'outil tard, à partir de ce dont les équipes pilotes ont eu besoin.
+* Convenir de ce qui se passe si une phase n'atteint pas ses critères : la répéter, ajuster le cadre ou arrêter.
+* Décider séparément, et plus tard, s'il faut lier le cadre à la rémunération ou aux évaluations de performance.
+
+## Décisions liées
+
+* [Adopter un modèle opérationnel cible](../modele-operationnel-cible/) : comment le cadre s'insère dans le fonctionnement plus large de l'organisation.
+* [Choisir nos cadres de technologies de l'information](../cadres-technologies-information/) : la même question de phasage appliquée à plusieurs cadres à la fois.
+* Décisions pas encore prises : outil d'enregistrement des objectifs ; lien éventuel entre objectifs et rémunération ou évaluation.
+
+## Notes liées
+
+* Points ouverts : confirmer ce qui a mal tourné lors du déploiement précédent ; repérer les départements pilotes possibles ; demander aux managers ce qu'ils voudraient voir par écrit avant le début de la première phase.
+* En savoir plus :
+  * Wikipédia : [Objectives and key results](https://en.wikipedia.org/wiki/Objectives_and_key_results), [Management by objectives](https://en.wikipedia.org/wiki/Management_by_objectives), [Balanced scorecard](https://en.wikipedia.org/wiki/Balanced_scorecard), [Change management](https://en.wikipedia.org/wiki/Change_management), [John Kotter](https://en.wikipedia.org/wiki/John_Kotter)
+  * ISO : [ISO 9001:2015, Quality management systems](https://www.iso.org/standard/62085.html), [ISO 37000:2021, Governance of organizations](https://www.iso.org/standard/65036.html)
+  * Vidéo : [Why the secret to success is setting the right goals](https://www.youtube.com/watch?v=L4N1q4RNi9I) (John Doerr, TED); [What is John Kotter's 8-Step Process for Managing Change?](https://www.youtube.com/watch?v=e1VDmj1bFFY) (Mike Clayton)
+  * Lecture : [What Matters](https://www.whatmatters.com/); *Measure What Matters* (John Doerr); *Leading Change* (John P. Kotter)

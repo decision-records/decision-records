@@ -20,7 +20,7 @@ Ce que contient ce dépôt :
 - [guide](guide) : ce qu'est un registre de décision, pourquoi on les utilise, cycle de vie, gouvernance et plus encore.
 - [modèle](modele) : modèle à copier-coller avec mise en forme Markdown et suggestions pas à pas.
 - [tutoriel](tutoriel) : un parcours pratique, pas à pas : rédigez votre premier registre de décision en moins de 20 minutes.
-- [exemples](exemples) : exemples travaillés de décisions de stratégie, de ventes, de marketing, de produit, de RH, de risque, de projet et de technologie.
+- [exemples](exemples) : exemples de départ (travaux en cours, pas des décisions finales) sur des décisions de stratégie, de ventes, de marketing, de produit, de RH, de risque, de projet et de technologie.
 - [liste de contrôle](liste-de-controle) : listes de contrôle pour décider s'il faut en rédiger un, bien l'écrire, le relire et conduire la pratique dans une organisation.
 - [aide](aide) : FAQ, dépannage et glossaire pour les questions courantes des dirigeants lors de l'adoption.
 - [spec](https://github.com/decision-records/decision-records/tree/main/spec) : la spécification de ce dépôt : structure, contenu, versions linguistiques, site web et agents.

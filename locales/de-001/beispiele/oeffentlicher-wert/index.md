@@ -1,32 +1,103 @@
 # Den öffentlichen Wert bei der Neugestaltung eines Dienstes abwägen
 
-* Status: angenommen
+* Status: Kommentierung erbeten
 * Datum: 2026-06-18
-* Entscheidende: Generaldirektorin bzw. Generaldirektor, mit dem Behördenvorstand
+* Entscheidende: Generaldirektorin bzw. Generaldirektor, mit dem Behördenvorstand (noch zu bestätigen)
 * Verantwortlich: Leitung Servicedesign
 
-## Kontext
+Zusammenfassung: in Arbeit. Dies ist ein Ausgangspunkt für eine öffentliche Stelle, die einen Dienst neu gestaltet und den öffentlichen Wert abwägen will, nicht nur die Effizienz. Er zeigt, wie ein Team die Frage fassen, die Optionen diskutieren und Informationen sammeln kann. Er hält keine Entscheidung fest.
 
-Unsere Behörde bearbeitet jährlich etwa 400.000 Leistungsanträge. Anträge dauern im Median 38 Tage, und eine kürzliche Überprüfung ergab, dass diejenigen am längsten warten, die das Online-Formular am wenigsten ausfüllen können: ältere Menschen, Menschen mit eingeschränkten Sprachkenntnissen und Menschen ohne zuverlässigen Internetzugang. Ein Vorschlag würde alle Anträge auf einen reinen Digitaldienst umstellen und zwei der vier lokalen Dienststellen schließen, was geschätzt 14 % der Betriebskosten spart. Weil dies ein öffentlicher Dienst ist, genügt eine effiziente Wahl nicht: Sie muss auch legitim, fair und von uns tragbar sein – das sind die drei Teile des strategischen Dreiecks des öffentlichen Werts (Legitimität und Unterstützung, geschaffener öffentlicher Wert und operative Leistungsfähigkeit).
+## Problem
+
+Eine öffentliche Behörde bearbeitet eine große Zahl von Leistungsanträgen. Die Anträge dauern lange, und eine jüngste Überprüfung ergab, dass diejenigen am längsten warten, die das Online-Formular am wenigsten ausfüllen können: ältere Menschen, Menschen mit begrenzten Sprachkenntnissen und Menschen ohne zuverlässigen Internetzugang. Ein Vorschlag würde alle Anträge auf einen rein digitalen Dienst umstellen und einige Außenstellen schließen, um Betriebskosten zu sparen.
+
+Weil es sich um einen öffentlichen Dienst handelt, genügt eine effiziente Wahl nicht. Sie muss auch legitim, fair und für die Behörde tragfähig sein. Mark Moores strategisches Dreieck des öffentlichen Werts nennt diese drei Teile: Legitimität und Unterstützung, geschaffener öffentlicher Wert und operative Leistungsfähigkeit.
+
+Die zu beantwortenden Fragen:
+
+* Wer nutzt den Dienst, und wer wird von jeder Option zurückgelassen?
+* Was schätzt die Öffentlichkeit, und woran erkennen wir, dass wir es liefern?
+* Was denken gewählte Vertreter, Antragstellende, Beschäftigte und Interessenvertretungen, und warum?
+* Was kann die Behörde tatsächlich liefern und aufrechterhalten?
+
+## Annahmen
+
+Jede Annahme ist zu prüfen.
+
+* **Wer am längsten wartet, kann einen rein digitalen Dienst am wenigsten nutzen.** Prüfung: Anträge nach Weg, Dauer und Merkmalen analysieren; Antragstellende befragen.
+* **Digital unterstützte Hilfe kann die meisten Antragstellenden mit der Zeit auf den digitalen Weg bringen.** Prüfung: in ein oder zwei Außenstellen pilotieren und Ergebnisse messen.
+* **Widerstand gegen Schließungen würde Legitimität und Unterstützung schwächen.** Prüfung: gewählte Vertreter vor Ort und Gemeindegruppen früh konsultieren.
+* **Das Personal kann für die unterstützte Arbeit geschult werden.** Prüfung: Personal und Führungskräfte fragen und die Schulungszeit schätzen.
+
+## Einschränkungen
+
+* Der Dienst muss legitim und fair sein, nicht nur effizient.
+* Geschultes Personal muss vor dem Start finanziert werden.
+* Jeder Vorschlag, eine Außenstelle zu schließen, sollte eine eigene Entscheidung sein.
+* Unbekannt, zu klären: gesetzliche Pflichten zu Zugang und Gleichbehandlung, das Budget der Neugestaltung und die Wirkung anderer Reformen.
 
 ## Betrachtete Optionen
 
-* **Reiner Digitaldienst, zwei lokale Dienststellen geschlossen.** Bringt die größte Einsparung und die schnellste mediane Bearbeitungszeit für diejenigen, die ihn nutzen, verlagert die Last aber auf die, die sie am wenigsten tragen können, und stößt voraussichtlich auf starken Widerstand lokaler Vertreter, was Legitimität und Unterstützung schwächt.
-* **Digital-zuerst-Dienst, assistierte Wege bleiben erhalten.** Digital ist der Standard, aber die vier Dienststellen bleiben als Zentren für assistierte digitale Nutzung geöffnet, und ein Telefonweg bleibt verfügbar. Bringt den größten Teil des Bearbeitungsnutzens und schützt den Zugang, aber die Einsparung ist deutlich geringer, etwa 5 %.
-* **Die aktuelle Mischung beibehalten und verbessern.** Nur Prozessverbesserungen. Das geringste Risiko und keine Zugangsbedenken, lässt aber den Median von 38 Tagen weitgehend unverändert und nutzt die Chance digitaler Werkzeuge nicht.
+Für jede Option Nutzen, Kosten, Zeitplan und benötigte Fähigkeiten schätzen und festhalten, welche Belege das Team umstimmen würden.
+
+* **Rein digitaler Dienst, mit Schließung einiger Außenstellen.**
+  * Nutzen: größte Einsparung; schnellste Bearbeitung für alle, die ihn nutzen können.
+  * Risiken: verlagert die Last auf diejenigen, die sie am wenigsten tragen können; löst wahrscheinlich starken Widerstand aus, der die Legitimität schwächt.
+* **Digital zuerst, mit erhaltenen unterstützten Wegen.** Digital ist der Standardweg, die Außenstellen bleiben als Zentren für digital unterstützte Hilfe geöffnet, und ein telefonischer Weg bleibt bestehen.
+  * Nutzen: der Großteil des Bearbeitungsvorteils bei geschütztem Zugang.
+  * Kostentreiber: Schulung des Personals; Betrieb mehrerer Kanäle; geringere Einsparung.
+* **Die derzeitige Mischung beibehalten und verbessern.** Nur Prozessverbesserungen.
+  * Nutzen: geringstes Risiko; keine Zugangssorgen.
+  * Risiken: lässt die langen Wartezeiten weitgehend unverändert und nutzt die Möglichkeiten des Digitalen nicht.
+* **Mit Antragstellenden gemeinsam gestalten**, bevor ein Modell gewählt wird, und mehrere Servicemuster in Piloten testen.
+
+## Argumentation
+
+Diskussionspunkte, mit denen das Team rechnen sollte:
+
+* **Effizienz gegen Gerechtigkeit.** Wie viel Einsparung ist wie viel weniger Zugang wert? Wer entscheidet?
+* **Wessen Stimme zählt?** Antragstellende, Personal, gewählte Vertreter und Interessenvertretungen können uneins sein.
+* **Kennzahlen.** Die mediane Bearbeitungszeit allein kann Ungerechtigkeit verbergen. Der Abstand zwischen den am schlechtesten und am besten bedienten Gruppen zählt.
+* **Tragfähigkeit.** Kann die Behörde die unterstützten Dienste dauerhaft aufrechterhalten?
+
+Wie das Team Kosten und Zielkonflikte bewerten könnte:
+
+1. Eine Kosten-Nutzen-Betrachtung verwenden, die soziale Kosten und Nutzen einschließt, wie in Bewertungsleitfäden des öffentlichen Sektors, etwa dem Green Book des britischen Finanzministeriums. Nutzen für Antragstellende (Zeit, Belastung, Zugang) neben den Kosten für die Behörde zählen.
+2. Betriebskosten und Einsparungen jeder Option als Spannen schätzen, einschließlich der Kosten für die Bearbeitung fehlgeschlagener oder wiederholter Anträge.
+3. Kennzahlen zu Gerechtigkeit und Zugang ergänzen: den Abstand der Bearbeitungszeit zwischen Gruppen, Erfolg beim ersten Versuch und Nutzung nach Weg.
+4. Die Optionen an den drei Teilen des strategischen Dreiecks messen und Wirkungen auf Ruf und Politik bedenken.
+5. Pilotieren und Ergebnisse veröffentlichen, mit benannten Kennzahlen und Entscheidungspunkten.
 
 ## Entscheidung
 
-Wir bauen einen Digital-zuerst-Dienst und behalten die vier Dienststellen als Zentren für assistierte digitale Nutzung mit einem Telefonweg. Wir beurteilen die Neugestaltung am öffentlichen Wert, nicht allein an der Einsparung: mediane Bearbeitungszeit, der Abstand der Bearbeitungszeit zwischen den am langsamsten und am schnellsten bedienten Gruppen, die Zahl erfolgreicher Erstanträge und die Einsparung.
+**Noch nicht entschieden.** Dies ist ein Ausgangspunkt. Ein Team, das ihn verwendet, sollte diesen Abschnitt durch seine eigene Entscheidung ersetzen.
 
-## Konsequenzen
+Vorgeschlagenes Vorgehen zur Entscheidungsfindung:
 
-* Die Leitung Servicedesign veröffentlicht die Kennzahlen und berichtet vierteljährlich darüber – einschließlich des Abstands zwischen den Antragstellergruppen – an den Behördenvorstand und die Öffentlichkeit.
-* Wir akzeptieren eine geringere Einsparung (etwa 5 % statt 14 %) im Austausch für fairen Zugang und für Legitimität bei lokalen Vertretern und Antragstellenden.
-* Wir gestalten den assistierten digitalen Dienst gemeinsam mit den Antragstellenden, die derzeit am längsten warten, und veröffentlichen, was wir gelernt haben.
-* Wir nehmen das Dienststellennetz erst nach dem ersten Jahr mit Daten dazu, wer welchen Weg nutzt, wieder in den Blick, und jeder Vorschlag zur Schließung einer Dienststelle ist eine neue Entscheidung.
-* Operative Leistungsfähigkeit: Die assistierten Wege brauchen geschultes Personal, daher wird die Schulung vor dem Start finanziert und nicht nachträglich.
+* Klären, wer entscheidet und was der Behördenvorstand sehen muss.
+* Zuerst Kriterien, einschließlich Gerechtigkeitskennzahlen, und Gewichtung vereinbaren.
+* Die oben genannten Belege sammeln und festhalten, was gefunden wurde.
+* Wo angemessen öffentlich zur Kommentierung stellen, dann entscheiden und den Status aktualisieren.
 
-## Verwandtes
+## Auswirkungen
 
-* Siehe den [Public Value Guide](https://github.com/public-value-guide/public-value-guide) für das strategische Dreieck, die gesellschaftliche Kosten-Nutzen-Analyse und die Gerechtigkeitsaspekte hinter diesen Kennzahlen.
+Wenn sich das Team für einen Dienst „digital zuerst“ mit unterstützten Wegen entscheidet, müsste es:
+
+* Die Kennzahlen veröffentlichen und regelmäßig darüber berichten, einschließlich der Abstände zwischen Gruppen.
+* Personal für die unterstützten Wege vor dem Start finanzieren und schulen.
+* Den unterstützten Dienst gemeinsam mit den am längsten wartenden Antragstellenden gestalten und veröffentlichen, was gelernt wurde.
+* Jeden Vorschlag zur Schließung einer Außenstelle als neue Entscheidung auf Grundlage der Daten des ersten Jahres behandeln.
+
+## Verwandte Entscheidungen
+
+* [Eine hybride Fernarbeitsrichtlinie einführen](../richtlinie-fernarbeit/): die Regelungen für das Personal in den Außenstellen, die geöffnet bleiben.
+* Noch nicht getroffene Entscheidungen: das Netz der Außenstellen; Personal- und Schulungspläne.
+
+## Verwandte Hinweise
+
+* Offene Punkte: Antragsdaten nach Gruppe und Weg analysieren; die Konsultation gewählter Vertreter planen; einen Piloten aufsetzen.
+* Mehr erfahren:
+  * Wikipedia: [Public value](https://en.wikipedia.org/wiki/Public_value), [Cost–benefit analysis](https://en.wikipedia.org/wiki/Cost%E2%80%93benefit_analysis), [Digital divide](https://en.wikipedia.org/wiki/Digital_divide), [Participatory design](https://en.wikipedia.org/wiki/Participatory_design), [Government Digital Service](https://en.wikipedia.org/wiki/Government_Digital_Service), [Public administration](https://en.wikipedia.org/wiki/Public_administration)
+  * ISO: [ISO 9241-210:2019, Human-centred design for interactive systems](https://www.iso.org/standard/77520.html), [ISO 37000:2021, Governance of organizations](https://www.iso.org/standard/65036.html)
+  * Video: [Public Value Conversations, Episode 1: What Is Public Value? With Mark Moore](https://www.youtube.com/watch?v=cC0dSkfGmHU)
+  * Lesen: [The Green Book: appraisal and evaluation in central government](https://www.gov.uk/government/publications/the-green-book-appraisal-and-evaluation-in-central-governent) (HM Treasury); [GOV.UK Service Manual](https://www.gov.uk/service-manual); [Public Value Guide](https://github.com/public-value-guide/public-value-guide); *Creating Public Value* (Mark H. Moore)

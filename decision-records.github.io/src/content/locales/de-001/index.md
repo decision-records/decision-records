@@ -20,7 +20,7 @@ Was dieses Repository enthält:
 - [Leitfaden](leitfaden): was ein Entscheidungsprotokoll ist, warum Menschen es nutzen, Lebenszyklus, Governance und mehr.
 - [Vorlage](vorlage): eine Kopiervorlage mit Markdown-Formatierung und Schritt-für-Schritt-Hinweisen.
 - [Tutorial](tutorial): eine praktische Schritt-für-Schritt-Anleitung: Schreiben Sie Ihr erstes Entscheidungsprotokoll in unter 20 Minuten.
-- [Beispiele](beispiele): ausgearbeitete Beispiele zu Entscheidungen in Strategie, Vertrieb, Marketing, Produkt, Personal, Risiko, Projekt und Technologie.
+- [Beispiele](beispiele): Beispiele als Ausgangspunkte (laufende Arbeiten, keine endgültigen Entscheidungen) zu Entscheidungen in Strategie, Vertrieb, Marketing, Produkt, Personal, Risiko, Projekt und Technologie.
 - [Checkliste](checkliste): Checklisten dazu, ob man eines schreiben sollte, wie man es gut schreibt, wie man es prüft und wie man die Praxis in einer Organisation betreibt.
 - [Hilfe](hilfe): FAQ, Fehlerbehebung und ein Glossar für häufige Fragen, die Führungskräfte bei der Einführung stellen.
 - [spec](https://github.com/decision-records/decision-records/tree/main/spec): die Spezifikation dieses Repositorys: Aufbau, Inhalt, Sprachvarianten, Website und Agenten.

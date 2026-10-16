@@ -105,4 +105,4 @@ Die [Checkliste](../checkliste/index.md) enthält eine verdichtete, wiederholbar
 
 ## Das vollständige Szenario
 
-Ein vollständiges, ausgefülltes Beispiel, das auf dem Szenario dieses Tutorials aufbaut, finden Sie als vergleichbares ausgearbeitetes Protokoll in [examples/index.md](../beispiele/index.md) – zum Beispiel folgt das Beispiel [Selbst bauen oder kaufen für ein Projekt](../beispiele/selbst-bauen-oder-kaufen/) von Anfang bis Ende derselben Struktur, einschließlich eines vollständig ausgeschriebenen Abschnitts „Konsequenzen“.
+Ein ausgefülltes Beispiel für eine vergleichbare Entscheidung finden Sie in [examples/index.md](../beispiele/index.md) – zum Beispiel das Beispiel [Selbst bauen oder kaufen für ein Projekt](../beispiele/selbst-bauen-oder-kaufen/). Es nutzt die umfassende Vorlage, in der „Auswirkungen“ dem Abschnitt „Konsequenzen“ oben entspricht, und es ist eine laufende Arbeit, die zeigt, wie ein Team bei einer Entscheidung vorankommt, kein endgültiger Eintrag.

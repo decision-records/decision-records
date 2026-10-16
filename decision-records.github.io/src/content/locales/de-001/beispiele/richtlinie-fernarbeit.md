@@ -1,54 +1,104 @@
 # Eine hybride Fernarbeitsrichtlinie einführen
 
-* Status: angenommen
+* Status: Kommentierung erbeten
 * Datum: 2026-01-08
-* Entscheidende: CEO und Leitung Personal, mit Beiträgen des Führungsteams
+* Entscheidende: CEO und Leitung Personal, mit Beiträgen des Führungsteams (noch zu bestätigen)
 * Verantwortlich: Leitung Personal
 
-Zusammenfassung: Wir wechseln von einer vollständigen Fernarbeitsrichtlinie zu einer hybriden Richtlinie, die für Beschäftigte in Pendeldistanz zu einem Unternehmensstandort zwei Ankertage pro Woche im Büro verlangt, wirksam ab dem nächsten Quartal.
+Zusammenfassung: in Arbeit. Dies ist ein Ausgangspunkt für ein Team, das überlegt, von einer vollständigen Fernarbeitsrichtlinie auf eine hybride Richtlinie für Menschen zu wechseln, die in Reichweite eines Büros leben. Er zeigt, wie ein Team die Frage fassen, die Optionen diskutieren und Informationen sammeln kann. Er hält keine Entscheidung fest.
 
 ## Problem
 
-Die Daten der Mitarbeiterbefragungen des letzten Jahres zeigen eine Spaltung: Beschäftigte in Pendeldistanz berichten von geringerer bereichsübergreifender Zusammenarbeit und langsamerem Einarbeiten neuer Kolleginnen und Kollegen, während vollständig remote Arbeitende (außerhalb der Pendeldistanz) hohe Zufriedenheit angeben und die Flexibilität der Fernarbeit als einen der wichtigsten Gründe für den Eintritt nennen. Die Führung muss entscheiden, ob sie eine einheitliche Richtlinie festlegt oder eine geteilte Regelung beibehält – und, falls hybrid, wie viele Ankertage verlangt werden.
+Eine Organisation arbeitet seit einigen Jahren vollständig remote. Umfrageergebnisse deuten auf eine Spaltung hin: Menschen, die in Pendelentfernung eines Büros wohnen, berichten von weniger Zusammenarbeit zwischen Teams und langsamerer Einarbeitung neuer Beschäftigter, während Menschen, die weit von jedem Büro entfernt leben, hohe Zufriedenheit angeben und die Flexibilität der Fernarbeit als einen Hauptgrund für ihren Eintritt nennen. Die Führung muss entscheiden, ob sie eine einheitliche Richtlinie für alle behält, auf einen einzigen Standard wechselt oder eine geteilte Regelung beibehält.
+
+Die zu beantwortenden Fragen:
+
+* Welche Belege gibt es dafür, dass der Ort hier Zusammenarbeit, Einarbeitung und Leistung beeinflusst?
+* Welche Gruppen wären von jeder Option betroffen, und wie?
+* Wie würde eine Erwartung der Büropräsenz festgelegt, erklärt und fair angewandt?
+* Was würden wir messen, und wie lange, um zu wissen, ob die Richtlinie wirkt?
 
 ## Annahmen
 
-* Präsenz im Büro verbessert die Einarbeitungsgeschwindigkeit und die bereichsübergreifende Abstimmung für Beschäftigte, die ein Büro erreichen können, spürbar – gestützt auf Einarbeitungsdaten, die unsere zwei früheren Bürokohorten vergleichen.
-* Eine Richtlinie, die Bürotage nur von Beschäftigten in Pendeldistanz verlangt, ist handhabbar, ohne willkürlich oder unfair zu wirken, wenn sie klar dokumentiert ist.
-* Der Immobilienbestand reicht aus, um die Anwesenheit an zwei Ankertagen ohne zusätzliche Büroinvestitionen zu tragen.
+Jede Annahme ist zu prüfen.
+
+* **Präsenzzeit verbessert Einarbeitung und Zusammenarbeit zwischen Teams.** Prüfung: Einarbeitungszeiten und Zusammenarbeitskennzahlen von Menschen mit unterschiedlich viel Präsenzzeit vergleichen und neue Beschäftigte fragen, was geholfen hat. Korrelationen mit Vorsicht behandeln.
+* **Eine Richtlinie, die nur für Menschen in Pendelentfernung gilt, lässt sich als fair erklären.** Prüfung: die Richtlinie entwerfen und eine gemischte Gruppe fragen, wie sie sich anfühlt.
+* **Die bestehenden Büros können die erwartete Anwesenheit aufnehmen.** Prüfung: Kapazität, Arbeitsplätze, Besprechungsräume und die Kosten einer Erweiterung prüfen.
+* **Die Flexibilität der Fernarbeit ist für Menschen wichtig, die ihretwegen eingetreten sind.** Prüfung: das Abwanderungsrisiko je Gruppe prüfen und direkt fragen.
 
 ## Einschränkungen
 
-* Beschäftigte, die ausdrücklich als vollständig remote eingestellt wurden, können gemäß ihren Angebotsbedingungen nicht zu Umzug oder Büropräsenz verpflichtet werden.
-* Jede Richtlinienänderung muss mit mindestens einem vollen Quartal Vorlauf kommuniziert werden.
-* Die Rechtsabteilung hat bestätigt, dass die Richtlinie innerhalb jeder Beschäftigtenkategorie einheitlich angewendet werden muss, um Diskriminierungsrisiken zu vermeiden.
+* Wer ausdrücklich als vollständig remote eingestellt wurde, kann nach den Bedingungen nicht zu Umzug oder Anwesenheit verpflichtet werden.
+* Jede Änderung braucht ausreichende Vorankündigung an die Beschäftigten.
+* Regeln müssen innerhalb jeder Beschäftigtengruppe einheitlich angewandt werden, um Diskriminierung zu vermeiden; rechtlichen Rat für die jeweilige Rechtsordnung einholen.
+* Unbekannt, zu klären: Kosten für Flächen, Reisen und etwaige Zulagen sowie Anträge auf Anpassungen von Menschen mit Behinderung oder Betreuungspflichten.
 
 ## Betrachtete Optionen
 
-* **Für alle vollständig remote beibehalten.** Erhält die aktuellen Zufriedenheitswerte und vermeidet eine schwierige Richtlinienänderung, geht aber nicht auf die dokumentierten Lücken bei Einarbeitung und Zusammenarbeit ein, die drei Abteilungsleitungen unabhängig voneinander angesprochen haben.
-* **Für alle Beschäftigten in Pendeldistanz Vollzeit im Büro verlangen.** Geht Zusammenarbeit und Einarbeitung direkt an, aber die Befragungsdaten legen nahe, dass dies spürbare, bedauerliche Abgänge unter denen auslösen würde, die gezielt wegen der Fernarbeitsflexibilität eingetreten sind.
-* **Hybrid: zwei Ankertage pro Woche für Beschäftigte in Pendeldistanz; vollständig remote bleibt für diejenigen außerhalb der Pendeldistanz unverändert.** Zielt auf die konkrete Gruppe, bei der die Daten eine echte Lücke zeigen, ohne die Bedingungen der als vollständig remote Eingestellten zu ändern.
+Für jede Option Nutzen, Kosten, Zeitplan und benötigte Fähigkeiten schätzen und festhalten, welche Belege das Team umstimmen würden.
+
+* **Für alle vollständig remote beibehalten.**
+  * Nutzen: erhält die derzeitige Zufriedenheit; keine Störung.
+  * Risiken: geht die berichteten Lücken bei Einarbeitung und Zusammenarbeit nicht an.
+* **Vollzeitpräsenz im Büro für Menschen in Pendelentfernung verlangen.**
+  * Nutzen: geht die Sorgen um Zusammenarbeit und Einarbeitung direkt an.
+  * Kostentreiber: Flächen und Einrichtungen; Pendelbelastung; wahrscheinlicher Verlust von Menschen, die wegen der Flexibilität eingetreten sind.
+* **Hybrid: eine Zahl von Ankertagen pro Woche im Büro für Menschen in Pendelentfernung; Fernarbeit für die übrigen unverändert.**
+  * Nutzen: zielt auf die Gruppe, bei der die Lücke berichtet wird, ohne die Bedingungen der als remote Eingestellten zu ändern.
+  * Kostentreiber: Flächenplanung; Kommunikation; Zeit der Führungskräfte, um die Regeln einheitlich anzuwenden.
+* **Von den Teams festgelegte Rhythmen.** Teams wählen gemeinsam ihre Tage, innerhalb der Grenzen des Unternehmens.
+* **Zuerst pilotieren**, das Hybridmodell an einigen Standorten oder in einigen Teams erproben und die Ergebnisse vergleichen, bevor eine breitere Richtlinie gilt.
 
 ## Argumentation
 
-Die Einarbeitungs- und Zusammenarbeitsdaten betreffen gezielt Beschäftigte in Pendeldistanz, die sich derzeit gegen die Präsenz entscheiden, nicht Remote-Beschäftigte allgemein. Eine pauschale Richtlinienänderung würde ein von den Daten nicht gestütztes Abwanderungsrisiko schaffen; eine gezielte hybride Richtlinie behebt die tatsächliche Lücke und wahrt ausdrücklich die Bedingungen, unter denen die remote Eingestellten eingetreten sind.
+Diskussionspunkte, mit denen das Team rechnen sollte:
+
+* **Qualität der Belege.** Es gibt Forschung zu Fern- und Hybridarbeit (etwa randomisierte Studien zum Arbeiten von zu Hause und Umfragen zu Hybridregelungen), aber die Ergebnisse hängen von der Art der Arbeit ab. Was gilt hier?
+* **Fairness.** Unterschiedliche Regeln für unterschiedliche Gruppen können willkürlich wirken, wenn die Gründe nicht klar sind.
+* **Autonomie gegen Koordination.** Vertrauen und Flexibilität gegenüber dem Nutzen des Zusammenseins.
+* **Risiko, Menschen zu verlieren.** Wer wird am ehesten gehen, und was kostet das?
+
+Wie das Team Kosten und Zielkonflikte bewerten könnte:
+
+1. Die gewünschten Ergebnisse beschreiben (Einarbeitungstempo, Zusammenarbeit, Bindung, Leistung, Wohlbefinden) und wie jedes gemessen wird.
+2. Jede Option bewerten: Flächen, Einrichtungen, Reisen, Zeit der Führungskräfte, Kommunikation und die Kosten verlorener oder schwer zu gewinnender Menschen. Spannen zeigen.
+3. Gesundheit und Sicherheit sowie psychisches Wohlbefinden berücksichtigen, einschließlich Pendeln und Isolation.
+4. Die Optionen im besten, wahrscheinlichen und schlechtesten Szenario vergleichen.
+5. Eine Überprüfung nach einem festgelegten Zeitraum planen, mit benannten Kennzahlen und einer Regel, was je nach Ergebnis zu tun ist.
 
 ## Entscheidung
 
-Wir führen eine hybride Richtlinie ein, die von Beschäftigten in Pendeldistanz zu einem Unternehmensstandort zwei Ankertage pro Woche im Büro verlangt, wirksam ab dem nächsten Quartal. Beschäftigte, die ausdrücklich als vollständig remote eingestellt wurden, sind nicht betroffen.
+**Noch nicht entschieden.** Dies ist ein Ausgangspunkt. Ein Team, das ihn verwendet, sollte diesen Abschnitt durch seine eigene Entscheidung ersetzen.
+
+Vorgeschlagenes Vorgehen zur Entscheidungsfindung:
+
+* Klären, wer entscheidet und wer einbezogen wird.
+* Zuerst Kriterien und Gewichtung vereinbaren.
+* Die oben genannten Belege sammeln und festhalten, was gefunden wurde.
+* Zur Kommentierung verteilen, dann entscheiden und den Status aktualisieren.
 
 ## Auswirkungen
 
-* Die Leitung Personal kommuniziert die Richtlinie mit einem vollen Quartal Vorlauf, einschließlich der konkreten Ankertage je Standort.
-* Das Facility Management bestätigt, dass die Bürokapazität eine Anwesenheit an zwei Tagen ohne zusätzliche Immobilieninvestitionen trägt.
-* Führungskräfte brauchen Anleitung, wie sie die Richtlinie in ihren Teams einheitlich anwenden.
-* Der Personalbetrieb verfolgt nach der Einführung zwei Quartale lang die Kennzahlen zur Einarbeitungszeit und die Befragungen zur Zusammenarbeit, um zu bestätigen, dass die Richtlinie die beabsichtigte Wirkung erzielt.
-* Diese Entscheidung gilt nicht für künftige Angebote mit vollständiger Fernarbeit, sofern keine separate Entscheidung diese Einstellungskategorie künftig ändert.
+Wenn sich das Team für eine Hybridrichtlinie entscheidet, müsste es:
+
+* Den Beschäftigten eine volle Vorankündigung geben und sagen, welche Tage in welchem Büro gelten.
+* Bestätigen, dass die Büro-Kapazität die erwartete Anwesenheit trägt.
+* Den Führungskräften Hinweise zur einheitlichen Anwendung der Richtlinie geben.
+* Einarbeitungs- und Zusammenarbeitskennzahlen über einen festgelegten Zeitraum verfolgen.
+* Entscheiden, wie Anträge auf individuelle Anpassungen behandelt werden.
 
 ## Verwandte Entscheidungen
 
-* Keine ersetzt; dies ist die erste förmlich erfasste Fernarbeitsrichtlinie seit dem ursprünglichen Wechsel zu reiner Fernarbeit vor drei Jahren (der vor diesem Entscheidungsregister lag).
+* [Ein hybrides Arbeitsmodell wählen](../optionen-hybrides-arbeiten/): die Wahlmöglichkeiten innerhalb eines Hybridmodells.
+* [Einen Prozess für angemessene Vorkehrungen am Arbeitsplatz festlegen](../angemessene-vorkehrungen-am-arbeitsplatz/): individuelle Bedürfnisse.
+* [Arbeitsplatzplanung und -verwaltung einführen](../arbeitsplatzplanung-und-verwaltung/): wie Flächen geplant werden.
+* Noch nicht getroffene Entscheidungen: ob die Vergütung vom Standort abhängt; künftige Einstellungen als vollständig remote.
 
 ## Verwandte Hinweise
 
-* Zwei Abteilungsleitungen baten darum, dass die Richtlinie einen festgelegten Prüfpunkt enthält, statt offen zu sein – oben als Kennzahlenprüfung nach zwei Quartalen festgehalten.
+* Offene Punkte: Einarbeitungs- und Umfragedaten prüfen; bei den Abteilungsleitungen Belege erfragen; rechtlichen Rat zur Anwendung der Richtlinie bestätigen.
+* Mehr erfahren:
+  * Wikipedia: [Remote work](https://en.wikipedia.org/wiki/Remote_work), [Employee retention](https://en.wikipedia.org/wiki/Employee_retention), [Onboarding](https://en.wikipedia.org/wiki/Onboarding), [Employee engagement](https://en.wikipedia.org/wiki/Employee_engagement)
+  * ISO: [ISO 45003:2021, Psychological health and safety at work](https://www.iso.org/standard/64283.html), [ISO 45001:2018, Occupational health and safety management systems](https://www.iso.org/standard/63787.html), [ISO 30414, Human capital reporting](https://www.iso.org/standard/30414)
+  * Video: [The No.1 Remote Work Expert: Winners and Losers of Hybrid Work](https://www.youtube.com/watch?v=WaJJ7Nc3MxI) (Nick Bloom, What The Teck Show)

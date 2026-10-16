@@ -24,10 +24,18 @@ Each section directory has an `index.md`. `guide`, `tutorial`, `template`,
 The set is whatever directories exist under `locales/en-us/examples/`:
 agile-manifesto, business-frameworks, contact-relationship-management, extreme-programming, health-economics, hr-remote-work-policy, hybrid-working-choices, information-technology-frameworks, itil-5, lean-manufacturing, marketing-brand-repositioning, product-business-versus-service-business, product-pricing-model-change, project-build-vs-buy, project-portfolio-management, public-value, risk-single-vendor-dependency, sales-crm-vendor-selection, six-sigma, software-architecture-database-choice, strategy-enter-new-market, target-operating-model, ways-of-working, workplace-planning-management, workplace-reasonable-adjustments.
 
-Each example is `# Title`, a Status/Date/Decision-maker(s)/Owner list, then
-`## Context`, `## Options considered`, `## Decision`, `## Consequences`, and
-optionally `## Related`. Adding or removing an example requires updating the
-examples index table, every translated index, the counts in this spec and
+Each example is a starting point for a team considering a kind of decision,
+not a finished record. It is `# Title`, a Status/Date/Decision-maker(s)/Owner
+list with the status `request for comments`, a `Summary:` line saying it is a
+work in progress, then the nine comprehensive-template sections: `## Issue`,
+`## Assumptions`, `## Constraints`, `## Options considered`, `## Argument`,
+`## Decision` (always "Not yet decided", with a suggested way to decide),
+`## Implications`, `## Related decisions`, and `## Related notes` (open items
+and a "Learn more" list of Wikipedia, ISO, video, and reading links, each
+checked before use). Examples omit staff counts, currencies, and prices; they
+describe how a team could estimate costs and trade-offs instead. Adding or
+removing an example requires updating the examples index list, every
+translated index, the counts in this spec and
 `AGENTS.md`, and running `pnpm run content` in the website (regenerates
 `llms.txt`/`llms.json`).
 

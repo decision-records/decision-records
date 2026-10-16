@@ -29,7 +29,7 @@ What's in this repository:
 - [guide](locales/en-us/guide) - what a decision record is, why people use them, lifecycle, governance, and more.
 - [template](locales/en-us/template) - copy-paste template with markdown formatting and step-by-step suggestions.
 - [tutorial](locales/en-us/tutorial) - a hands-on, step-by-step walkthrough: write your first decision record in under 20 minutes.
-- [examples](locales/en-us/examples) - worked examples across strategy, sales, marketing, product, HR, risk, project, and technology decisions.
+- [examples](locales/en-us/examples) - starting-point examples (works in progress, not finished decisions) across strategy, sales, marketing, product, HR, risk, project, and technology decisions.
 - [checklist](locales/en-us/checklist): checklists for deciding whether to write one, writing it well, reviewing it, and running the practice across an organization.
 - [help](locales/en-us/help) — FAQ, troubleshooting, and a glossary for common questions leaders raise when adopting this.
 - [spec](spec) — the specification of this repository: layout, content, locales, website, and agents.

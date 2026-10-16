@@ -104,4 +104,4 @@ See the [checklist](../checklist/index.md) for a condensed, repeatable version o
 
 ## Worked scenario in full
 
-For a complete, filled-in example built from this tutorial's scenario, see a comparable worked record in [examples/index.md](../examples/index.md) — for instance the [Build vs. buy for a project](../examples/project-build-vs-buy/) example follows the same structure end to end, including a fully written Consequences section.
+For a filled-in example of a comparable decision, see [examples/index.md](../examples/index.md) — for instance the [Build vs. buy for a project](../examples/project-build-vs-buy/) example. It uses the comprehensive template, where Implications corresponds to the Consequences section above, and it is a work in progress that shows how a team makes progress on a decision rather than a finished record.
