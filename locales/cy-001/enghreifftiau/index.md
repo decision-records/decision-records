@@ -5,27 +5,27 @@ Mannau cychwyn i dimau sy'n ystyried math o benderfyniad, ar draws swyddogaethau
 * [Mynd i'r segment canol y farchnad](mynd-i-farchnad-newydd/): Strategaeth
 * [Dewis platfform CRM](dewis-cyflenwr-crm/): Gwerthiant
 * [Ailosod y brand o amgylch dibynadwyedd](ailosod-brand/): Marchnata
-* [Symud i brisio ar sail defnydd](newid-model-prisio/): Cynnyrch
-* [Mabwysiadu polisi gwaith o bell hybrid](polisi-gwaith-o-bell/): Adnoddau Dynol
+* [Prisio ar sail defnydd](newid-model-prisio/): Cynnyrch
+* [Polisi gwaith o bell hybrid](polisi-gwaith-o-bell/): Adnoddau Dynol
 * [Lleihau risg crynodiad un cyflenwr](dibyniaeth-ar-un-cyflenwr/): Risg
 * [Adeiladu neu brynu ar gyfer prosiect](adeiladu-neu-brynu/): Prosiect / Gweithrediadau
-* [Cyflwyno fframwaith busnes fesul cam](fframweithiau-busnes/): Strategaeth / Gweithrediadau
+* [Fframweithiau busnes](fframweithiau-busnes/): Strategaeth / Gweithrediadau
 * [Dewis y brif gronfa ddata](dewis-cronfa-ddata/): Technoleg / Pensaernïaeth
-* [Mabwysiadu model gweithredu targed](model-gweithredu-targed/): Strategaeth / Gweithrediadau
+* [Model gweithredu targed](model-gweithredu-targed/): Strategaeth / Gweithrediadau
 * [Dewis model gweithio hybrid](dewisiadau-gweithio-hybrid/): Adnoddau Dynol
 * [Dewis rhwng busnes cynnyrch a busnes gwasanaeth](busnes-cynnyrch-neu-fusnes-gwasanaeth/): Strategaeth
 * [Pwyso gwerth cyhoeddus wrth ailddylunio gwasanaeth](gwerth-cyhoeddus/): Sector Cyhoeddus
 * [Pwyso economeg iechyd mewn penderfyniad ariannu triniaeth](economeg-iechyd/): Iechyd
-* [Mabwysiadu ffyrdd o weithio ysgrifenedig](ffyrdd-o-weithio/): Gweithrediadau
-* [Gosod proses ar gyfer addasiadau rhesymol yn y gweithle](addasiadau-rhesymol-yn-y-gweithle/): Adnoddau Dynol
-* [Cyflwyno ITIL 5 fesul cam](itil-5/): Technoleg / Gweithrediadau
-* [Cyflwyno'r Maniffesto Ystwyth fesul cam](maniffesto-ystwyth/): Technoleg / Gweithrediadau
-* [Cyflwyno Chwe Sigma fesul cam](chwe-sigma/): Gweithrediadau / Ansawdd
-* [Cyflwyno gweithgynhyrchu darbodus fesul cam](gweithgynhyrchu-darbodus/): Gweithrediadau / Gweithgynhyrchu
-* [Cyflwyno Rhaglennu Eithafol fesul cam](rhaglennu-eithafol/): Technoleg / Peirianneg Meddalwedd
-* [Mabwysiadu rheoli portffolio prosiectau](rheoli-portffolio-prosiectau/): Prosiect / Gweithrediadau
-* [Mabwysiadu cynllunio a rheoli gweithle](cynllunio-a-rheoli-gweithle/): Gweithrediadau / Cyfleusterau
-* [Mabwysiadu rheoli perthnasoedd cysylltiadau](rheoli-perthnasoedd-cysylltiadau/): Gwerthiant / Cwsmeriaid
+* [Ffyrdd o weithio ysgrifenedig](ffyrdd-o-weithio/): Gweithrediadau
+* [Addasiadau rhesymol yn y gweithle](addasiadau-rhesymol-yn-y-gweithle/): Adnoddau Dynol
+* [ITIL 5](itil-5/): Technoleg / Gweithrediadau
+* [Y Maniffesto Ystwyth](maniffesto-ystwyth/): Technoleg / Gweithrediadau
+* [Chwe Sigma](chwe-sigma/): Gweithrediadau / Ansawdd
+* [Gweithgynhyrchu darbodus](gweithgynhyrchu-darbodus/): Gweithrediadau / Gweithgynhyrchu
+* [Rhaglennu Eithafol](rhaglennu-eithafol/): Technoleg / Peirianneg Meddalwedd
+* [Rheoli portffolio prosiectau](rheoli-portffolio-prosiectau/): Prosiect / Gweithrediadau
+* [Cynllunio a rheoli gweithle](cynllunio-a-rheoli-gweithle/): Gweithrediadau / Cyfleusterau
+* [Rheoli perthnasoedd cysylltiadau](rheoli-perthnasoedd-cysylltiadau/): Gwerthiant / Cwsmeriaid
 * [Dewis ein fframweithiau technoleg gwybodaeth](fframweithiau-technoleg-gwybodaeth/): Technoleg / Gweithrediadau
 
 Nodiadau ar y mynegai hwn:

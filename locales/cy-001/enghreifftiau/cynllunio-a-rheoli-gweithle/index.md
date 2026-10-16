@@ -1,4 +1,4 @@
-# Mabwysiadu cynllunio a rheoli gweithle
+# Cynllunio a rheoli gweithle
 
 * Statws: cais am sylwadau
 * Dyddiad: 2026-10-08
@@ -92,7 +92,7 @@ Pe bai'r tîm yn penderfynu ar gynllunio ar sail defnydd gyda pharthau tîm y ge
 ## Penderfyniadau cysylltiedig
 
 * [Dewis model gweithio hybrid](../dewisiadau-gweithio-hybrid/): y polisi y mae'r penderfyniad hwn yn ei gefnogi.
-* [Gosod proses ar gyfer addasiadau rhesymol yn y gweithle](../addasiadau-rhesymol-yn-y-gweithle/): anghenion unigol.
+* [Addasiadau rhesymol yn y gweithle](../addasiadau-rhesymol-yn-y-gweithle/): anghenion unigol.
 * Penderfyniadau heb eu gwneud eto: offeryn cadw lle; telerau'r brydles.
 
 ## Nodiadau cysylltiedig

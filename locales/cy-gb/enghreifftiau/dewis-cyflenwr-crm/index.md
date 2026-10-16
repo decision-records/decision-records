@@ -89,7 +89,7 @@ Pe bai'r tîm yn penderfynu newid, byddai angen iddo:
 
 ## Penderfyniadau cysylltiedig
 
-* [Mabwysiadu rheoli perthnasoedd cysylltiadau](../rheoli-perthnasoedd-cysylltiadau/): y cwestiwn ehangach am sut y caiff cysylltiadau a chaniatâd eu trin.
+* [Rheoli perthnasoedd cysylltiadau](../rheoli-perthnasoedd-cysylltiadau/): y cwestiwn ehangach am sut y caiff cysylltiadau a chaniatâd eu trin.
 * [Mynd i'r segment canol y farchnad](../mynd-i-farchnad-newydd/): gall dull gwerthu newydd newid anghenion CRM.
 * Penderfyniadau heb eu gwneud eto: dull integreiddio; rheolau cadw data.
 

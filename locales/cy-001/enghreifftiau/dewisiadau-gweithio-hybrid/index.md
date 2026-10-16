@@ -90,9 +90,9 @@ Pe bai'r tîm yn penderfynu ar ddyddiau angori a osodir gan dimau, byddai angen 
 
 ## Penderfyniadau cysylltiedig
 
-* [Mabwysiadu polisi gwaith o bell hybrid](../polisi-gwaith-o-bell/): y cwestiwn polisi ar lefel y cwmni.
-* [Gosod proses ar gyfer addasiadau rhesymol yn y gweithle](../addasiadau-rhesymol-yn-y-gweithle/): anghenion unigol.
-* [Mabwysiadu cynllunio a rheoli gweithle](../cynllunio-a-rheoli-gweithle/): sut y caiff gofod ei gynllunio.
+* [Polisi gwaith o bell hybrid](../polisi-gwaith-o-bell/): y cwestiwn polisi ar lefel y cwmni.
+* [Addasiadau rhesymol yn y gweithle](../addasiadau-rhesymol-yn-y-gweithle/): anghenion unigol.
+* [Cynllunio a rheoli gweithle](../cynllunio-a-rheoli-gweithle/): sut y caiff gofod ei gynllunio.
 * Penderfyniadau heb eu gwneud eto: cyflog a lleoliad; telerau'r brydles.
 
 ## Nodiadau cysylltiedig

@@ -1,4 +1,4 @@
-# Symud i brisio ar sail defnydd
+# Prisio ar sail defnydd
 
 * Statws: cais am sylwadau
 * Dyddiad: 2026-04-05

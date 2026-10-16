@@ -1,4 +1,4 @@
-# Adopt contact relationship management
+# Contact relationship management
 
 * Status: request for comments
 * Date: 2026-10-12

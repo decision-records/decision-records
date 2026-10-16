@@ -90,7 +90,7 @@ Pe bai'r tîm yn penderfynu ar wasanaeth digidol yn gyntaf gyda llwybrau â chym
 
 ## Penderfyniadau cysylltiedig
 
-* [Mabwysiadu polisi gwaith o bell hybrid](../polisi-gwaith-o-bell/): trefniadau staff yn y swyddfeydd sy'n aros ar agor.
+* [Polisi gwaith o bell hybrid](../polisi-gwaith-o-bell/): trefniadau staff yn y swyddfeydd sy'n aros ar agor.
 * Penderfyniadau heb eu gwneud eto: y rhwydwaith swyddfeydd; cynlluniau staffio a hyfforddi.
 
 ## Nodiadau cysylltiedig

@@ -1,4 +1,4 @@
-# Eine hybride Fernarbeitsrichtlinie einführen
+# Hybride Fernarbeitsrichtlinie
 
 * Status: Kommentierung erbeten
 * Datum: 2026-01-08
@@ -91,8 +91,8 @@ Wenn sich das Team für eine Hybridrichtlinie entscheidet, müsste es:
 ## Verwandte Entscheidungen
 
 * [Ein hybrides Arbeitsmodell wählen](../optionen-hybrides-arbeiten/): die Wahlmöglichkeiten innerhalb eines Hybridmodells.
-* [Einen Prozess für angemessene Vorkehrungen am Arbeitsplatz festlegen](../angemessene-vorkehrungen-am-arbeitsplatz/): individuelle Bedürfnisse.
-* [Arbeitsplatzplanung und -verwaltung einführen](../arbeitsplatzplanung-und-verwaltung/): wie Flächen geplant werden.
+* [Angemessene Vorkehrungen am Arbeitsplatz](../angemessene-vorkehrungen-am-arbeitsplatz/): individuelle Bedürfnisse.
+* [Arbeitsplatzplanung und -verwaltung](../arbeitsplatzplanung-und-verwaltung/): wie Flächen geplant werden.
 * Noch nicht getroffene Entscheidungen: ob die Vergütung vom Standort abhängt; künftige Einstellungen als vollständig remote.
 
 ## Verwandte Hinweise

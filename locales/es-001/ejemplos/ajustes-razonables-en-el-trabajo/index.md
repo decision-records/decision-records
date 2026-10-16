@@ -1,4 +1,4 @@
-# Establecer un proceso para los ajustes razonables en el lugar de trabajo
+# Ajustes razonables en el lugar de trabajo
 
 * Estado: solicitud de comentarios
 * Fecha: 2026-03-30
@@ -91,7 +91,7 @@ Si el equipo decide un presupuesto central con decisiones entre la persona y su 
 ## Decisiones relacionadas
 
 * [Elegir un modelo de trabajo híbrido](../opciones-trabajo-hibrido/): los arreglos de trabajo individuales dentro de un modelo híbrido.
-* [Adoptar la planificación y gestión del lugar de trabajo](../planificacion-gestion-lugar-de-trabajo/): cómo el espacio y las reglas de reserva tienen en cuenta las necesidades individuales.
+* [Planificación y gestión del lugar de trabajo](../planificacion-gestion-lugar-de-trabajo/): cómo el espacio y las reglas de reserva tienen en cuenta las necesidades individuales.
 * Decisiones aún no tomadas: revisión jurídica local; elección del proveedor.
 
 ## Notas relacionadas

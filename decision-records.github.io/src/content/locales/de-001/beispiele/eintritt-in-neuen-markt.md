@@ -95,7 +95,7 @@ Wenn sich das Team für einen gestuften Einstieg entscheidet, müsste es:
 
 ## Verwandte Entscheidungen
 
-* [Auf nutzungsbasierte Preise umstellen](../wechsel-preismodell/): die Preisgestaltung für ein neues Segment muss womöglich überdacht werden.
+* [Nutzungsbasierte Preise](../wechsel-preismodell/): die Preisgestaltung für ein neues Segment muss womöglich überdacht werden.
 * [Eine CRM-Plattform auswählen](../auswahl-crm-anbieter/): die Werkzeuge des Vertriebs müssen sich für einen schnelleren Ansatz womöglich ändern.
 * Noch nicht getroffene Entscheidungen: Preise und Pakete für das Segment; Partnerstrategie; Personalplanung des nächsten Jahres.
 

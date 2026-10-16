@@ -1,4 +1,4 @@
-# Extreme Programming schrittweise einführen
+# Extreme Programming
 
 * Status: Kommentierung erbeten
 * Datum: 2025-10-06
@@ -92,7 +92,7 @@ Wenn sich das Team für einen phasenweisen Ansatz entscheidet, müsste es:
 
 ## Verwandte Entscheidungen
 
-* [Das Agile Manifest schrittweise einführen](../agiles-manifest/): die weitergehende Entscheidung über die Werte, die diese Praktiken stützen.
+* [Das Agile Manifest](../agiles-manifest/): die weitergehende Entscheidung über die Werte, die diese Praktiken stützen.
 * [Unsere IT-Frameworks auswählen](../it-frameworks/): wie XP zu anderen Frameworks passt.
 * Noch nicht getroffene Entscheidungen: Investition in Pipeline und Werkzeuge; Modell des Code-Eigentums.
 

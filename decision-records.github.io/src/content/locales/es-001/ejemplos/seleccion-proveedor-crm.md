@@ -89,7 +89,7 @@ Si el equipo decide cambiar, necesitaría:
 
 ## Decisiones relacionadas
 
-* [Adoptar la gestión de relaciones con los contactos](../gestion-relaciones-contactos/): la cuestión más amplia de cómo se gestionan los contactos y el consentimiento.
+* [Gestión de relaciones con los contactos](../gestion-relaciones-contactos/): la cuestión más amplia de cómo se gestionan los contactos y el consentimiento.
 * [Entrar en el segmento de mercado medio](../entrar-en-nuevo-mercado/): un enfoque comercial nuevo puede cambiar las necesidades de CRM.
 * Decisiones aún no tomadas: enfoque de integración; reglas de conservación de datos.
 

@@ -1,4 +1,4 @@
-# Introduire progressivement l'Extreme Programming
+# L'Extreme Programming
 
 * Statut : demande de commentaires
 * Date : 2025-10-06
@@ -92,7 +92,7 @@ Si l'équipe choisit une approche par phases, elle devrait :
 
 ## Décisions liées
 
-* [Introduire progressivement le Manifeste agile](../manifeste-agile/) : la décision plus large sur les valeurs que ces pratiques soutiennent.
+* [Le Manifeste agile](../manifeste-agile/) : la décision plus large sur les valeurs que ces pratiques soutiennent.
 * [Choisir nos cadres de technologies de l'information](../cadres-technologies-information/) : comment XP s'articule avec d'autres cadres.
 * Décisions pas encore prises : investissement dans la chaîne et l'outillage ; modèle de propriété du code.
 

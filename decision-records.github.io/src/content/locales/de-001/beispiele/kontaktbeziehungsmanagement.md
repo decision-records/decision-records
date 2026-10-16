@@ -1,4 +1,4 @@
-# Kontaktbeziehungsmanagement einführen
+# Kontaktbeziehungsmanagement
 
 * Status: Kommentierung erbeten
 * Datum: 2026-10-12

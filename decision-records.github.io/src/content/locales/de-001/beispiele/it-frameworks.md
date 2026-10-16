@@ -90,8 +90,8 @@ Wenn sich das Team dafür entscheidet, Frameworks nach Art der Arbeit zuzuordnen
 
 ## Verwandte Entscheidungen
 
-* [Das Agile Manifest schrittweise einführen](../agiles-manifest/), [ITIL 5 schrittweise einführen](../itil-5/), [Extreme Programming schrittweise einführen](../extreme-programming/) und [Six Sigma schrittweise einführen](../six-sigma/): die Entscheidungen zu den einzelnen Frameworks.
-* [Ein Geschäfts-Framework schrittweise einführen](../geschaeftsframeworks/): das allgemeine Phasenmuster.
+* [Das Agile Manifest](../agiles-manifest/), [ITIL 5](../itil-5/), [Extreme Programming](../extreme-programming/) und [Six Sigma](../six-sigma/): die Entscheidungen zu den einzelnen Frameworks.
+* [Geschäfts-Frameworks](../geschaeftsframeworks/): das allgemeine Phasenmuster.
 * Noch nicht getroffene Entscheidungen: Werkzeuge; die Reihenfolge der späteren Frameworks.
 
 ## Verwandte Hinweise

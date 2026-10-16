@@ -1,4 +1,4 @@
-# Mabwysiadu model gweithredu targed
+# Model gweithredu targed
 
 * Statws: cais am sylwadau
 * Dyddiad: 2026-09-15
@@ -89,8 +89,8 @@ Pe bai'r tîm yn penderfynu symud i fodel hybrid, byddai angen iddo:
 
 ## Penderfyniadau cysylltiedig
 
-* [Cyflwyno fframwaith busnes fesul cam](../fframweithiau-busnes/): sut i fynd at newid fesul cam.
-* [Mabwysiadu rheoli portffolio prosiectau](../rheoli-portffolio-prosiectau/): sut y dewisir prosiectau o dan y model targed.
+* [Fframweithiau busnes](../fframweithiau-busnes/): sut i fynd at newid fesul cam.
+* [Rheoli portffolio prosiectau](../rheoli-portffolio-prosiectau/): sut y dewisir prosiectau o dan y model targed.
 * [Dewis rhwng busnes cynnyrch a busnes gwasanaeth](../busnes-cynnyrch-neu-fusnes-gwasanaeth/): dewisiadau strategol sy'n dylanwadu ar y model.
 * Penderfyniadau heb eu gwneud eto: trefn ac amseru symudiadau; trin newidiadau rolau.
 

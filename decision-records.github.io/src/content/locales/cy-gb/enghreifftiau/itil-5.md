@@ -1,4 +1,4 @@
-# Cyflwyno ITIL 5 fesul cam
+# ITIL 5
 
 * Statws: cais am sylwadau
 * Dyddiad: 2026-09-30
@@ -98,7 +98,7 @@ Pe bai'r tîm yn dewis dull fesul cam, byddai angen iddo:
 
 ## Penderfyniadau cysylltiedig
 
-* [Cyflwyno fframwaith busnes fesul cam](../fframweithiau-busnes/): yr un patrwm camau wedi'i gymhwyso i fframwaith arall.
+* [Fframweithiau busnes](../fframweithiau-busnes/): yr un patrwm camau wedi'i gymhwyso i fframwaith arall.
 * [Dewis ein fframweithiau technoleg gwybodaeth](../fframweithiau-technoleg-gwybodaeth/): sut mae ITIL yn ffitio â fframweithiau eraill y mae'r grŵp yn eu hystyried.
 * Penderfyniadau heb eu gwneud eto: offer; newidiadau i gontractau cyflenwyr; ardystio ai peidio.
 

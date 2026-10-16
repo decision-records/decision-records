@@ -91,8 +91,8 @@ Si l'équipe décide de devenir une activité de produits, elle devrait :
 
 ## Décisions liées
 
-* [Adopter un modèle opérationnel cible](../modele-operationnel-cible/) : l'organisation devra s'y conformer.
-* [Passer à une tarification basée sur l'usage](../changement-modele-tarification/) : la tarification sous un modèle de produits.
+* [Modèle opérationnel cible](../modele-operationnel-cible/) : l'organisation devra s'y conformer.
+* [Tarification basée sur l'usage](../changement-modele-tarification/) : la tarification sous un modèle de produits.
 * Décisions pas encore prises : programme partenaires ; accompagnement du personnel concerné.
 
 ## Notes liées

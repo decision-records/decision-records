@@ -91,8 +91,8 @@ Si el equipo decide convertirse en un negocio de producto, necesitaría:
 
 ## Decisiones relacionadas
 
-* [Adoptar un modelo operativo objetivo](../modelo-operativo-objetivo/): la organización tendrá que ajustarse.
-* [Pasar a precios basados en el uso](../cambio-modelo-precios/): los precios bajo un modelo de producto.
+* [Modelo operativo objetivo](../modelo-operativo-objetivo/): la organización tendrá que ajustarse.
+* [Precios basados en el uso](../cambio-modelo-precios/): los precios bajo un modelo de producto.
 * Decisiones aún no tomadas: programa de socios; apoyo al personal afectado.
 
 ## Notas relacionadas

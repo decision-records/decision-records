@@ -1,4 +1,4 @@
-# Adopt a hybrid remote-work policy
+# Hybrid remote-work policy
 
 * Status: request for comments
 * Date: 2026-01-08
@@ -91,8 +91,8 @@ If the team decides on a hybrid policy, it would need to:
 ## Related decisions
 
 * [Choose a hybrid working model](../hybrid-working-choices/): the choices within a hybrid model.
-* [Set a process for workplace reasonable adjustments](../workplace-reasonable-adjustments/): individual needs.
-* [Adopt workplace planning and management](../workplace-planning-management/): how space is planned.
+* [Workplace reasonable adjustments](../workplace-reasonable-adjustments/): individual needs.
+* [Workplace planning and management](../workplace-planning-management/): how space is planned.
 * Decisions not yet made: whether pay depends on location; future fully remote hiring.
 
 ## Related notes

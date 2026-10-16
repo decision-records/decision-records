@@ -1,4 +1,4 @@
-# Cyflwyno fframwaith busnes fesul cam
+# Fframweithiau busnes
 
 * Statws: cais am sylwadau
 * Dyddiad: 2026-10-01
@@ -95,7 +95,7 @@ Pe bai'r tîm yn dewis dull fesul cam, byddai angen iddo:
 
 ## Penderfyniadau cysylltiedig
 
-* [Mabwysiadu model gweithredu targed](../model-gweithredu-targed/): sut mae'r fframwaith yn ffitio â ffordd ehangach y sefydliad o weithio.
+* [Model gweithredu targed](../model-gweithredu-targed/): sut mae'r fframwaith yn ffitio â ffordd ehangach y sefydliad o weithio.
 * [Dewis ein fframweithiau technoleg gwybodaeth](../fframweithiau-technoleg-gwybodaeth/): yr un cwestiwn am gamau wedi'i gymhwyso i sawl fframwaith ar unwaith.
 * Penderfyniadau heb eu gwneud eto: offer ar gyfer cofnodi nodau; a ddylid cysylltu nodau â chyflog neu adolygiad.
 

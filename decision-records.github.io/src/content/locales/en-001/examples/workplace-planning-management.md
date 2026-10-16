@@ -1,4 +1,4 @@
-# Adopt workplace planning and management
+# Workplace planning and management
 
 * Status: request for comments
 * Date: 2026-10-08
@@ -92,7 +92,7 @@ If the team decides on usage-based planning with bookable team zones, it would n
 ## Related decisions
 
 * [Choose a hybrid working model](../hybrid-working-choices/): the policy this supports.
-* [Set a process for workplace reasonable adjustments](../workplace-reasonable-adjustments/): individual needs.
+* [Workplace reasonable adjustments](../workplace-reasonable-adjustments/): individual needs.
 * Decisions not yet made: booking tool; lease terms.
 
 ## Related notes

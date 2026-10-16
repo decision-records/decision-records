@@ -90,7 +90,7 @@ Wenn sich das Team für einen Dienst „digital zuerst“ mit unterstützten Weg
 
 ## Verwandte Entscheidungen
 
-* [Eine hybride Fernarbeitsrichtlinie einführen](../richtlinie-fernarbeit/): die Regelungen für das Personal in den Außenstellen, die geöffnet bleiben.
+* [Hybride Fernarbeitsrichtlinie](../richtlinie-fernarbeit/): die Regelungen für das Personal in den Außenstellen, die geöffnet bleiben.
 * Noch nicht getroffene Entscheidungen: das Netz der Außenstellen; Personal- und Schulungspläne.
 
 ## Verwandte Hinweise

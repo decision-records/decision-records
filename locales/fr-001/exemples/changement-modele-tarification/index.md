@@ -1,4 +1,4 @@
-# Passer à une tarification basée sur l'usage
+# Tarification basée sur l'usage
 
 * Statut : demande de commentaires
 * Date : 2026-04-05

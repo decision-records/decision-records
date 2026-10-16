@@ -1,4 +1,4 @@
-# Adopter des modes de travail écrits
+# Modes de travail écrits
 
 * Statut : demande de commentaires
 * Date : 2026-04-27
@@ -89,7 +89,7 @@ Si l'équipe décide d'un court ensemble commun plus des accords d'équipe, elle
 
 ## Décisions liées
 
-* [Introduire progressivement le Manifeste agile](../manifeste-agile/) : valeurs communes et pratique d'équipe.
+* [Le Manifeste agile](../manifeste-agile/) : valeurs communes et pratique d'équipe.
 * Décisions pas encore prises : outils pour conserver les accords ; manière de trancher les conflits entre accords d'équipe.
 
 ## Notes liées

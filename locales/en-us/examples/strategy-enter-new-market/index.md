@@ -95,7 +95,7 @@ If the team chooses a staged entry, it would need to:
 
 ## Related decisions
 
-* [Move to usage-based pricing](../product-pricing-model-change/): pricing for a new segment may need rethinking.
+* [Usage-based pricing](../product-pricing-model-change/): pricing for a new segment may need rethinking.
 * [Select a CRM platform](../sales-crm-vendor-selection/): the tools sales uses may need to change for a faster sales motion.
 * Decisions not yet made: pricing and packaging for the segment; partner strategy; next year's staffing.
 

@@ -1,4 +1,4 @@
-# Phase in lean manufacturing
+# Lean manufacturing
 
 * Status: request for comments
 * Date: 2025-11-24
@@ -42,7 +42,7 @@ For each option, estimate value, costs, timeline, and capability needs, and writ
   * Value: fastest route to a consistent plant.
   * Cost drivers: training; changeover; temporary loss of output; management attention across all lines.
   * Risks: threatens delivery of current orders; operators have no time to learn and adjust.
-* **Phase in line by line, starting with a pilot line.** Map the value stream for one line, reduce waste there, and use the results to choose practices for the rest.
+* **Adopt line by line, starting with a pilot line.** Map the value stream for one line, reduce waste there, and use the results to choose practices for the rest.
   * Value: contains disruption; operators see real results before their own line changes; learning carries forward.
   * Cost drivers: coaching; operator time for improvement work; running lines in different ways for a time.
   * Timeline shape: sequential, with each line starting only after the previous one has held its improvement for a stated period.
@@ -94,7 +94,7 @@ If the team chooses a line-by-line approach, it would need to:
 
 ## Related decisions
 
-* [Phase in Six Sigma](../six-sigma/): a data-driven approach that can complement lean.
+* [Six Sigma](../six-sigma/): a data-driven approach that can complement lean.
 * [Choose our information technology frameworks](../information-technology-frameworks/): the general problem of choosing and ordering frameworks.
 * Decisions not yet made: equipment or layout changes; incentives; supplier changes.
 

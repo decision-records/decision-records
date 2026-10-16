@@ -1,4 +1,4 @@
-# Adopt written ways of working
+# Written ways of working
 
 * Status: request for comments
 * Date: 2026-04-27
@@ -89,7 +89,7 @@ If the team decides on a short shared set plus team agreements, it would need to
 
 ## Related decisions
 
-* [Phase in the Agile Manifesto](../agile-manifesto/): shared values and team practice.
+* [The Agile Manifesto](../agile-manifesto/): shared values and team practice.
 * Decisions not yet made: tooling for keeping agreements; how conflicts between team agreements are resolved.
 
 ## Related notes

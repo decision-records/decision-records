@@ -1,4 +1,4 @@
-# Move to usage-based pricing
+# Usage-based pricing
 
 * Status: request for comments
 * Date: 2026-04-05

@@ -92,7 +92,7 @@ Pe bai'r tîm yn penderfynu ailosod fesul cam, byddai angen iddo:
 
 ## Penderfyniadau cysylltiedig
 
-* [Symud i brisio ar sail defnydd](../newid-model-prisio/): mae pris a lleoli yn dylanwadu ar ei gilydd.
+* [Prisio ar sail defnydd](../newid-model-prisio/): mae pris a lleoli yn dylanwadu ar ei gilydd.
 * Penderfyniadau heb eu gwneud eto: adnewyddiad gweledol ehangach; newidiadau i enwau cynhyrchion.
 
 ## Nodiadau cysylltiedig

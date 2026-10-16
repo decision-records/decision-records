@@ -1,4 +1,4 @@
-# Adopter un modèle opérationnel cible
+# Modèle opérationnel cible
 
 * Statut : demande de commentaires
 * Date : 2026-09-15
@@ -89,8 +89,8 @@ Si l'équipe décide de passer à un modèle hybride, elle devrait :
 
 ## Décisions liées
 
-* [Introduire progressivement un cadre de gestion](../cadres-de-gestion/) : comment aborder le changement par étapes.
-* [Adopter la gestion de portefeuille de projets](../gestion-portefeuille-projets/) : comment les projets sont choisis sous le modèle cible.
+* [Cadres de gestion](../cadres-de-gestion/) : comment aborder le changement par étapes.
+* [Gestion de portefeuille de projets](../gestion-portefeuille-projets/) : comment les projets sont choisis sous le modèle cible.
 * [Choisir entre une activité de produits et une activité de services](../activite-produits-ou-services/) : choix stratégiques qui influencent le modèle.
 * Décisions pas encore prises : ordre et calendrier des déplacements ; traitement des changements de rôles.
 

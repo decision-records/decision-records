@@ -1,4 +1,4 @@
-# Auf nutzungsbasierte Preise umstellen
+# Nutzungsbasierte Preise
 
 * Status: Kommentierung erbeten
 * Datum: 2026-04-05

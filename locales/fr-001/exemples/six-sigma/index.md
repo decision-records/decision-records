@@ -1,4 +1,4 @@
-# Introduire progressivement Six Sigma
+# Six Sigma
 
 * Statut : demande de commentaires
 * Date : 2026-01-19
@@ -44,7 +44,7 @@ Pour chaque option, estimer la valeur, les coûts, le calendrier et les capacit�
   * Postes de coût : temps de formation de nombreux managers ; projets lancés avant de pouvoir être mesurés ; attention de la direction.
   * Forme du calendrier : effort large dès le départ, résultats inégaux.
   * Risques : retire de nombreux managers de l'exploitation ; projets sans référence fiable.
-* **Introduire progressivement avec un petit groupe de praticiens formés et un seul processus d'abord.** Former un petit groupe (par exemple des ceintures vertes et noires), choisir un processus à gros volume, mesurer le taux de défauts, mener un projet selon DMAIC (définir, mesurer, analyser, améliorer, contrôler) et s'en servir pour choisir le suivant.
+* **Introduire avec un petit groupe de praticiens formés et un seul processus d'abord.** Former un petit groupe (par exemple des ceintures vertes et noires), choisir un processus à gros volume, mesurer le taux de défauts, mener un projet selon DMAIC (définir, mesurer, analyser, améliorer, contrôler) et s'en servir pour choisir le suivant.
   * Valeur : prouve la valeur par les données ; construit la capacité là où elle est nécessaire.
   * Postes de coût : formation ; temps de projet ; systèmes de mesure ; temps du sponsor.
   * Forme du calendrier : un premier projet allant de la définition à un contrôle durable, puis extension seulement quand l'objectif a tenu pendant une période définie.
@@ -97,9 +97,9 @@ Si l'équipe choisit de commencer par un seul processus, elle devrait :
 
 ## Décisions liées
 
-* [Introduire progressivement la production allégée](../production-allegee/) : une approche voisine de réduction du gaspillage.
+* [Production allégée](../production-allegee/) : une approche voisine de réduction du gaspillage.
 * [Choisir nos cadres de technologies de l'information](../cadres-technologies-information/) : comment Six Sigma s'articule avec d'autres cadres.
-* [Introduire progressivement un cadre de gestion](../cadres-de-gestion/) : le même schéma de phasage pour un autre cadre.
+* [Cadres de gestion](../cadres-de-gestion/) : le même schéma de phasage pour un autre cadre.
 * Décisions pas encore prises : validation des économies ; filière de formation.
 
 ## Notes liées

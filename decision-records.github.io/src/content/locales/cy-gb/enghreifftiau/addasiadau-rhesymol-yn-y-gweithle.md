@@ -1,4 +1,4 @@
-# Gosod proses ar gyfer addasiadau rhesymol yn y gweithle
+# Addasiadau rhesymol yn y gweithle
 
 * Statws: cais am sylwadau
 * Dyddiad: 2026-03-30
@@ -91,7 +91,7 @@ Pe bai'r tîm yn penderfynu ar gyllideb ganolog gyda phenderfyniadau rhwng yr un
 ## Penderfyniadau cysylltiedig
 
 * [Dewis model gweithio hybrid](../dewisiadau-gweithio-hybrid/): trefniadau gwaith unigol o fewn model hybrid.
-* [Mabwysiadu cynllunio a rheoli gweithle](../cynllunio-a-rheoli-gweithle/): sut mae gofod a rheolau cadw lle yn ystyried anghenion unigol.
+* [Cynllunio a rheoli gweithle](../cynllunio-a-rheoli-gweithle/): sut mae gofod a rheolau cadw lle yn ystyried anghenion unigol.
 * Penderfyniadau heb eu gwneud eto: adolygiad cyfreithiol lleol; dewis darparwr.
 
 ## Nodiadau cysylltiedig

@@ -1,4 +1,4 @@
-# Phase in Extreme Programming
+# Extreme Programming
 
 * Status: request for comments
 * Date: 2025-10-06
@@ -42,7 +42,7 @@ For each option, estimate value, costs, timeline, and capability needs, and note
   * Value: practices reinforce each other.
   * Cost drivers: training; slower delivery during learning; tooling work across all teams at once.
   * Risks: large change; teams without the underlying skills may abandon the practices within weeks.
-* **Phase in the practices in a chosen order, team by team.** For example continuous integration and automated tests first (the foundations), then small releases and pair programming, then test-driven development.
+* **Adopt the practices in a chosen order, team by team.** For example continuous integration and automated tests first (the foundations), then small releases and pair programming, then test-driven development.
   * Value: each practice has time to settle; early ones make later ones possible; the first team's experience guides the rest.
   * Cost drivers: coaching; time for pairing and writing tests built into plans; infrastructure work for the pipeline.
   * Timeline shape: sequential, with the next team joining when the previous team has kept its release pipeline healthy for a stated period.
@@ -92,7 +92,7 @@ If the team chooses a phased approach, it would need to:
 
 ## Related decisions
 
-* [Phase in the Agile Manifesto](../agile-manifesto/): the wider decision about values that these practices support.
+* [The Agile Manifesto](../agile-manifesto/): the wider decision about values that these practices support.
 * [Choose our information technology frameworks](../information-technology-frameworks/): how XP fits with other frameworks.
 * Decisions not yet made: pipeline and tooling investment; code ownership model.
 

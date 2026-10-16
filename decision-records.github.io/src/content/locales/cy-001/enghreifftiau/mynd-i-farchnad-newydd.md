@@ -95,7 +95,7 @@ Pe bai'r tîm yn dewis mynediad fesul cam, byddai angen iddo:
 
 ## Penderfyniadau cysylltiedig
 
-* [Symud i brisio ar sail defnydd](../newid-model-prisio/): efallai y bydd angen ailystyried prisio ar gyfer segment newydd.
+* [Prisio ar sail defnydd](../newid-model-prisio/): efallai y bydd angen ailystyried prisio ar gyfer segment newydd.
 * [Dewis platfform CRM](../dewis-cyflenwr-crm/): efallai y bydd angen i'r offer a ddefnyddir gan werthiant newid ar gyfer dull cyflymach.
 * Penderfyniadau heb eu gwneud eto: prisio a phecynnu ar gyfer y segment; strategaeth partneriaid; staffio'r flwyddyn nesaf.
 

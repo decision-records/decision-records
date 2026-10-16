@@ -1,4 +1,4 @@
-# Phase in ITIL 5
+# ITIL 5
 
 * Status: request for comments
 * Date: 2026-09-30
@@ -43,12 +43,12 @@ For every option the team should estimate value, costs, timeline, and capability
   * Cost drivers: training for all staff; process redesign for all practices; tooling changes; lost capacity while teams retrain; the cost of reversing a poor start.
   * Timeline shape: short plan, long recovery if it goes poorly.
   * Capabilities needed: strong change leadership and enough spare capacity to absorb the change.
-* **Phase in by practice**, starting where the pain is greatest and users are most affected (commonly incident and request handling), then change, then problem analysis and continual improvement, with each phase having its own measures.
+* **Adopt by practice**, starting where the pain is greatest and users are most affected (commonly incident and request handling), then change, then problem analysis and continual improvement, with each phase having its own measures.
   * Value: each phase teaches the team what to change in the next; early wins are visible to users.
   * Cost drivers: a longer overall programme; running old and new practices side by side; repeated training; maintaining the exit measures.
   * Timeline shape: a sequence of phases, each long enough to see a measurable change before the next starts.
   * Capabilities needed: reliable service data (resolution time, first-time fix, share of changes causing incidents) and an owner for each practice.
-* **Phase in by team**: one team adopts all practices first as a pilot, then others follow.
+* **Adopt by team**: one team adopts all practices first as a pilot, then others follow.
   * Value: a complete working example early.
   * Cost drivers: one service is split across two ways of working while the pilot runs; hand-offs between the pilot team and others become harder.
   * Risks: confuses users and suppliers; the pilot team's context may not be typical.
@@ -98,7 +98,7 @@ If the team chooses a phased approach, it would need to:
 
 ## Related decisions
 
-* [Phase in a business framework](../business-frameworks/): the same phasing pattern applied to a different framework.
+* [Business frameworks](../business-frameworks/): the same staged-adoption pattern applied to a different framework.
 * [Choose our information technology frameworks](../information-technology-frameworks/): how ITIL fits with other frameworks the group is considering.
 * Decisions not yet made: tooling; supplier contract changes; certification or not.
 

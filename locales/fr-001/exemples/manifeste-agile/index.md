@@ -1,4 +1,4 @@
-# Introduire progressivement le Manifeste agile
+# Le Manifeste agile
 
 * Statut : demande de commentaires
 * Date : 2026-02-16
@@ -96,9 +96,9 @@ Si l'équipe choisit une approche équipe par équipe, elle devrait :
 
 ## Décisions liées
 
-* [Introduire progressivement l'Extreme Programming](../extreme-programming/) : des pratiques d'ingénierie précises qui s'accordent avec les valeurs agiles.
+* [L'Extreme Programming](../extreme-programming/) : des pratiques d'ingénierie précises qui s'accordent avec les valeurs agiles.
 * [Choisir nos cadres de technologies de l'information](../cadres-technologies-information/) : comment l'agilité s'articule avec d'autres cadres.
-* [Introduire progressivement un cadre de gestion](../cadres-de-gestion/) : le même schéma de phasage appliqué à la définition d'objectifs.
+* [Cadres de gestion](../cadres-de-gestion/) : le même schéma de phasage appliqué à la définition d'objectifs.
 * Décisions pas encore prises : modifications de contrats ; coaching ; outils.
 
 ## Notes liées

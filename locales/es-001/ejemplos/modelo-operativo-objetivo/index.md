@@ -1,4 +1,4 @@
-# Adoptar un modelo operativo objetivo
+# Modelo operativo objetivo
 
 * Estado: solicitud de comentarios
 * Fecha: 2026-09-15
@@ -89,8 +89,8 @@ Si el equipo decide pasar a un modelo híbrido, necesitaría:
 
 ## Decisiones relacionadas
 
-* [Introducir por fases un marco de negocio](../marcos-de-negocio/): cómo abordar el cambio por etapas.
-* [Adoptar la gestión de la cartera de proyectos](../gestion-cartera-proyectos/): cómo se eligen los proyectos bajo el modelo objetivo.
+* [Marcos de negocio](../marcos-de-negocio/): cómo abordar el cambio por etapas.
+* [Gestión de la cartera de proyectos](../gestion-cartera-proyectos/): cómo se eligen los proyectos bajo el modelo objetivo.
 * [Elegir entre un negocio de producto y un negocio de servicios](../negocio-de-producto-o-de-servicio/): decisiones estratégicas que influyen en el modelo.
 * Decisiones aún no tomadas: orden y calendario de los traslados; tratamiento de los cambios de roles.
 

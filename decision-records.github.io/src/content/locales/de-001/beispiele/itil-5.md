@@ -1,4 +1,4 @@
-# ITIL 5 schrittweise einführen
+# ITIL 5
 
 * Status: Kommentierung erbeten
 * Datum: 2026-09-30
@@ -98,7 +98,7 @@ Wenn sich das Team für einen phasenweisen Ansatz entscheidet, müsste es:
 
 ## Verwandte Entscheidungen
 
-* [Ein Geschäfts-Framework schrittweise einführen](../geschaeftsframeworks/): dasselbe Phasenmuster, angewandt auf ein anderes Framework.
+* [Geschäfts-Frameworks](../geschaeftsframeworks/): dasselbe Phasenmuster, angewandt auf ein anderes Framework.
 * [Unsere IT-Frameworks auswählen](../it-frameworks/): wie ITIL zu anderen Frameworks passt, die die Gruppe erwägt.
 * Noch nicht getroffene Entscheidungen: Werkzeuge; Änderungen an Lieferantenverträgen; Zertifizierung ja oder nein.
 

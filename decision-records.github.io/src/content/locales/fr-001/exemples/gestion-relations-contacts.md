@@ -1,4 +1,4 @@
-# Adopter la gestion des relations avec les contacts
+# Gestion des relations avec les contacts
 
 * Statut : demande de commentaires
 * Date : 2026-10-12

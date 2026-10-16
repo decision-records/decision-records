@@ -1,4 +1,4 @@
-# Projektportfoliomanagement einführen
+# Projektportfoliomanagement
 
 * Status: Kommentierung erbeten
 * Datum: 2026-10-05
@@ -91,8 +91,8 @@ Wenn sich das Team für einen schlanken zentralen Prozess entscheidet, müsste e
 
 ## Verwandte Entscheidungen
 
-* [Ein Zielbetriebsmodell einführen](../zielbetriebsmodell/): wie das Portfolio zu gemeinsamen Diensten und kundenorientierten Teams passt.
-* [Ein Geschäfts-Framework schrittweise einführen](../geschaeftsframeworks/): die Zielsetzung, an die Portfolioentscheidungen anknüpfen können.
+* [Zielbetriebsmodell](../zielbetriebsmodell/): wie das Portfolio zu gemeinsamen Diensten und kundenorientierten Teams passt.
+* [Geschäfts-Frameworks](../geschaeftsframeworks/): die Zielsetzung, an die Portfolioentscheidungen anknüpfen können.
 * Noch nicht getroffene Entscheidungen: Werkzeuge; Ansatz zur Nutzenverfolgung.
 
 ## Verwandte Hinweise

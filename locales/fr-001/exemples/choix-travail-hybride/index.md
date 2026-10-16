@@ -90,9 +90,9 @@ Si l'équipe décide de jours d'ancrage fixés par les équipes, elle devrait :
 
 ## Décisions liées
 
-* [Adopter une politique hybride de télétravail](../politique-teletravail/) : la question de politique au niveau de l'entreprise.
-* [Établir un processus pour les aménagements raisonnables au travail](../amenagements-raisonnables-au-travail/) : les besoins individuels.
-* [Adopter la planification et la gestion de l'espace de travail](../planification-gestion-espace-de-travail/) : comment l'espace est planifié.
+* [Politique hybride de télétravail](../politique-teletravail/) : la question de politique au niveau de l'entreprise.
+* [Aménagements raisonnables au travail](../amenagements-raisonnables-au-travail/) : les besoins individuels.
+* [Planification et gestion de l'espace de travail](../planification-gestion-espace-de-travail/) : comment l'espace est planifié.
 * Décisions pas encore prises : rémunération et lieu de travail ; conditions du bail.
 
 ## Notes liées

@@ -91,8 +91,8 @@ Pe bai'r tîm yn penderfynu dod yn fusnes cynnyrch, byddai angen iddo:
 
 ## Penderfyniadau cysylltiedig
 
-* [Mabwysiadu model gweithredu targed](../model-gweithredu-targed/): bydd angen i'r sefydliad gyd-fynd.
-* [Symud i brisio ar sail defnydd](../newid-model-prisio/): prisio o dan fodel cynnyrch.
+* [Model gweithredu targed](../model-gweithredu-targed/): bydd angen i'r sefydliad gyd-fynd.
+* [Prisio ar sail defnydd](../newid-model-prisio/): prisio o dan fodel cynnyrch.
 * Penderfyniadau heb eu gwneud eto: rhaglen partneriaid; cefnogaeth i staff yr effeithir arnynt.
 
 ## Nodiadau cysylltiedig

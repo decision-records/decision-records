@@ -92,7 +92,7 @@ Si l'équipe décide de repositionner par phases, elle devrait :
 
 ## Décisions liées
 
-* [Passer à une tarification basée sur l'usage](../changement-modele-tarification/) : le prix et le positionnement s'influencent mutuellement.
+* [Tarification basée sur l'usage](../changement-modele-tarification/) : le prix et le positionnement s'influencent mutuellement.
 * Décisions pas encore prises : refonte visuelle plus large ; changements de noms de produits.
 
 ## Notes liées

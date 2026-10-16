@@ -1,4 +1,4 @@
-# Cyflwyno Rhaglennu Eithafol fesul cam
+# Rhaglennu Eithafol
 
 * Statws: cais am sylwadau
 * Dyddiad: 2025-10-06
@@ -92,7 +92,7 @@ Pe bai'r tîm yn dewis dull fesul cam, byddai angen iddo:
 
 ## Penderfyniadau cysylltiedig
 
-* [Cyflwyno'r Maniffesto Ystwyth fesul cam](../maniffesto-ystwyth/): y penderfyniad ehangach am y gwerthoedd y mae'r arferion hyn yn eu cefnogi.
+* [Y Maniffesto Ystwyth](../maniffesto-ystwyth/): y penderfyniad ehangach am y gwerthoedd y mae'r arferion hyn yn eu cefnogi.
 * [Dewis ein fframweithiau technoleg gwybodaeth](../fframweithiau-technoleg-gwybodaeth/): sut mae XP yn ffitio â fframweithiau eraill.
 * Penderfyniadau heb eu gwneud eto: buddsoddi mewn piblinell ac offer; model perchnogaeth cod.
 

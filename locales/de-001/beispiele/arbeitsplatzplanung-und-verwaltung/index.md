@@ -1,4 +1,4 @@
-# Arbeitsplatzplanung und -verwaltung einführen
+# Arbeitsplatzplanung und -verwaltung
 
 * Status: Kommentierung erbeten
 * Datum: 2026-10-08
@@ -92,7 +92,7 @@ Wenn sich das Team für nutzungsbasierte Planung mit buchbaren Teamzonen entsche
 ## Verwandte Entscheidungen
 
 * [Ein hybrides Arbeitsmodell wählen](../optionen-hybrides-arbeiten/): die Richtlinie, die diese Entscheidung stützt.
-* [Einen Prozess für angemessene Vorkehrungen am Arbeitsplatz festlegen](../angemessene-vorkehrungen-am-arbeitsplatz/): individuelle Bedürfnisse.
+* [Angemessene Vorkehrungen am Arbeitsplatz](../angemessene-vorkehrungen-am-arbeitsplatz/): individuelle Bedürfnisse.
 * Noch nicht getroffene Entscheidungen: Buchungswerkzeug; Mietvertragsbedingungen.
 
 ## Verwandte Hinweise

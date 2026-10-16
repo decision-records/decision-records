@@ -90,8 +90,8 @@ Pe bai'r tîm yn penderfynu neilltuo fframweithiau yn ôl math o waith a'u cyflw
 
 ## Penderfyniadau cysylltiedig
 
-* [Cyflwyno'r Maniffesto Ystwyth fesul cam](../maniffesto-ystwyth/), [Cyflwyno ITIL 5 fesul cam](../itil-5/), [Cyflwyno Rhaglennu Eithafol fesul cam](../rhaglennu-eithafol/) a [Chyflwyno Chwe Sigma fesul cam](../chwe-sigma/): y penderfyniadau ar bob fframwaith.
-* [Cyflwyno fframwaith busnes fesul cam](../fframweithiau-busnes/): y patrwm cyffredinol o gamau.
+* [Y Maniffesto Ystwyth](../maniffesto-ystwyth/), [ITIL 5](../itil-5/), [Rhaglennu Eithafol](../rhaglennu-eithafol/) a [Chwe Sigma](../chwe-sigma/): y penderfyniadau ar bob fframwaith.
+* [Fframweithiau busnes](../fframweithiau-busnes/): y patrwm cyffredinol o gamau.
 * Penderfyniadau heb eu gwneud eto: offer; trefn y fframweithiau diweddarach.
 
 ## Nodiadau cysylltiedig

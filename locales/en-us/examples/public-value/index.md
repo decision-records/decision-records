@@ -90,7 +90,7 @@ If the team decides on a digital-first service with assisted routes, it would ne
 
 ## Related decisions
 
-* [Adopt a hybrid remote-work policy](../hr-remote-work-policy/): staff arrangements in offices that stay open.
+* [Hybrid remote-work policy](../hr-remote-work-policy/): staff arrangements in offices that stay open.
 * Decisions not yet made: the office network; staffing and training plans.
 
 ## Related notes

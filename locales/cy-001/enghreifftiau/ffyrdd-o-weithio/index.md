@@ -1,4 +1,4 @@
-# Mabwysiadu ffyrdd o weithio ysgrifenedig
+# Ffyrdd o weithio ysgrifenedig
 
 * Statws: cais am sylwadau
 * Dyddiad: 2026-04-27
@@ -89,7 +89,7 @@ Pe bai'r tîm yn penderfynu ar set fer a rennir ynghyd â chytundebau tîm, bydd
 
 ## Penderfyniadau cysylltiedig
 
-* [Cyflwyno'r Maniffesto Ystwyth fesul cam](../maniffesto-ystwyth/): gwerthoedd a rennir ac arfer tîm.
+* [Y Maniffesto Ystwyth](../maniffesto-ystwyth/): gwerthoedd a rennir ac arfer tîm.
 * Penderfyniadau heb eu gwneud eto: offer ar gyfer cadw cytundebau; sut y datrysir gwrthdaro rhwng cytundebau tîm.
 
 ## Nodiadau cysylltiedig

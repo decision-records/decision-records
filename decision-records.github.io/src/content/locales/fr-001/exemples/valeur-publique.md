@@ -90,7 +90,7 @@ Si l'équipe décide d'un service numérique d'abord avec des parcours assistés
 
 ## Décisions liées
 
-* [Adopter une politique hybride de télétravail](../politique-teletravail/) : les dispositions du personnel dans les bureaux qui restent ouverts.
+* [Politique hybride de télétravail](../politique-teletravail/) : les dispositions du personnel dans les bureaux qui restent ouverts.
 * Décisions pas encore prises : réseau de bureaux ; plans d'effectifs et de formation.
 
 ## Notes liées

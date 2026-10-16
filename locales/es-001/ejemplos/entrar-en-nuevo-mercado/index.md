@@ -95,7 +95,7 @@ Si el equipo elige una entrada por etapas, necesitaría:
 
 ## Decisiones relacionadas
 
-* [Pasar a precios basados en el uso](../cambio-modelo-precios/): los precios de un segmento nuevo pueden requerir replantearse.
+* [Precios basados en el uso](../cambio-modelo-precios/): los precios de un segmento nuevo pueden requerir replantearse.
 * [Seleccionar una plataforma CRM](../seleccion-proveedor-crm/): las herramientas de ventas pueden tener que cambiar para un enfoque más rápido.
 * Decisiones aún no tomadas: precios y paquetes para el segmento; estrategia de socios; dotación de personal del próximo año.
 

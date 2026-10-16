@@ -1,4 +1,4 @@
-# Introduire progressivement ITIL 5
+# ITIL 5
 
 * Statut : demande de commentaires
 * Date : 2026-09-30
@@ -98,7 +98,7 @@ Si l'équipe choisit une approche par phases, elle devrait :
 
 ## Décisions liées
 
-* [Introduire progressivement un cadre de gestion](../cadres-de-gestion/) : le même schéma de phasage appliqué à un autre cadre.
+* [Cadres de gestion](../cadres-de-gestion/) : le même schéma de phasage appliqué à un autre cadre.
 * [Choisir nos cadres de technologies de l'information](../cadres-technologies-information/) : comment ITIL s'articule avec d'autres cadres envisagés par le groupe.
 * Décisions pas encore prises : outils ; modifications des contrats fournisseurs ; certification ou non.
 

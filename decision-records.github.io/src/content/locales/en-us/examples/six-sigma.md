@@ -1,4 +1,4 @@
-# Phase in Six Sigma
+# Six Sigma
 
 * Status: request for comments
 * Date: 2026-01-19
@@ -44,7 +44,7 @@ For each option, estimate value, costs, timeline, and capability needs, and note
   * Cost drivers: training time for many managers; projects started before they can be measured; management attention.
   * Timeline shape: broad early effort, uneven results.
   * Risks: removes many managers from operations; projects without reliable baselines.
-* **Phase in with a small group of trained practitioners and a single process first.** Train a small group (for example Green Belts and Black Belts), choose one high-volume process, measure the defect rate, run a project using DMAIC (define, measure, analyze, improve, control), and use the result to choose the next.
+* **Adopt with a small group of trained practitioners and a single process first.** Train a small group (for example Green Belts and Black Belts), choose one high-volume process, measure the defect rate, run a project using DMAIC (define, measure, analyze, improve, control), and use the result to choose the next.
   * Value: proves value with data; builds capability where it is needed.
   * Cost drivers: training; project time; measurement systems; sponsor time.
   * Timeline shape: a first project from definition to sustained control, then extension only when the target has held for a stated period.
@@ -97,9 +97,9 @@ If the team chooses a single-process start, it would need to:
 
 ## Related decisions
 
-* [Phase in lean manufacturing](../lean-manufacturing/): a related approach to reducing waste.
+* [Lean manufacturing](../lean-manufacturing/): a related approach to reducing waste.
 * [Choose our information technology frameworks](../information-technology-frameworks/): how Six Sigma fits with other frameworks.
-* [Phase in a business framework](../business-frameworks/): the same phasing pattern for another framework.
+* [Business frameworks](../business-frameworks/): the same staged-adoption pattern for another framework.
 * Decisions not yet made: how savings are validated; training route.
 
 ## Related notes

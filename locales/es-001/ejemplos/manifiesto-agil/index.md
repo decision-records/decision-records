@@ -1,4 +1,4 @@
-# Introducir el Manifiesto Ágil por fases
+# El Manifiesto Ágil
 
 * Estado: solicitud de comentarios
 * Fecha: 2026-02-16
@@ -96,9 +96,9 @@ Si el equipo elige un enfoque equipo por equipo, necesitaría:
 
 ## Decisiones relacionadas
 
-* [Introducir Programación Extrema por fases](../programacion-extrema/): prácticas de ingeniería concretas que encajan con los valores ágiles.
+* [Programación Extrema](../programacion-extrema/): prácticas de ingeniería concretas que encajan con los valores ágiles.
 * [Elegir nuestros marcos de tecnología de la información](../marcos-de-tecnologia-de-la-informacion/): cómo encaja lo ágil con otros marcos.
-* [Introducir por fases un marco de negocio](../marcos-de-negocio/): el mismo patrón de fases aplicado a la definición de metas.
+* [Marcos de negocio](../marcos-de-negocio/): el mismo patrón de fases aplicado a la definición de metas.
 * Decisiones aún no tomadas: cambios de contratos; coaching; herramientas.
 
 ## Notas relacionadas

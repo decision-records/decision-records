@@ -1,4 +1,4 @@
-# Introducir la manufactura esbelta por fases
+# Manufactura esbelta
 
 * Estado: solicitud de comentarios
 * Fecha: 2025-11-24
@@ -94,7 +94,7 @@ Si el equipo elige un enfoque línea por línea, necesitaría:
 
 ## Decisiones relacionadas
 
-* [Introducir Seis Sigma por fases](../seis-sigma/): un enfoque basado en datos que puede complementar lean.
+* [Seis Sigma](../seis-sigma/): un enfoque basado en datos que puede complementar lean.
 * [Elegir nuestros marcos de tecnología de la información](../marcos-de-tecnologia-de-la-informacion/): el problema general de elegir y ordenar marcos.
 * Decisiones aún no tomadas: cambios de equipos o de distribución; incentivos; cambios de proveedores.
 

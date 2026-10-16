@@ -95,7 +95,7 @@ Si l'équipe choisit une entrée par étapes, elle devrait :
 
 ## Décisions liées
 
-* [Passer à une tarification basée sur l'usage](../changement-modele-tarification/) : la tarification d'un nouveau segment peut devoir être repensée.
+* [Tarification basée sur l'usage](../changement-modele-tarification/) : la tarification d'un nouveau segment peut devoir être repensée.
 * [Choisir une plateforme CRM](../choix-fournisseur-crm/) : les outils des ventes peuvent devoir changer pour une approche plus rapide.
 * Décisions pas encore prises : tarification et offres pour le segment ; stratégie de partenaires ; effectifs de l'an prochain.
 

@@ -92,7 +92,7 @@ Si el equipo decide reposicionar por fases, necesitaría:
 
 ## Decisiones relacionadas
 
-* [Pasar a precios basados en el uso](../cambio-modelo-precios/): el precio y el posicionamiento se influyen mutuamente.
+* [Precios basados en el uso](../cambio-modelo-precios/): el precio y el posicionamiento se influyen mutuamente.
 * Decisiones aún no tomadas: renovación visual más amplia; cambios en los nombres de productos.
 
 ## Notas relacionadas

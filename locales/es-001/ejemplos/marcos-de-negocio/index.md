@@ -1,4 +1,4 @@
-# Introducir por fases un marco de negocio
+# Marcos de negocio
 
 * Estado: solicitud de comentarios
 * Fecha: 2026-10-01
@@ -44,7 +44,7 @@ Para cada opción, el equipo debe estimar el valor, el costo, el calendario y la
   * Forma del calendario: corto al empezar, largo para estabilizarse. Todos encuentran los problemas al mismo tiempo.
   * Capacidades necesarias: facilitadores capacitados a gran escala; herramientas definidas.
   * Riesgos: repite las condiciones del estancamiento anterior.
-* **Introducirlo por fases: equipo directivo, luego unos cuantos departamentos piloto y después todos.**
+* **Introducirlo por etapas: equipo directivo, luego unos cuantos departamentos piloto y después todos.**
   * Valor: cada fase enseña al equipo qué cambiar antes de la siguiente; los ejemplos tempranos persuaden a los escépticos.
   * Factores de costo: un período más largo con dos enfoques de definición de metas; coordinación adicional; tiempo adicional de capacitación y revisión para los equipos piloto, que conviene presupuestar de forma explícita.
   * Forma del calendario: fases sucesivas, cada una lo bastante larga para completar al menos un ciclo completo de metas, con puntuación y revisión.
@@ -95,7 +95,7 @@ Si el equipo elige un enfoque por fases, necesitaría:
 
 ## Decisiones relacionadas
 
-* [Adoptar un modelo operativo objetivo](../modelo-operativo-objetivo/): cómo encaja el marco en el funcionamiento más amplio de la organización.
+* [Modelo operativo objetivo](../modelo-operativo-objetivo/): cómo encaja el marco en el funcionamiento más amplio de la organización.
 * [Elegir nuestros marcos de tecnología de la información](../marcos-de-tecnologia-de-la-informacion/): la misma cuestión de fases aplicada a varios marcos a la vez.
 * Decisiones aún no tomadas: herramienta para registrar las metas; si se vinculan las metas con la remuneración o la evaluación.
 

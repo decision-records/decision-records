@@ -1,4 +1,4 @@
-# Phase in the Agile Manifesto
+# The Agile Manifesto
 
 * Status: request for comments
 * Date: 2026-02-16
@@ -43,7 +43,7 @@ For each option, estimate value, costs, timeline, and capability needs, and writ
   * Cost drivers: training for everyone; role changes; tool changes; time lost while teams adapt; the cost of discovering later that the method suits some teams badly.
   * Timeline shape: fast start; long tail of correcting course.
   * Risks: ceremonies without change; people who are not ready perform them without changing how they work.
-* **Phase in by team, starting with volunteers.** Teams that want to try it release in short cycles, choose practices that fit them, and show results; the manifesto's values are the guide.
+* **Adopt by team, starting with volunteers.** Teams that want to try it release in short cycles, choose practices that fit them, and show results; the manifesto's values are the guide.
   * Value: real local examples; practices tied to values.
   * Cost drivers: coaching time; running two ways of working; effort to collect and share what is learned.
   * Timeline shape: waves, with later waves joining once earlier teams have run long enough to show results.
@@ -96,9 +96,9 @@ If the team chooses a team-by-team approach, it would need to:
 
 ## Related decisions
 
-* [Phase in Extreme Programming](../extreme-programming/): specific engineering practices that fit agile values.
+* [Extreme Programming](../extreme-programming/): specific engineering practices that fit agile values.
 * [Choose our information technology frameworks](../information-technology-frameworks/): how agile fits with other frameworks.
-* [Phase in a business framework](../business-frameworks/): the same phasing pattern applied to goal setting.
+* [Business frameworks](../business-frameworks/): the same staged-adoption pattern applied to goal setting.
 * Decisions not yet made: contract changes; coaching; tooling.
 
 ## Related notes

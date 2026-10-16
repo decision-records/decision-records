@@ -1,4 +1,4 @@
-# Adoptar la planificación y gestión del lugar de trabajo
+# Planificación y gestión del lugar de trabajo
 
 * Estado: solicitud de comentarios
 * Fecha: 2026-10-08
@@ -92,7 +92,7 @@ Si el equipo decide una planificación basada en el uso con zonas de equipo rese
 ## Decisiones relacionadas
 
 * [Elegir un modelo de trabajo híbrido](../opciones-trabajo-hibrido/): la política que esta decisión respalda.
-* [Establecer un proceso para los ajustes razonables en el lugar de trabajo](../ajustes-razonables-en-el-trabajo/): las necesidades individuales.
+* [Ajustes razonables en el lugar de trabajo](../ajustes-razonables-en-el-trabajo/): las necesidades individuales.
 * Decisiones aún no tomadas: herramienta de reservas; condiciones del contrato de alquiler.
 
 ## Notas relacionadas

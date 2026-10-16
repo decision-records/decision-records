@@ -1,4 +1,4 @@
-# Six Sigma schrittweise einführen
+# Six Sigma
 
 * Status: Kommentierung erbeten
 * Datum: 2026-01-19
@@ -44,7 +44,7 @@ Für jede Option Nutzen, Kosten, Zeitplan und benötigte Fähigkeiten schätzen 
   * Kostentreiber: Schulungszeit vieler Führungskräfte; Projekte, die gestartet werden, bevor sie gemessen werden können; Aufmerksamkeit der Führung.
   * Zeitverlauf: breiter Aufwand am Anfang, ungleichmäßige Ergebnisse.
   * Risiken: zieht viele Führungskräfte aus dem Betrieb ab; Projekte ohne verlässliche Ausgangsbasis.
-* **Schrittweise mit einer kleinen Gruppe geschulter Fachleute und zunächst nur einem Prozess einführen.** Eine kleine Gruppe schulen (etwa Green Belts und Black Belts), einen Prozess mit hohem Volumen wählen, die Fehlerquote messen, ein Projekt nach DMAIC (definieren, messen, analysieren, verbessern, steuern) durchführen und das Ergebnis nutzen, um den nächsten zu wählen.
+* **Mit einer kleinen Gruppe geschulter Fachleute und zunächst nur einem Prozess einführen.** Eine kleine Gruppe schulen (etwa Green Belts und Black Belts), einen Prozess mit hohem Volumen wählen, die Fehlerquote messen, ein Projekt nach DMAIC (definieren, messen, analysieren, verbessern, steuern) durchführen und das Ergebnis nutzen, um den nächsten zu wählen.
   * Nutzen: belegt den Nutzen mit Daten; baut Fähigkeit dort auf, wo sie gebraucht wird.
   * Kostentreiber: Schulung; Projektzeit; Messsysteme; Zeit der Sponsorin oder des Sponsors.
   * Zeitverlauf: ein erstes Projekt von der Definition bis zur dauerhaften Steuerung, danach Ausweitung erst, wenn das Ziel über einen festgelegten Zeitraum gehalten hat.
@@ -97,9 +97,9 @@ Wenn sich das Team für den Start mit einem einzigen Prozess entscheidet, müsst
 
 ## Verwandte Entscheidungen
 
-* [Schlanke Produktion schrittweise einführen](../schlanke-produktion/): ein verwandter Ansatz zur Verringerung von Verschwendung.
+* [Schlanke Produktion](../schlanke-produktion/): ein verwandter Ansatz zur Verringerung von Verschwendung.
 * [Unsere IT-Frameworks auswählen](../it-frameworks/): wie Six Sigma zu anderen Frameworks passt.
-* [Ein Geschäfts-Framework schrittweise einführen](../geschaeftsframeworks/): dasselbe Phasenmuster für ein anderes Framework.
+* [Geschäfts-Frameworks](../geschaeftsframeworks/): dasselbe Phasenmuster für ein anderes Framework.
 * Noch nicht getroffene Entscheidungen: wie Einsparungen bestätigt werden; Schulungsweg.
 
 ## Verwandte Hinweise

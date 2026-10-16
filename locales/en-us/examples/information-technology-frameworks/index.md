@@ -90,8 +90,8 @@ If the team decides to assign frameworks by kind of work and phase them in, it w
 
 ## Related decisions
 
-* [Phase in the Agile Manifesto](../agile-manifesto/), [Phase in ITIL 5](../itil-5/), [Phase in Extreme Programming](../extreme-programming/), and [Phase in Six Sigma](../six-sigma/): the decisions on each framework.
-* [Phase in a business framework](../business-frameworks/): the general phasing pattern.
+* [The Agile Manifesto](../agile-manifesto/), [ITIL 5](../itil-5/), [Extreme Programming](../extreme-programming/), and [Six Sigma](../six-sigma/): the decisions on each framework.
+* [Business frameworks](../business-frameworks/): the general staged-adoption pattern.
 * Decisions not yet made: tooling; the order of later frameworks.
 
 ## Related notes

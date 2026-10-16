@@ -90,9 +90,9 @@ Wenn sich das Team für von den Teams festgelegte Ankertage entscheidet, müsste
 
 ## Verwandte Entscheidungen
 
-* [Eine hybride Fernarbeitsrichtlinie einführen](../richtlinie-fernarbeit/): die Richtlinienfrage auf Unternehmensebene.
-* [Einen Prozess für angemessene Vorkehrungen am Arbeitsplatz festlegen](../angemessene-vorkehrungen-am-arbeitsplatz/): individuelle Bedürfnisse.
-* [Arbeitsplatzplanung und -verwaltung einführen](../arbeitsplatzplanung-und-verwaltung/): wie Flächen geplant werden.
+* [Hybride Fernarbeitsrichtlinie](../richtlinie-fernarbeit/): die Richtlinienfrage auf Unternehmensebene.
+* [Angemessene Vorkehrungen am Arbeitsplatz](../angemessene-vorkehrungen-am-arbeitsplatz/): individuelle Bedürfnisse.
+* [Arbeitsplatzplanung und -verwaltung](../arbeitsplatzplanung-und-verwaltung/): wie Flächen geplant werden.
 * Noch nicht getroffene Entscheidungen: Vergütung und Standort; Mietvertragsbedingungen.
 
 ## Verwandte Hinweise

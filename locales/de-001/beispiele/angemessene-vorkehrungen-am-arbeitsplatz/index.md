@@ -1,4 +1,4 @@
-# Einen Prozess für angemessene Vorkehrungen am Arbeitsplatz festlegen
+# Angemessene Vorkehrungen am Arbeitsplatz
 
 * Status: Kommentierung erbeten
 * Datum: 2026-03-30
@@ -91,7 +91,7 @@ Wenn sich das Team für ein zentrales Budget mit Entscheidungen zwischen der Per
 ## Verwandte Entscheidungen
 
 * [Ein hybrides Arbeitsmodell wählen](../optionen-hybrides-arbeiten/): individuelle Arbeitsregelungen innerhalb eines Hybridmodells.
-* [Arbeitsplatzplanung und -verwaltung einführen](../arbeitsplatzplanung-und-verwaltung/): wie Flächen- und Buchungsregeln individuelle Bedürfnisse berücksichtigen.
+* [Arbeitsplatzplanung und -verwaltung](../arbeitsplatzplanung-und-verwaltung/): wie Flächen- und Buchungsregeln individuelle Bedürfnisse berücksichtigen.
 * Noch nicht getroffene Entscheidungen: örtliche Rechtsprüfung; Wahl des Anbieters.
 
 ## Verwandte Hinweise

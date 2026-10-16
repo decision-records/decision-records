@@ -1,4 +1,4 @@
-# Adopter la gestion de portefeuille de projets
+# Gestion de portefeuille de projets
 
 * Statut : demande de commentaires
 * Date : 2026-10-05
@@ -91,8 +91,8 @@ Si l'équipe décide d'un processus central léger, elle devrait :
 
 ## Décisions liées
 
-* [Adopter un modèle opérationnel cible](../modele-operationnel-cible/) : comment le portefeuille s'articule avec les services partagés et les équipes alignées sur les clients.
-* [Introduire progressivement un cadre de gestion](../cadres-de-gestion/) : la définition d'objectifs à laquelle les choix de portefeuille peuvent se rattacher.
+* [Modèle opérationnel cible](../modele-operationnel-cible/) : comment le portefeuille s'articule avec les services partagés et les équipes alignées sur les clients.
+* [Cadres de gestion](../cadres-de-gestion/) : la définition d'objectifs à laquelle les choix de portefeuille peuvent se rattacher.
 * Décisions pas encore prises : outillage ; approche de suivi des bénéfices.
 
 ## Notes liées

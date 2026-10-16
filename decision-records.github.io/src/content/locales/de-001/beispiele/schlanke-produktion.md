@@ -1,4 +1,4 @@
-# Schlanke Produktion schrittweise einführen
+# Schlanke Produktion
 
 * Status: Kommentierung erbeten
 * Datum: 2025-11-24
@@ -94,7 +94,7 @@ Wenn sich das Team für ein Vorgehen Linie für Linie entscheidet, müsste es:
 
 ## Verwandte Entscheidungen
 
-* [Six Sigma schrittweise einführen](../six-sigma/): ein datengestützter Ansatz, der Lean ergänzen kann.
+* [Six Sigma](../six-sigma/): ein datengestützter Ansatz, der Lean ergänzen kann.
 * [Unsere IT-Frameworks auswählen](../it-frameworks/): das allgemeine Problem, Frameworks zu wählen und zu ordnen.
 * Noch nicht getroffene Entscheidungen: Änderungen an Anlagen oder Layout; Anreize; Lieferantenwechsel.
 

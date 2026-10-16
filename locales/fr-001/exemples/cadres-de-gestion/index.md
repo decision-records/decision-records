@@ -1,4 +1,4 @@
-# Introduire progressivement un cadre de gestion
+# Cadres de gestion
 
 * Statut : demande de commentaires
 * Date : 2026-10-01
@@ -44,7 +44,7 @@ Pour chaque option, l'équipe doit estimer la valeur, le coût, le calendrier et
   * Forme du calendrier : court au départ, long à stabiliser. Les problèmes apparaissent chez tout le monde simultanément.
   * Capacités nécessaires : animateurs formés en nombre ; outils arrêtés.
   * Risques : reproduit les conditions de l'enlisement précédent.
-* **Introduire par phases : équipe de direction, puis quelques départements pilotes, puis tout le monde.**
+* **Introduire par étapes : équipe de direction, puis quelques départements pilotes, puis tout le monde.**
   * Valeur : chaque phase apprend à l'équipe ce qu'il faut changer avant la suivante ; des exemples précoces convainquent les sceptiques.
   * Postes de coût : une période plus longue avec deux approches de définition d'objectifs ; coordination supplémentaire ; temps de formation et de revue supplémentaire pour les équipes pilotes, à budgéter explicitement.
   * Forme du calendrier : des phases successives, chacune assez longue pour mener au moins un cycle d'objectifs complet, notation et revue comprises.
@@ -95,7 +95,7 @@ Si l'équipe choisit une approche par phases, elle devrait :
 
 ## Décisions liées
 
-* [Adopter un modèle opérationnel cible](../modele-operationnel-cible/) : comment le cadre s'insère dans le fonctionnement plus large de l'organisation.
+* [Modèle opérationnel cible](../modele-operationnel-cible/) : comment le cadre s'insère dans le fonctionnement plus large de l'organisation.
 * [Choisir nos cadres de technologies de l'information](../cadres-technologies-information/) : la même question de phasage appliquée à plusieurs cadres à la fois.
 * Décisions pas encore prises : outil d'enregistrement des objectifs ; lien éventuel entre objectifs et rémunération ou évaluation.
 

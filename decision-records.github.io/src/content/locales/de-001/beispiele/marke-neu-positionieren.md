@@ -92,7 +92,7 @@ Wenn sich das Team für eine phasenweise Neupositionierung entscheidet, müsste 
 
 ## Verwandte Entscheidungen
 
-* [Auf nutzungsbasierte Preise umstellen](../wechsel-preismodell/): Preis und Positionierung beeinflussen einander.
+* [Nutzungsbasierte Preise](../wechsel-preismodell/): Preis und Positionierung beeinflussen einander.
 * Noch nicht getroffene Entscheidungen: breitere visuelle Auffrischung; Änderungen an Produktnamen.
 
 ## Verwandte Hinweise

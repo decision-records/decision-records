@@ -90,8 +90,8 @@ Si el equipo decide asignar los marcos por tipo de trabajo e introducirlos por f
 
 ## Decisiones relacionadas
 
-* [Introducir el Manifiesto Ágil por fases](../manifiesto-agil/), [Introducir ITIL 5 por fases](../itil-5/), [Introducir Programación Extrema por fases](../programacion-extrema/) e [Introducir Seis Sigma por fases](../seis-sigma/): las decisiones sobre cada marco.
-* [Introducir por fases un marco de negocio](../marcos-de-negocio/): el patrón general de fases.
+* [El Manifiesto Ágil](../manifiesto-agil/), [ITIL 5](../itil-5/), [Programación Extrema](../programacion-extrema/) e [Seis Sigma](../seis-sigma/): las decisiones sobre cada marco.
+* [Marcos de negocio](../marcos-de-negocio/): el patrón general de fases.
 * Decisiones aún no tomadas: herramientas; el orden de los marcos posteriores.
 
 ## Notas relacionadas

@@ -1,4 +1,4 @@
-# Introduire progressivement la production allégée
+# Production allégée
 
 * Statut : demande de commentaires
 * Date : 2025-11-24
@@ -94,7 +94,7 @@ Si l'équipe choisit une approche ligne par ligne, elle devrait :
 
 ## Décisions liées
 
-* [Introduire progressivement Six Sigma](../six-sigma/) : une approche fondée sur les données qui peut compléter le lean.
+* [Six Sigma](../six-sigma/) : une approche fondée sur les données qui peut compléter le lean.
 * [Choisir nos cadres de technologies de l'information](../cadres-technologies-information/) : le problème général du choix et de l'ordre des cadres.
 * Décisions pas encore prises : changements d'équipement ou d'implantation ; incitations ; changements de fournisseurs.
 

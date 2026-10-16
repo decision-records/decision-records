@@ -1,4 +1,4 @@
-# Schriftliche Arbeitsweisen einführen
+# Schriftliche Arbeitsweisen
 
 * Status: Kommentierung erbeten
 * Datum: 2026-04-27
@@ -89,7 +89,7 @@ Wenn sich das Team für einen kurzen gemeinsamen Satz plus Teamvereinbarungen en
 
 ## Verwandte Entscheidungen
 
-* [Das Agile Manifest schrittweise einführen](../agiles-manifest/): gemeinsame Werte und Teampraxis.
+* [Das Agile Manifest](../agiles-manifest/): gemeinsame Werte und Teampraxis.
 * Noch nicht getroffene Entscheidungen: Werkzeuge zur Aufbewahrung der Vereinbarungen; wie Konflikte zwischen Teamvereinbarungen gelöst werden.
 
 ## Verwandte Hinweise

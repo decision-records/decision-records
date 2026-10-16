@@ -1,4 +1,4 @@
-# Adopt a target operating model
+# Target operating model
 
 * Status: request for comments
 * Date: 2026-09-15
@@ -89,8 +89,8 @@ If the team decides to move to a hybrid model, it would need to:
 
 ## Related decisions
 
-* [Phase in a business framework](../business-frameworks/): how to approach staged change.
-* [Adopt project portfolio management](../project-portfolio-management/): how projects are chosen under the target model.
+* [Business frameworks](../business-frameworks/): how to approach staged change.
+* [Project portfolio management](../project-portfolio-management/): how projects are chosen under the target model.
 * [Choose between a product business and a service business](../product-business-versus-service-business/): strategic choices that affect the model.
 * Decisions not yet made: order and timing of moves; treatment of role changes.
 

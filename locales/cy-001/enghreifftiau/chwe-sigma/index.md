@@ -1,4 +1,4 @@
-# Cyflwyno Chwe Sigma fesul cam
+# Chwe Sigma
 
 * Statws: cais am sylwadau
 * Dyddiad: 2026-01-19
@@ -44,7 +44,7 @@ Ar gyfer pob dewis, amcangyfrif y gwerth, y costau, yr amserlen a'r galluoedd sy
   * Ysgogwyr cost: amser hyfforddi llawer o reolwyr; prosiectau a gychwynnir cyn y gellir eu mesur; sylw'r arweinwyr.
   * Siâp yr amserlen: ymdrech eang ar y dechrau, canlyniadau anwastad.
   * Risgiau: tynnu llawer o reolwyr o'r gweithrediadau; prosiectau heb linell sylfaen ddibynadwy.
-* **Cyflwyno fesul cam gyda grŵp bach o ymarferwyr hyfforddedig ac un broses yn gyntaf.** Hyfforddi grŵp bach (er enghraifft Gwregysau Gwyrdd a Gwregysau Du), dewis un broses â chyfaint uchel, mesur y gyfradd diffygion, cynnal prosiect gan ddefnyddio DMAIC (diffinio, mesur, dadansoddi, gwella, rheoli) a defnyddio'r canlyniad i ddewis y nesaf.
+* **Cyflwyno gyda grŵp bach o ymarferwyr hyfforddedig ac un broses yn gyntaf.** Hyfforddi grŵp bach (er enghraifft Gwregysau Gwyrdd a Gwregysau Du), dewis un broses â chyfaint uchel, mesur y gyfradd diffygion, cynnal prosiect gan ddefnyddio DMAIC (diffinio, mesur, dadansoddi, gwella, rheoli) a defnyddio'r canlyniad i ddewis y nesaf.
   * Gwerth: profi gwerth gyda data; adeiladu gallu lle mae ei angen.
   * Ysgogwyr cost: hyfforddiant; amser prosiect; systemau mesur; amser y noddwr.
   * Siâp yr amserlen: prosiect cyntaf o'r diffiniad hyd at reolaeth gynaliadwy, yna ehangu dim ond pan fydd y targed wedi dal am gyfnod penodedig.
@@ -97,9 +97,9 @@ Pe bai'r tîm yn dewis dechrau gydag un broses, byddai angen iddo:
 
 ## Penderfyniadau cysylltiedig
 
-* [Cyflwyno gweithgynhyrchu darbodus fesul cam](../gweithgynhyrchu-darbodus/): dull cysylltiedig o leihau gwastraff.
+* [Gweithgynhyrchu darbodus](../gweithgynhyrchu-darbodus/): dull cysylltiedig o leihau gwastraff.
 * [Dewis ein fframweithiau technoleg gwybodaeth](../fframweithiau-technoleg-gwybodaeth/): sut mae Chwe Sigma yn ffitio â fframweithiau eraill.
-* [Cyflwyno fframwaith busnes fesul cam](../fframweithiau-busnes/): yr un patrwm camau ar gyfer fframwaith arall.
+* [Fframweithiau busnes](../fframweithiau-busnes/): yr un patrwm camau ar gyfer fframwaith arall.
 * Penderfyniadau heb eu gwneud eto: sut y cadarnheir arbedion; llwybr hyfforddi.
 
 ## Nodiadau cysylltiedig

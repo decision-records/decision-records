@@ -5,27 +5,27 @@ Des points de départ pour les équipes qui envisagent un type de décision, dan
 * [Entrer sur le segment du marché intermédiaire](entrer-sur-un-nouveau-marche/) : Stratégie
 * [Choisir une plateforme CRM](choix-fournisseur-crm/) : Ventes
 * [Repositionner la marque autour de la fiabilité](repositionnement-de-marque/) : Marketing
-* [Passer à une tarification basée sur l'usage](changement-modele-tarification/) : Produit
-* [Adopter une politique hybride de télétravail](politique-teletravail/) : Ressources humaines
+* [Tarification basée sur l'usage](changement-modele-tarification/) : Produit
+* [Politique hybride de télétravail](politique-teletravail/) : Ressources humaines
 * [Réduire le risque de concentration sur un seul fournisseur](dependance-fournisseur-unique/) : Risque
 * [Construire ou acheter pour un projet](construire-ou-acheter/) : Projet / Opérations
-* [Introduire progressivement un cadre de gestion](cadres-de-gestion/) : Stratégie / Opérations
+* [Cadres de gestion](cadres-de-gestion/) : Stratégie / Opérations
 * [Choisir la base de données principale](choix-base-de-donnees/) : Technologie / Architecture
-* [Adopter un modèle opérationnel cible](modele-operationnel-cible/) : Stratégie / Opérations
+* [Modèle opérationnel cible](modele-operationnel-cible/) : Stratégie / Opérations
 * [Choisir un modèle de travail hybride](choix-travail-hybride/) : Ressources humaines
 * [Choisir entre une activité de produits et une activité de services](activite-produits-ou-services/) : Stratégie
 * [Évaluer la valeur publique dans la refonte d'un service](valeur-publique/) : Secteur public
 * [Évaluer l'économie de la santé dans une décision de financement de traitement](economie-de-la-sante/) : Santé
-* [Adopter des modes de travail écrits](modes-de-travail/) : Opérations
-* [Établir un processus pour les aménagements raisonnables au travail](amenagements-raisonnables-au-travail/) : Ressources humaines
-* [Introduire progressivement ITIL 5](itil-5/) : Technologie / Opérations
-* [Introduire progressivement le Manifeste agile](manifeste-agile/) : Technologie / Opérations
-* [Introduire progressivement Six Sigma](six-sigma/) : Opérations / Qualité
-* [Introduire progressivement la production allégée](production-allegee/) : Opérations / Fabrication
-* [Introduire progressivement l'Extreme Programming](extreme-programming/) : Technologie / Génie logiciel
-* [Adopter la gestion de portefeuille de projets](gestion-portefeuille-projets/) : Projet / Opérations
-* [Adopter la planification et la gestion de l'espace de travail](planification-gestion-espace-de-travail/) : Opérations / Services généraux
-* [Adopter la gestion des relations avec les contacts](gestion-relations-contacts/) : Ventes / Clients
+* [Modes de travail écrits](modes-de-travail/) : Opérations
+* [Aménagements raisonnables au travail](amenagements-raisonnables-au-travail/) : Ressources humaines
+* [ITIL 5](itil-5/) : Technologie / Opérations
+* [Le Manifeste agile](manifeste-agile/) : Technologie / Opérations
+* [Six Sigma](six-sigma/) : Opérations / Qualité
+* [Production allégée](production-allegee/) : Opérations / Fabrication
+* [L'Extreme Programming](extreme-programming/) : Technologie / Génie logiciel
+* [Gestion de portefeuille de projets](gestion-portefeuille-projets/) : Projet / Opérations
+* [Planification et gestion de l'espace de travail](planification-gestion-espace-de-travail/) : Opérations / Services généraux
+* [Gestion des relations avec les contacts](gestion-relations-contacts/) : Ventes / Clients
 * [Choisir nos cadres de technologies de l'information](cadres-technologies-information/) : Technologie / Opérations
 
 Notes sur cet index :

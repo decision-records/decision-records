@@ -1,4 +1,4 @@
-# Adopter une politique hybride de télétravail
+# Politique hybride de télétravail
 
 * Statut : demande de commentaires
 * Date : 2026-01-08
@@ -91,8 +91,8 @@ Si l'équipe décide d'une politique hybride, elle devrait :
 ## Décisions liées
 
 * [Choisir un modèle de travail hybride](../choix-travail-hybride/) : les choix au sein d'un modèle hybride.
-* [Établir un processus pour les aménagements raisonnables au travail](../amenagements-raisonnables-au-travail/) : les besoins individuels.
-* [Adopter la planification et la gestion de l'espace de travail](../planification-gestion-espace-de-travail/) : comment l'espace est planifié.
+* [Aménagements raisonnables au travail](../amenagements-raisonnables-au-travail/) : les besoins individuels.
+* [Planification et gestion de l'espace de travail](../planification-gestion-espace-de-travail/) : comment l'espace est planifié.
 * Décisions pas encore prises : lien éventuel entre rémunération et lieu ; futurs recrutements entièrement à distance.
 
 ## Notes liées

@@ -1,4 +1,4 @@
-# Ein Geschäfts-Framework schrittweise einführen
+# Geschäfts-Frameworks
 
 * Status: Kommentierung erbeten
 * Datum: 2026-10-01
@@ -44,7 +44,7 @@ Das Team sollte für jede Option Nutzen, Kosten, Zeitplan und benötigte Fähigk
   * Zeitverlauf: kurzer Start, lange Stabilisierung. Alle stoßen gleichzeitig auf Probleme.
   * Benötigte Fähigkeiten: geschulte Moderatorinnen und Moderatoren in großer Zahl; feststehende Werkzeuge.
   * Risiken: wiederholt die Bedingungen des früheren Steckenbleibens.
-* **In Phasen einführen: Führungsteam, dann einige Pilotabteilungen, dann alle.**
+* **In Etappen einführen: Führungsteam, dann einige Pilotabteilungen, dann alle.**
   * Nutzen: Jede Phase lehrt das Team, was vor der nächsten zu ändern ist; frühe Beispiele überzeugen Skeptiker.
   * Kostentreiber: ein längerer Zeitraum mit zwei Ansätzen der Zielsetzung; zusätzliche Koordination; zusätzliche Schulungs- und Prüfzeit für die Pilotteams, die ausdrücklich eingeplant werden sollte.
   * Zeitverlauf: aufeinanderfolgende Phasen, jede lang genug für mindestens einen vollständigen Zielzyklus samt Bewertung und Rückblick.
@@ -95,7 +95,7 @@ Wenn sich das Team für einen phasenweisen Ansatz entscheidet, müsste es:
 
 ## Verwandte Entscheidungen
 
-* [Ein Zielbetriebsmodell einführen](../zielbetriebsmodell/): wie das Framework in die weitere Arbeitsweise der Organisation passt.
+* [Zielbetriebsmodell](../zielbetriebsmodell/): wie das Framework in die weitere Arbeitsweise der Organisation passt.
 * [Unsere IT-Frameworks auswählen](../it-frameworks/): dieselbe Phasenfrage, angewandt auf mehrere Frameworks zugleich.
 * Noch nicht getroffene Entscheidungen: Werkzeug zur Erfassung der Ziele; ob Ziele an Vergütung oder Beurteilung gekoppelt werden.
 

@@ -1,4 +1,4 @@
-# Mabwysiadu polisi gwaith o bell hybrid
+# Polisi gwaith o bell hybrid
 
 * Statws: cais am sylwadau
 * Dyddiad: 2026-01-08
@@ -91,8 +91,8 @@ Pe bai'r tîm yn penderfynu ar bolisi hybrid, byddai angen iddo:
 ## Penderfyniadau cysylltiedig
 
 * [Dewis model gweithio hybrid](../dewisiadau-gweithio-hybrid/): y dewisiadau o fewn model hybrid.
-* [Gosod proses ar gyfer addasiadau rhesymol yn y gweithle](../addasiadau-rhesymol-yn-y-gweithle/): anghenion unigol.
-* [Mabwysiadu cynllunio a rheoli gweithle](../cynllunio-a-rheoli-gweithle/): sut y caiff gofod ei gynllunio.
+* [Addasiadau rhesymol yn y gweithle](../addasiadau-rhesymol-yn-y-gweithle/): anghenion unigol.
+* [Cynllunio a rheoli gweithle](../cynllunio-a-rheoli-gweithle/): sut y caiff gofod ei gynllunio.
 * Penderfyniadau heb eu gwneud eto: a yw cyflog yn dibynnu ar leoliad; recriwtio o bell yn gyfan gwbl yn y dyfodol.
 
 ## Nodiadau cysylltiedig

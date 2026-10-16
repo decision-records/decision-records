@@ -1,4 +1,4 @@
-# Introducir Programación Extrema por fases
+# Programación Extrema
 
 * Estado: solicitud de comentarios
 * Fecha: 2025-10-06
@@ -92,7 +92,7 @@ Si el equipo elige un enfoque por fases, necesitaría:
 
 ## Decisiones relacionadas
 
-* [Introducir el Manifiesto Ágil por fases](../manifiesto-agil/): la decisión más amplia sobre los valores que estas prácticas apoyan.
+* [El Manifiesto Ágil](../manifiesto-agil/): la decisión más amplia sobre los valores que estas prácticas apoyan.
 * [Elegir nuestros marcos de tecnología de la información](../marcos-de-tecnologia-de-la-informacion/): cómo encaja XP con otros marcos.
 * Decisiones aún no tomadas: inversión en la cadena y las herramientas; modelo de propiedad del código.
 

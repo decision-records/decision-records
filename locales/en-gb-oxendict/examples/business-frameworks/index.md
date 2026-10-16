@@ -1,4 +1,4 @@
-# Phase in a business framework
+# Business frameworks
 
 * Status: request for comments
 * Date: 2026-10-01
@@ -44,7 +44,7 @@ For each option the team should estimate value, cost, timeline, and capability n
   * Timeline shape: short to start, long to stabilize. Problems are found by everyone simultaneously.
   * Capabilities needed: trained facilitators at scale; settled tooling.
   * Risks: repeats the conditions of the earlier stall.
-* **Introduce in phases: leadership team, then a few pilot departments, then everyone.**
+* **Introduce in stages: leadership team, then a few pilot departments, then everyone.**
   * Value: each phase teaches the team what to change before the next; early examples persuade sceptics.
   * Cost drivers: a longer period of running two goal-setting approaches; extra coordination; extra training and review time for the pilot teams, which should be budgeted explicitly.
   * Timeline shape: sequential phases, each lasting long enough to complete at least one full goal cycle including scoring and review.
@@ -95,8 +95,8 @@ If the team does choose a phased approach, it would need to:
 
 ## Related decisions
 
-* [Adopt a target operating model](../target-operating-model/): how the framework fits the wider way the organization runs.
-* [Choose our information technology frameworks](../information-technology-frameworks/): the same phasing question applied to several frameworks at once.
+* [Target operating model](../target-operating-model/): how the framework fits the wider way the organization runs.
+* [Choose our information technology frameworks](../information-technology-frameworks/): the same staged-adoption question applied to several frameworks at once.
 * Decisions not yet made: tooling for recording goals; whether to link goals to compensation or performance review.
 
 ## Related notes

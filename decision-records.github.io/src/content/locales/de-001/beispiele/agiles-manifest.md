@@ -1,4 +1,4 @@
-# Das Agile Manifest schrittweise einführen
+# Das Agile Manifest
 
 * Status: Kommentierung erbeten
 * Datum: 2026-02-16
@@ -96,9 +96,9 @@ Wenn sich das Team für einen Ansatz Team für Team entscheidet, müsste es:
 
 ## Verwandte Entscheidungen
 
-* [Extreme Programming schrittweise einführen](../extreme-programming/): konkrete Ingenieurspraktiken, die zu agilen Werten passen.
+* [Extreme Programming](../extreme-programming/): konkrete Ingenieurspraktiken, die zu agilen Werten passen.
 * [Unsere IT-Frameworks auswählen](../it-frameworks/): wie Agilität zu anderen Frameworks passt.
-* [Ein Geschäfts-Framework schrittweise einführen](../geschaeftsframeworks/): dasselbe Phasenmuster, angewandt auf Zielsetzung.
+* [Geschäfts-Frameworks](../geschaeftsframeworks/): dasselbe Phasenmuster, angewandt auf Zielsetzung.
 * Noch nicht getroffene Entscheidungen: Vertragsänderungen; Coaching; Werkzeuge.
 
 ## Verwandte Hinweise

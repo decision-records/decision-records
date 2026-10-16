@@ -1,4 +1,4 @@
-# Cyflwyno gweithgynhyrchu darbodus fesul cam
+# Gweithgynhyrchu darbodus
 
 * Statws: cais am sylwadau
 * Dyddiad: 2025-11-24
@@ -94,7 +94,7 @@ Pe bai'r tîm yn dewis dull fesul llinell, byddai angen iddo:
 
 ## Penderfyniadau cysylltiedig
 
-* [Cyflwyno Chwe Sigma fesul cam](../chwe-sigma/): dull a seilir ar ddata a all ategu lean.
+* [Chwe Sigma](../chwe-sigma/): dull a seilir ar ddata a all ategu lean.
 * [Dewis ein fframweithiau technoleg gwybodaeth](../fframweithiau-technoleg-gwybodaeth/): y broblem gyffredinol o ddewis a threfnu fframweithiau.
 * Penderfyniadau heb eu gwneud eto: newidiadau offer neu gynllun; cymhellion; newidiadau cyflenwyr.
 

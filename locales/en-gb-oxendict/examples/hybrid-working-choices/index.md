@@ -90,9 +90,9 @@ If the team decides on team-set anchor days, it would need to:
 
 ## Related decisions
 
-* [Adopt a hybrid remote-work policy](../hr-remote-work-policy/): the policy question at company level.
-* [Set a process for workplace reasonable adjustments](../workplace-reasonable-adjustments/): individual needs.
-* [Adopt workplace planning and management](../workplace-planning-management/): how space is planned.
+* [Hybrid remote-work policy](../hr-remote-work-policy/): the policy question at company level.
+* [Workplace reasonable adjustments](../workplace-reasonable-adjustments/): individual needs.
+* [Workplace planning and management](../workplace-planning-management/): how space is planned.
 * Decisions not yet made: pay and location; lease terms.
 
 ## Related notes

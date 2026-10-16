@@ -1,4 +1,4 @@
-# Mabwysiadu rheoli portffolio prosiectau
+# Rheoli portffolio prosiectau
 
 * Statws: cais am sylwadau
 * Dyddiad: 2026-10-05
@@ -91,8 +91,8 @@ Pe bai'r tîm yn penderfynu ar broses ganolog ysgafn, byddai angen iddo:
 
 ## Penderfyniadau cysylltiedig
 
-* [Mabwysiadu model gweithredu targed](../model-gweithredu-targed/): sut mae'r portffolio'n ffitio â gwasanaethau a rennir a thimau wedi'u halinio â chwsmeriaid.
-* [Cyflwyno fframwaith busnes fesul cam](../fframweithiau-busnes/): y gosod nodau y gall dewisiadau portffolio gysylltu ag ef.
+* [Model gweithredu targed](../model-gweithredu-targed/): sut mae'r portffolio'n ffitio â gwasanaethau a rennir a thimau wedi'u halinio â chwsmeriaid.
+* [Fframweithiau busnes](../fframweithiau-busnes/): y gosod nodau y gall dewisiadau portffolio gysylltu ag ef.
 * Penderfyniadau heb eu gwneud eto: offer; y dull o olrhain buddion.
 
 ## Nodiadau cysylltiedig

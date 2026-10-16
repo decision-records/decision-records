@@ -1,4 +1,4 @@
-# Adoptar la gestión de la cartera de proyectos
+# Gestión de la cartera de proyectos
 
 * Estado: solicitud de comentarios
 * Fecha: 2026-10-05
@@ -91,8 +91,8 @@ Si el equipo decide un proceso central ligero, necesitaría:
 
 ## Decisiones relacionadas
 
-* [Adoptar un modelo operativo objetivo](../modelo-operativo-objetivo/): cómo encaja la cartera con los servicios compartidos y los equipos alineados con los clientes.
-* [Introducir por fases un marco de negocio](../marcos-de-negocio/): la definición de metas a la que pueden vincularse las decisiones de cartera.
+* [Modelo operativo objetivo](../modelo-operativo-objetivo/): cómo encaja la cartera con los servicios compartidos y los equipos alineados con los clientes.
+* [Marcos de negocio](../marcos-de-negocio/): la definición de metas a la que pueden vincularse las decisiones de cartera.
 * Decisiones aún no tomadas: herramientas; enfoque de seguimiento de beneficios.
 
 ## Notas relacionadas

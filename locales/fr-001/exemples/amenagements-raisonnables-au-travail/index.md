@@ -1,4 +1,4 @@
-# Établir un processus pour les aménagements raisonnables au travail
+# Aménagements raisonnables au travail
 
 * Statut : demande de commentaires
 * Date : 2026-03-30
@@ -91,7 +91,7 @@ Si l'équipe décide d'un budget central avec des décisions entre la personne e
 ## Décisions liées
 
 * [Choisir un modèle de travail hybride](../choix-travail-hybride/) : les arrangements de travail individuels au sein d'un modèle hybride.
-* [Adopter la planification et la gestion de l'espace de travail](../planification-gestion-espace-de-travail/) : comment l'espace et les règles de réservation tiennent compte des besoins individuels.
+* [Planification et gestion de l'espace de travail](../planification-gestion-espace-de-travail/) : comment l'espace et les règles de réservation tiennent compte des besoins individuels.
 * Décisions pas encore prises : revue juridique locale ; choix du prestataire.
 
 ## Notes liées

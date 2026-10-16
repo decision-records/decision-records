@@ -1,4 +1,4 @@
-# Introducir ITIL 5 por fases
+# ITIL 5
 
 * Estado: solicitud de comentarios
 * Fecha: 2026-09-30
@@ -98,7 +98,7 @@ Si el equipo elige un enfoque por fases, necesitaría:
 
 ## Decisiones relacionadas
 
-* [Introducir por fases un marco de negocio](../marcos-de-negocio/): el mismo patrón de fases aplicado a otro marco.
+* [Marcos de negocio](../marcos-de-negocio/): el mismo patrón de fases aplicado a otro marco.
 * [Elegir nuestros marcos de tecnología de la información](../marcos-de-tecnologia-de-la-informacion/): cómo encaja ITIL con otros marcos que considera el grupo.
 * Decisiones aún no tomadas: herramientas; cambios en contratos con proveedores; certificación o no.
 

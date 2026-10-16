@@ -90,7 +90,7 @@ Si el equipo decide un servicio digital primero con vías asistidas, necesitarí
 
 ## Decisiones relacionadas
 
-* [Adoptar una política híbrida de trabajo remoto](../politica-trabajo-remoto/): los arreglos del personal en las oficinas que siguen abiertas.
+* [Política híbrida de trabajo remoto](../politica-trabajo-remoto/): los arreglos del personal en las oficinas que siguen abiertas.
 * Decisiones aún no tomadas: red de oficinas; planes de dotación y capacitación.
 
 ## Notas relacionadas

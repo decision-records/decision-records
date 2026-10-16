@@ -1,4 +1,4 @@
-# Adoptar formas de trabajo por escrito
+# Formas de trabajo por escrito
 
 * Estado: solicitud de comentarios
 * Fecha: 2026-04-27
@@ -89,7 +89,7 @@ Si el equipo decide un conjunto breve compartido más acuerdos de equipo, necesi
 
 ## Decisiones relacionadas
 
-* [Introducir el Manifiesto Ágil por fases](../manifiesto-agil/): valores compartidos y práctica de equipo.
+* [El Manifiesto Ágil](../manifiesto-agil/): valores compartidos y práctica de equipo.
 * Decisiones aún no tomadas: herramientas para guardar los acuerdos; cómo se resuelven los conflictos entre acuerdos de equipo.
 
 ## Notas relacionadas

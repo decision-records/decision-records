@@ -1,4 +1,4 @@
-# Mabwysiadu rheoli perthnasoedd cysylltiadau
+# Rheoli perthnasoedd cysylltiadau
 
 * Statws: cais am sylwadau
 * Dyddiad: 2026-10-12

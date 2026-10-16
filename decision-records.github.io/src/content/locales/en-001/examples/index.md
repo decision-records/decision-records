@@ -5,27 +5,27 @@ Starting points for teams that are considering a kind of decision, across busine
 * [Enter the mid-market segment](strategy-enter-new-market/): Strategy
 * [Select a CRM platform](sales-crm-vendor-selection/): Sales
 * [Reposition the brand around reliability](marketing-brand-repositioning/): Marketing
-* [Move to usage-based pricing](product-pricing-model-change/): Product
-* [Adopt a hybrid remote-work policy](hr-remote-work-policy/): Human Resources
+* [Usage-based pricing](product-pricing-model-change/): Product
+* [Hybrid remote-work policy](hr-remote-work-policy/): Human Resources
 * [Reduce single-vendor concentration risk](risk-single-vendor-dependency/): Risk
 * [Build vs. buy for a project](project-build-vs-buy/): Project / Operations
-* [Phase in a business framework](business-frameworks/): Strategy / Operations
+* [Business frameworks](business-frameworks/): Strategy / Operations
 * [Choose the primary database](software-architecture-database-choice/): Technology / Architecture
-* [Adopt a target operating model](target-operating-model/): Strategy / Operations
+* [Target operating model](target-operating-model/): Strategy / Operations
 * [Choose a hybrid working model](hybrid-working-choices/): Human Resources
 * [Choose between a product business and a service business](product-business-versus-service-business/): Strategy
 * [Weigh public value in a service redesign](public-value/): Public Sector
 * [Weigh health economics in a treatment funding decision](health-economics/): Health
-* [Adopt written ways of working](ways-of-working/): Operations
-* [Set a process for workplace reasonable adjustments](workplace-reasonable-adjustments/): Human Resources
-* [Phase in ITIL 5](itil-5/): Technology / Operations
-* [Phase in the Agile Manifesto](agile-manifesto/): Technology / Operations
-* [Phase in Six Sigma](six-sigma/): Operations / Quality
-* [Phase in lean manufacturing](lean-manufacturing/): Operations / Manufacturing
-* [Phase in Extreme Programming](extreme-programming/): Technology / Software Engineering
-* [Adopt project portfolio management](project-portfolio-management/): Project / Operations
-* [Adopt workplace planning and management](workplace-planning-management/): Operations / Facilities
-* [Adopt contact relationship management](contact-relationship-management/): Sales / Customer
+* [Written ways of working](ways-of-working/): Operations
+* [Workplace reasonable adjustments](workplace-reasonable-adjustments/): Human Resources
+* [ITIL 5](itil-5/): Technology / Operations
+* [The Agile Manifesto](agile-manifesto/): Technology / Operations
+* [Six Sigma](six-sigma/): Operations / Quality
+* [Lean manufacturing](lean-manufacturing/): Operations / Manufacturing
+* [Extreme Programming](extreme-programming/): Technology / Software Engineering
+* [Project portfolio management](project-portfolio-management/): Project / Operations
+* [Workplace planning and management](workplace-planning-management/): Operations / Facilities
+* [Contact relationship management](contact-relationship-management/): Sales / Customer
 * [Choose our information technology frameworks](information-technology-frameworks/): Technology / Operations
 
 Notes on this index:

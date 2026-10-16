@@ -1,4 +1,4 @@
-# Adopt project portfolio management
+# Project portfolio management
 
 * Status: request for comments
 * Date: 2026-10-05
@@ -91,8 +91,8 @@ If the team decides on a light central process, it would need to:
 
 ## Related decisions
 
-* [Adopt a target operating model](../target-operating-model/): how the portfolio fits shared services and customer-aligned teams.
-* [Phase in a business framework](../business-frameworks/): goal setting that portfolio choices can link to.
+* [Target operating model](../target-operating-model/): how the portfolio fits shared services and customer-aligned teams.
+* [Business frameworks](../business-frameworks/): goal setting that portfolio choices can link to.
 * Decisions not yet made: tooling; the benefits tracking approach.
 
 ## Related notes

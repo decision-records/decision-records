@@ -91,8 +91,8 @@ If the team decides to become a product business, it would need to:
 
 ## Related decisions
 
-* [Adopt a target operating model](../target-operating-model/): the organization will need to match.
-* [Move to usage-based pricing](../product-pricing-model-change/): pricing under a product model.
+* [Target operating model](../target-operating-model/): the organization will need to match.
+* [Usage-based pricing](../product-pricing-model-change/): pricing under a product model.
 * Decisions not yet made: partner programme; support for affected staff.
 
 ## Related notes

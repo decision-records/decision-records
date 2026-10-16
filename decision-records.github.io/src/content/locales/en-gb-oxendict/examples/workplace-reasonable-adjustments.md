@@ -1,4 +1,4 @@
-# Set a process for workplace reasonable adjustments
+# Workplace reasonable adjustments
 
 * Status: request for comments
 * Date: 2026-03-30
@@ -91,7 +91,7 @@ If the team decides on a central budget with decisions between the person and th
 ## Related decisions
 
 * [Choose a hybrid working model](../hybrid-working-choices/): working arrangements for individuals within a hybrid model.
-* [Adopt workplace planning and management](../workplace-planning-management/): how space and booking rules take account of individual needs.
+* [Workplace planning and management](../workplace-planning-management/): how space and booking rules take account of individual needs.
 * Decisions not yet made: local legal review; provider choice.
 
 ## Related notes

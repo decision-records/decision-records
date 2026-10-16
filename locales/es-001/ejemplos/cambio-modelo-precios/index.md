@@ -1,4 +1,4 @@
-# Pasar a precios basados en el uso
+# Precios basados en el uso
 
 * Estado: solicitud de comentarios
 * Fecha: 2026-04-05

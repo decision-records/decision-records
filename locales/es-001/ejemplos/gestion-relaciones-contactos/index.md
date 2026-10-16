@@ -1,4 +1,4 @@
-# Adoptar la gestión de relaciones con los contactos
+# Gestión de relaciones con los contactos
 
 * Estado: solicitud de comentarios
 * Fecha: 2026-10-12

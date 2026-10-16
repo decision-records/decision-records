@@ -1,4 +1,4 @@
-# Adopter la planification et la gestion de l'espace de travail
+# Planification et gestion de l'espace de travail
 
 * Statut : demande de commentaires
 * Date : 2026-10-08
@@ -92,7 +92,7 @@ Si l'équipe décide d'une planification fondée sur l'usage avec des zones d'é
 ## Décisions liées
 
 * [Choisir un modèle de travail hybride](../choix-travail-hybride/) : la politique que cette décision soutient.
-* [Établir un processus pour les aménagements raisonnables au travail](../amenagements-raisonnables-au-travail/) : les besoins individuels.
+* [Aménagements raisonnables au travail](../amenagements-raisonnables-au-travail/) : les besoins individuels.
 * Décisions pas encore prises : outil de réservation ; conditions du bail.
 
 ## Notes liées

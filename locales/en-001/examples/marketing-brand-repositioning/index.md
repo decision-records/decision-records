@@ -92,7 +92,7 @@ If the team decides to reposition in phases, it would need to:
 
 ## Related decisions
 
-* [Move to usage-based pricing](../product-pricing-model-change/): price and positioning affect each other.
+* [Usage-based pricing](../product-pricing-model-change/): price and positioning affect each other.
 * Decisions not yet made: wider visual refresh; changes to product naming.
 
 ## Related notes

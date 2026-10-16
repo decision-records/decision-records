@@ -90,8 +90,8 @@ Si l'équipe décide d'attribuer les cadres par type de travail et de les introd
 
 ## Décisions liées
 
-* [Introduire progressivement le Manifeste agile](../manifeste-agile/), [Introduire progressivement ITIL 5](../itil-5/), [Introduire progressivement l'Extreme Programming](../extreme-programming/) et [Introduire progressivement Six Sigma](../six-sigma/) : les décisions sur chaque cadre.
-* [Introduire progressivement un cadre de gestion](../cadres-de-gestion/) : le schéma général de phasage.
+* [Le Manifeste agile](../manifeste-agile/), [ITIL 5](../itil-5/), [L'Extreme Programming](../extreme-programming/) et [Six Sigma](../six-sigma/) : les décisions sur chaque cadre.
+* [Cadres de gestion](../cadres-de-gestion/) : le schéma général de phasage.
 * Décisions pas encore prises : outillage ; ordre des cadres ultérieurs.
 
 ## Notes liées

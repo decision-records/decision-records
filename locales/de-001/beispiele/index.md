@@ -5,27 +5,27 @@ Ausgangspunkte für Teams, die eine Art von Entscheidung erwägen, aus verschied
 * [In das Mittelstandssegment einsteigen](eintritt-in-neuen-markt/): Strategie
 * [Eine CRM-Plattform auswählen](auswahl-crm-anbieter/): Vertrieb
 * [Die Marke auf Verlässlichkeit ausrichten](marke-neu-positionieren/): Marketing
-* [Auf nutzungsbasierte Preise umstellen](wechsel-preismodell/): Produkt
-* [Eine hybride Fernarbeitsrichtlinie einführen](richtlinie-fernarbeit/): Personal
+* [Nutzungsbasierte Preise](wechsel-preismodell/): Produkt
+* [Hybride Fernarbeitsrichtlinie](richtlinie-fernarbeit/): Personal
 * [Das Klumpenrisiko bei einem einzelnen Anbieter verringern](abhaengigkeit-von-einem-anbieter/): Risiko
 * [Selbst bauen oder kaufen für ein Projekt](selbst-bauen-oder-kaufen/): Projekt / Betrieb
-* [Ein Geschäfts-Framework schrittweise einführen](geschaeftsframeworks/): Strategie / Betrieb
+* [Geschäfts-Frameworks](geschaeftsframeworks/): Strategie / Betrieb
 * [Die primäre Datenbank auswählen](auswahl-datenbank/): Technologie / Architektur
-* [Ein Zielbetriebsmodell einführen](zielbetriebsmodell/): Strategie / Betrieb
+* [Zielbetriebsmodell](zielbetriebsmodell/): Strategie / Betrieb
 * [Ein hybrides Arbeitsmodell wählen](optionen-hybrides-arbeiten/): Personal
 * [Zwischen Produktgeschäft und Dienstleistungsgeschäft wählen](produktgeschaeft-oder-dienstleistungsgeschaeft/): Strategie
 * [Den öffentlichen Wert bei der Neugestaltung eines Dienstes abwägen](oeffentlicher-wert/): Öffentlicher Sektor
 * [Die Gesundheitsökonomie bei einer Entscheidung über die Finanzierung einer Behandlung abwägen](gesundheitsoekonomie/): Gesundheit
-* [Schriftliche Arbeitsweisen einführen](arbeitsweisen/): Betrieb
-* [Einen Prozess für angemessene Vorkehrungen am Arbeitsplatz festlegen](angemessene-vorkehrungen-am-arbeitsplatz/): Personal
-* [ITIL 5 schrittweise einführen](itil-5/): Technologie / Betrieb
-* [Das Agile Manifest schrittweise einführen](agiles-manifest/): Technologie / Betrieb
-* [Six Sigma schrittweise einführen](six-sigma/): Betrieb / Qualität
-* [Schlanke Produktion schrittweise einführen](schlanke-produktion/): Betrieb / Fertigung
-* [Extreme Programming schrittweise einführen](extreme-programming/): Technologie / Softwareentwicklung
-* [Projektportfoliomanagement einführen](projektportfoliomanagement/): Projekt / Betrieb
-* [Arbeitsplatzplanung und -verwaltung einführen](arbeitsplatzplanung-und-verwaltung/): Betrieb / Gebäudemanagement
-* [Kontaktbeziehungsmanagement einführen](kontaktbeziehungsmanagement/): Vertrieb / Kunden
+* [Schriftliche Arbeitsweisen](arbeitsweisen/): Betrieb
+* [Angemessene Vorkehrungen am Arbeitsplatz](angemessene-vorkehrungen-am-arbeitsplatz/): Personal
+* [ITIL 5](itil-5/): Technologie / Betrieb
+* [Das Agile Manifest](agiles-manifest/): Technologie / Betrieb
+* [Six Sigma](six-sigma/): Betrieb / Qualität
+* [Schlanke Produktion](schlanke-produktion/): Betrieb / Fertigung
+* [Extreme Programming](extreme-programming/): Technologie / Softwareentwicklung
+* [Projektportfoliomanagement](projektportfoliomanagement/): Projekt / Betrieb
+* [Arbeitsplatzplanung und -verwaltung](arbeitsplatzplanung-und-verwaltung/): Betrieb / Gebäudemanagement
+* [Kontaktbeziehungsmanagement](kontaktbeziehungsmanagement/): Vertrieb / Kunden
 * [Unsere IT-Frameworks auswählen](it-frameworks/): Technologie / Betrieb
 
 Hinweise zu diesem Verzeichnis:

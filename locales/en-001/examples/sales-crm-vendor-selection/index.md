@@ -89,7 +89,7 @@ If the team decides to switch, it would need to:
 
 ## Related decisions
 
-* [Adopt contact relationship management](../contact-relationship-management/): the wider question of how contacts and consent are handled.
+* [Contact relationship management](../contact-relationship-management/): the wider question of how contacts and consent are handled.
 * [Enter the mid-market segment](../strategy-enter-new-market/): a new sales motion may change CRM needs.
 * Decisions not yet made: integration approach; data retention rules.
 

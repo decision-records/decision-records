@@ -90,9 +90,9 @@ Si el equipo decide días de anclaje definidos por los equipos, necesitaría:
 
 ## Decisiones relacionadas
 
-* [Adoptar una política híbrida de trabajo remoto](../politica-trabajo-remoto/): la cuestión de política a nivel de empresa.
-* [Establecer un proceso para los ajustes razonables en el lugar de trabajo](../ajustes-razonables-en-el-trabajo/): las necesidades individuales.
-* [Adoptar la planificación y gestión del lugar de trabajo](../planificacion-gestion-lugar-de-trabajo/): cómo se planifica el espacio.
+* [Política híbrida de trabajo remoto](../politica-trabajo-remoto/): la cuestión de política a nivel de empresa.
+* [Ajustes razonables en el lugar de trabajo](../ajustes-razonables-en-el-trabajo/): las necesidades individuales.
+* [Planificación y gestión del lugar de trabajo](../planificacion-gestion-lugar-de-trabajo/): cómo se planifica el espacio.
 * Decisiones aún no tomadas: remuneración y ubicación; condiciones del contrato de alquiler.
 
 ## Notas relacionadas

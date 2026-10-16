@@ -1,4 +1,4 @@
-# Introducir Seis Sigma por fases
+# Seis Sigma
 
 * Estado: solicitud de comentarios
 * Fecha: 2026-01-19
@@ -44,7 +44,7 @@ Para cada opción, estimar el valor, los costos, el calendario y las capacidades
   * Factores de costo: tiempo de capacitación de muchos gerentes; proyectos iniciados antes de poder medirlos; atención de la dirección.
   * Forma del calendario: esfuerzo amplio al principio, resultados desiguales.
   * Riesgos: saca a muchos gerentes de las operaciones; proyectos sin línea base fiable.
-* **Introducirlo por fases con un grupo pequeño de profesionales capacitados y un solo proceso al principio.** Capacitar a un grupo pequeño (por ejemplo, cinturones verdes y negros), elegir un proceso de gran volumen, medir la tasa de defectos, dirigir un proyecto con DMAIC (definir, medir, analizar, mejorar, controlar) y usar el resultado para elegir el siguiente.
+* **Introducirlo con un grupo pequeño de profesionales capacitados y un solo proceso al principio.** Capacitar a un grupo pequeño (por ejemplo, cinturones verdes y negros), elegir un proceso de gran volumen, medir la tasa de defectos, dirigir un proyecto con DMAIC (definir, medir, analizar, mejorar, controlar) y usar el resultado para elegir el siguiente.
   * Valor: demuestra el valor con datos; crea capacidad donde se necesita.
   * Factores de costo: capacitación; tiempo de proyecto; sistemas de medición; tiempo del patrocinador.
   * Forma del calendario: un primer proyecto desde la definición hasta un control sostenido, y solo después la extensión, cuando el objetivo se haya mantenido durante un período establecido.
@@ -97,9 +97,9 @@ Si el equipo elige empezar con un solo proceso, necesitaría:
 
 ## Decisiones relacionadas
 
-* [Introducir la manufactura esbelta por fases](../manufactura-esbelta/): un enfoque relacionado para reducir desperdicios.
+* [Manufactura esbelta](../manufactura-esbelta/): un enfoque relacionado para reducir desperdicios.
 * [Elegir nuestros marcos de tecnología de la información](../marcos-de-tecnologia-de-la-informacion/): cómo encaja Seis Sigma con otros marcos.
-* [Introducir por fases un marco de negocio](../marcos-de-negocio/): el mismo patrón de fases para otro marco.
+* [Marcos de negocio](../marcos-de-negocio/): el mismo patrón de fases para otro marco.
 * Decisiones aún no tomadas: cómo se validan los ahorros; vía de capacitación.
 
 ## Notas relacionadas

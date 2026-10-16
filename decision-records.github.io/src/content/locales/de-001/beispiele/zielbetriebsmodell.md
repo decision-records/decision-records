@@ -1,4 +1,4 @@
-# Ein Zielbetriebsmodell einführen
+# Zielbetriebsmodell
 
 * Status: Kommentierung erbeten
 * Datum: 2026-09-15
@@ -89,8 +89,8 @@ Wenn sich das Team für ein hybrides Modell entscheidet, müsste es:
 
 ## Verwandte Entscheidungen
 
-* [Ein Geschäfts-Framework schrittweise einführen](../geschaeftsframeworks/): wie man etappenweise Veränderung angeht.
-* [Projektportfoliomanagement einführen](../projektportfoliomanagement/): wie Projekte unter dem Zielmodell ausgewählt werden.
+* [Geschäfts-Frameworks](../geschaeftsframeworks/): wie man etappenweise Veränderung angeht.
+* [Projektportfoliomanagement](../projektportfoliomanagement/): wie Projekte unter dem Zielmodell ausgewählt werden.
 * [Zwischen Produktgeschäft und Dienstleistungsgeschäft wählen](../produktgeschaeft-oder-dienstleistungsgeschaeft/): strategische Entscheidungen, die das Modell beeinflussen.
 * Noch nicht getroffene Entscheidungen: Reihenfolge und Zeitplan der Verlagerungen; Behandlung von Rollenänderungen.
 

@@ -1,4 +1,4 @@
-# Cyflwyno'r Maniffesto Ystwyth fesul cam
+# Y Maniffesto Ystwyth
 
 * Statws: cais am sylwadau
 * Dyddiad: 2026-02-16
@@ -96,9 +96,9 @@ Pe bai'r tîm yn dewis dull tîm wrth dîm, byddai angen iddo:
 
 ## Penderfyniadau cysylltiedig
 
-* [Cyflwyno Rhaglennu Eithafol fesul cam](../rhaglennu-eithafol/): arferion peirianneg penodol sy'n cyd-fynd â gwerthoedd ystwyth.
+* [Rhaglennu Eithafol](../rhaglennu-eithafol/): arferion peirianneg penodol sy'n cyd-fynd â gwerthoedd ystwyth.
 * [Dewis ein fframweithiau technoleg gwybodaeth](../fframweithiau-technoleg-gwybodaeth/): sut mae ystwythder yn ffitio â fframweithiau eraill.
-* [Cyflwyno fframwaith busnes fesul cam](../fframweithiau-busnes/): yr un patrwm camau wedi'i gymhwyso i osod nodau.
+* [Fframweithiau busnes](../fframweithiau-busnes/): yr un patrwm camau wedi'i gymhwyso i osod nodau.
 * Penderfyniadau heb eu gwneud eto: newidiadau contractau; mentora; offer.
 
 ## Nodiadau cysylltiedig

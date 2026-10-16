@@ -91,8 +91,8 @@ Wenn sich das Team für ein Produktgeschäft entscheidet, müsste es:
 
 ## Verwandte Entscheidungen
 
-* [Ein Zielbetriebsmodell einführen](../zielbetriebsmodell/): die Organisation müsste sich anpassen.
-* [Auf nutzungsbasierte Preise umstellen](../wechsel-preismodell/): die Preisgestaltung unter einem Produktmodell.
+* [Zielbetriebsmodell](../zielbetriebsmodell/): die Organisation müsste sich anpassen.
+* [Nutzungsbasierte Preise](../wechsel-preismodell/): die Preisgestaltung unter einem Produktmodell.
 * Noch nicht getroffene Entscheidungen: Partnerprogramm; Unterstützung für betroffene Beschäftigte.
 
 ## Verwandte Hinweise

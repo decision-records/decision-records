@@ -1,4 +1,4 @@
-# Adoptar una política híbrida de trabajo remoto
+# Política híbrida de trabajo remoto
 
 * Estado: solicitud de comentarios
 * Fecha: 2026-01-08
@@ -91,8 +91,8 @@ Si el equipo decide una política híbrida, necesitaría:
 ## Decisiones relacionadas
 
 * [Elegir un modelo de trabajo híbrido](../opciones-trabajo-hibrido/): las opciones dentro de un modelo híbrido.
-* [Establecer un proceso para los ajustes razonables en el lugar de trabajo](../ajustes-razonables-en-el-trabajo/): las necesidades individuales.
-* [Adoptar la planificación y gestión del lugar de trabajo](../planificacion-gestion-lugar-de-trabajo/): cómo se planifica el espacio.
+* [Ajustes razonables en el lugar de trabajo](../ajustes-razonables-en-el-trabajo/): las necesidades individuales.
+* [Planificación y gestión del lugar de trabajo](../planificacion-gestion-lugar-de-trabajo/): cómo se planifica el espacio.
 * Decisiones aún no tomadas: si la remuneración depende de la ubicación; futuras contrataciones totalmente remotas.
 
 ## Notas relacionadas

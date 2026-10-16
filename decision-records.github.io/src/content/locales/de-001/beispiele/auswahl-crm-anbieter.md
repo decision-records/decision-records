@@ -89,7 +89,7 @@ Wenn sich das Team für den Wechsel entscheidet, müsste es:
 
 ## Verwandte Entscheidungen
 
-* [Kontaktbeziehungsmanagement einführen](../kontaktbeziehungsmanagement/): die weitergehende Frage, wie Kontakte und Einwilligungen gehandhabt werden.
+* [Kontaktbeziehungsmanagement](../kontaktbeziehungsmanagement/): die weitergehende Frage, wie Kontakte und Einwilligungen gehandhabt werden.
 * [In das Mittelstandssegment einsteigen](../eintritt-in-neuen-markt/): ein neuer Vertriebsansatz kann den CRM-Bedarf ändern.
 * Noch nicht getroffene Entscheidungen: Integrationsansatz; Regeln zur Datenaufbewahrung.
 
