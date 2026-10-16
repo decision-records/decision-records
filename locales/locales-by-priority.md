@@ -12,7 +12,7 @@ Translate into these locales. Translate serially NOT subagents. After each local
 - ar-001 (done)
 - bn-001 (done)
 - ru-001 (done)
-- pt-001
+- pt-001 (done)
 - ur-001
 - id-001
 - ja-001

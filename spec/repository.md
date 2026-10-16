@@ -50,7 +50,7 @@ published.
 | Sections | 6 (guide, tutorial, template, examples, checklist, help) |
 | Pages (6 section indexes plus 25 examples) | 31 |
 | Examples | 25 |
-| Locales (hyphenated dirs, incl. `en-us`) | 16 (listed in [locales.md](locales.md)) |
+| Locales (hyphenated dirs, incl. `en-us`) | 17 (listed in [locales.md](locales.md)) |
 
 ## Commits
 
