@@ -2,6 +2,10 @@
 // Add one entry per locale in LOCALES (src/lib/locales.js).
 /** @type {Record<string, {tagline: string, translations: string}>} */
 export const HERO = {
+	'ur-001': {
+		tagline: 'اہم فیصلوں کو ریکارڈ کرنے کے لیے رہنما، سانچے، مثالیں اور جانچ فہرستیں۔',
+		translations: 'تراجم: '
+	},
 	'pt-001': {
 		tagline: 'Guia, modelos, exemplos e listas de verificação para registrar decisões importantes.',
 		translations: 'Traduções: '
@@ -74,6 +78,7 @@ export const HERO = {
 
 /** @type {Record<string, string>} */
 export const ENDONYMS = {
+	'ur-001': 'اردو',
 	'pt-001': 'Português',
 	'ru-001': 'Русский',
 	'bn-001': 'বাংলা',

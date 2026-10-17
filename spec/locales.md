@@ -34,6 +34,7 @@ stray or duplicate directories fail the audit and the sync.
 | `hi-in` | `hi_IN` | हिन्दी (भारत) |
 | `pt-001` | `pt_001` | Português |
 | `ru-001` | `ru_001` | Русский |
+| `ur-001` | `ur_001` | اردو |
 | `zh-001` | `zh_001` | 中文（世界） |
 | `zh-cn` | `zh_CN` | 中文（中国） |
 
