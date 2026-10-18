@@ -14,6 +14,7 @@
 * [हिन्दी (विश्व)](hi-001/)
 * [हिन्दी (भारत)](hi-in/)
 * [Bahasa Indonesia](id-001/)
+* [Italiano](it-001/)
 * [日本語](ja-001/)
 * [한국어](ko-001/)
 * [Nederlands](nl-001/)

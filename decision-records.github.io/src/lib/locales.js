@@ -2,7 +2,7 @@
 // source directory under ../locales/ is the lowercase form with "_" replaced by
 // "-" ("de_001" -> "de-001"). The source-of-truth locale is "en_US" (en-us).
 // See spec/locale-specific-search-picker/index.md.
-export const LOCALES = ['ar_001', 'bn_001', 'cy_001', 'cy_GB', 'da_001', 'de_001', 'en_001', 'en_GB', 'en_GB_oxendict', 'en_US', 'es_001', 'et_001', 'fr_001', 'hi_001', 'hi_IN', 'id_001', 'ja_001', 'ko_001', 'nl_001', 'pt_001', 'ru_001', 'sv_001', 'ur_001', 'vi_001', 'zh_001', 'zh_CN'];
+export const LOCALES = ['ar_001', 'bn_001', 'cy_001', 'cy_GB', 'da_001', 'de_001', 'en_001', 'en_GB', 'en_GB_oxendict', 'en_US', 'es_001', 'et_001', 'fr_001', 'hi_001', 'hi_IN', 'id_001', 'it_001', 'ja_001', 'ko_001', 'nl_001', 'pt_001', 'ru_001', 'sv_001', 'ur_001', 'vi_001', 'zh_001', 'zh_CN'];
 
 /** English variants generated from en-us (scripts/build-english-variants.py): noindex, not in the sitemap. */
 export const NOINDEX_SLUGS = ['en-001', 'en-gb', 'en-gb-oxendict'];

@@ -23,7 +23,7 @@ Translate into these locales. Translate serially NOT subagents. After each local
 - nl-001 (done)
 - da-001 (done)
 - et-001 (done)
-- it-001
+- it-001 (done)
 - th-001
 - fi-001
 - tr-001
