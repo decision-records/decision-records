@@ -2,6 +2,7 @@
 * [বাংলা (বিশ্ব)](bn-001/)
 * [Cymraeg (Byd)](cy-001/)
 * [Cymraeg (Prydain Fawr)](cy-gb/)
+* [Dansk](da-001/)
 * [Deutsch (Welt)](de-001/)
 * [English (World)](en-001/)
 * [English (Great Britain)](en-gb/)

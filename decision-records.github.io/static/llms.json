@@ -7,7 +7,7 @@
     "sections": 6,
     "pages": 31,
     "examples": 25,
-    "locales": 24
+    "locales": 25
   },
   "sections": {
     "guide": [
@@ -153,6 +153,7 @@
     "bn_001",
     "cy_001",
     "cy_GB",
+    "da_001",
     "de_001",
     "en_001",
     "en_GB",

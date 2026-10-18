@@ -23,6 +23,7 @@ stray or duplicate directories fail the audit and the sync.
 | `bn-001` | `bn_001` | বাংলা |
 | `cy-001` | `cy_001` | Cymraeg (Y Byd) |
 | `cy-gb` | `cy_GB` | Cymraeg (Y Deyrnas Unedig) |
+| `da-001` | `da_001` | Dansk |
 | `de-001` | `de_001` | Deutsch |
 | `en-001` | `en_001` | English (World) |
 | `en-gb` | `en_GB` | English (Great Britain) |
