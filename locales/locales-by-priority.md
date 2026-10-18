@@ -20,7 +20,7 @@ Translate into these locales. Translate serially NOT subagents. After each local
 - de-001 (done)
 - sv-001 (done)
 - ko-001 (done)
-- nl-001
+- nl-001 (done)
 - da-001
 - et-001
 - it-001

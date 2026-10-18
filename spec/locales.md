@@ -35,6 +35,7 @@ stray or duplicate directories fail the audit and the sync.
 | `id-001` | `id_001` | Bahasa Indonesia |
 | `ja-001` | `ja_001` | 日本語 |
 | `ko-001` | `ko_001` | 한국어 |
+| `nl-001` | `nl_001` | Nederlands |
 | `pt-001` | `pt_001` | Português |
 | `ru-001` | `ru_001` | Русский |
 | `sv-001` | `sv_001` | Svenska |
