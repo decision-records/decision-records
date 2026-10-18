@@ -32,6 +32,7 @@ stray or duplicate directories fail the audit and the sync.
 | `fr-001` | `fr_001` | Français |
 | `hi-001` | `hi_001` | हिन्दी |
 | `hi-in` | `hi_IN` | हिन्दी (भारत) |
+| `id-001` | `id_001` | Bahasa Indonesia |
 | `pt-001` | `pt_001` | Português |
 | `ru-001` | `ru_001` | Русский |
 | `ur-001` | `ur_001` | اردو |
