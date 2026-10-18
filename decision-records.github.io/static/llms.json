@@ -7,7 +7,7 @@
     "sections": 6,
     "pages": 31,
     "examples": 25,
-    "locales": 25
+    "locales": 26
   },
   "sections": {
     "guide": [
@@ -160,6 +160,7 @@
     "en_GB_oxendict",
     "en_US",
     "es_001",
+    "et_001",
     "fr_001",
     "hi_001",
     "hi_IN",

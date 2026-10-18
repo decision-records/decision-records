@@ -30,6 +30,7 @@ stray or duplicate directories fail the audit and the sync.
 | `en-gb-oxendict` | `en_GB_oxendict` | English (Great Britain, Oxford spelling) |
 | `en-us` | `en_US` | English (United States) |
 | `es-001` | `es_001` | español (Mundo) |
+| `et-001` | `et_001` | Eesti |
 | `fr-001` | `fr_001` | Français |
 | `hi-001` | `hi_001` | हिन्दी |
 | `hi-in` | `hi_IN` | हिन्दी (भारत) |

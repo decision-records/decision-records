@@ -9,6 +9,7 @@
 * [English (Great Britain, Oxford spelling)](en-gb-oxendict/)
 * [English (United States)](en-us/)
 * [Español (Mundo)](es-001/)
+* [Eesti](et-001/)
 * [Français (Monde)](fr-001/)
 * [हिन्दी (विश्व)](hi-001/)
 * [हिन्दी (भारत)](hi-in/)
