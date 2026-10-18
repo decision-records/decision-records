@@ -2,6 +2,10 @@
 // Add one entry per locale in LOCALES (src/lib/locales.js).
 /** @type {Record<string, {tagline: string, translations: string}>} */
 export const HERO = {
+	'vi-001': {
+		tagline: 'Hướng dẫn, mẫu, ví dụ và danh mục kiểm tra để ghi lại các quyết định quan trọng.',
+		translations: 'Bản dịch: '
+	},
 	'ja-001': {
 		tagline: '重要な意思決定を記録するためのガイド、テンプレート、事例、チェックリスト。',
 		translations: '翻訳：'
@@ -86,6 +90,7 @@ export const HERO = {
 
 /** @type {Record<string, string>} */
 export const ENDONYMS = {
+	'vi-001': 'Tiếng Việt',
 	'ja-001': '日本語',
 	'id-001': 'Bahasa Indonesia',
 	'ur-001': 'اردو',

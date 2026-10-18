@@ -14,5 +14,5 @@ files; when they disagree, fix them to match the spec, or change the spec first.
 | [agents.md](agents.md) | Skills, `llms.txt`, `AGENTS.md` rules for AI agents |
 | [decision-record.md](decision-record.md) | The condensed decision record specification: template fields, core benefits, best practices |
 
-Counts in this spec (6 sections, 31 pages, 25 examples, 20 locales) are verified
+Counts in this spec (6 sections, 31 pages, 25 examples, 21 locales) are verified
 by the checks listed in [repository.md](repository.md#verification).
