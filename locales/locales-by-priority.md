@@ -18,7 +18,7 @@ Translate into these locales. Translate serially NOT subagents. After each local
 - ja-001 (done)
 - vi-001 (done)
 - de-001 (done)
-- sv-001
+- sv-001 (done)
 - ko-001
 - nl-001
 - da-001
