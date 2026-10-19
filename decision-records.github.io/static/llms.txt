@@ -54,5 +54,5 @@
 ## Optional
 
 - [Skills](https://decision-records.github.io/skills/): Claude Skills for writing and maintaining decision records
-- [Translations](https://github.com/decision-records/decision-records/tree/main/locales): 32 language picker entries
+- [Translations](https://github.com/decision-records/decision-records/tree/main/locales): 34 language picker entries
 - [Source repository](https://github.com/decision-records/decision-records): README, specification (spec/), agent guides (AGENTS.md, AGENTS/)

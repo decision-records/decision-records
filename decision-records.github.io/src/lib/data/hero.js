@@ -38,6 +38,14 @@ export const HERO = {
 		tagline: 'En vägledning, mallar, exempel och checklistor för att dokumentera viktiga beslut.',
 		translations: 'Översättningar: '
 	},
+	'sw-tz': {
+		tagline: 'Mwongozo, violezo, mifano na orodha hakiki za kurekodi maamuzi muhimu.',
+		translations: 'Tafsiri: '
+	},
+	'sw-001': {
+		tagline: 'Mwongozo, violezo, mifano na orodha hakiki za kurekodi maamuzi muhimu.',
+		translations: 'Tafsiri: '
+	},
 	'vi-vn': {
 		tagline: 'Hướng dẫn, mẫu, ví dụ và danh mục kiểm tra để ghi lại các quyết định quan trọng.',
 		translations: 'Bản dịch: '
@@ -143,6 +151,8 @@ export const ENDONYMS = {
 	'ko-kr': '한국어 (대한민국)',
 	'sv-se': 'Svenska (Sverige)',
 	'sv-001': 'Svenska',
+	'sw-tz': 'Kiswahili (Tanzania)',
+	'sw-001': 'Kiswahili',
 	'vi-vn': 'Tiếng Việt (Việt Nam)',
 	'vi-001': 'Tiếng Việt',
 	'ja-001': '日本語',
