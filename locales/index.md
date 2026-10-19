@@ -16,6 +16,7 @@
 * [Bahasa Indonesia](id-001/)
 * [Italiano](it-001/)
 * [日本語](ja-001/)
+* [日本語 (日本)](ja-jp/)
 * [한국어](ko-001/)
 * [Nederlands](nl-001/)
 * [Tiếng Việt](vi-001/)

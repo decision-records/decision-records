@@ -10,7 +10,7 @@ ROOT = os.path.join(os.path.dirname(os.path.abspath(__file__)), '..')
 LOCALES = os.path.join(ROOT, 'locales')
 SRC = 'en-us'
 # Exact copies: generated locale -> source locale.
-COPIES = {'cy-001': 'cy-gb', 'zh-001': 'zh-cn', 'hi-001': 'hi-in'}
+COPIES = {'cy-001': 'cy-gb', 'zh-001': 'zh-cn', 'hi-001': 'hi-in', 'ja-001': 'ja-jp'}
 
 # (American stem, British stem); matched at a word start, case-preserving, suffix kept.
 BRITISH = [('modeling', 'modelling'), ('modeled', 'modelled'), ('enrollment', 'enrolment'), ('enroll', 'enrol'),
@@ -60,7 +60,7 @@ def expected(loc):
         for f in fs:
             p = os.path.join(dp, f)
             rel = os.path.relpath(p, base)
-            if f == '.DS_Store':
+            if f in ('.DS_Store', 'sitemap.xml'):
                 continue
             if os.path.islink(p):
                 files[rel] = ('link', os.readlink(p))
@@ -77,7 +77,7 @@ def actual(loc):
         for f in fs:
             p = os.path.join(dp, f)
             rel = os.path.relpath(p, base)
-            if f == '.DS_Store':
+            if f in ('.DS_Store', 'sitemap.xml'):
                 continue
             files[rel] = ('link', os.readlink(p)) if os.path.islink(p) else ('file', open(p, 'rb').read())
     return files

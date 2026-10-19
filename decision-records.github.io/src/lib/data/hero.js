@@ -30,6 +30,10 @@ export const HERO = {
 		tagline: 'Hướng dẫn, mẫu, ví dụ và danh mục kiểm tra để ghi lại các quyết định quan trọng.',
 		translations: 'Bản dịch: '
 	},
+	'ja-jp': {
+		tagline: '重要な意思決定を記録するためのガイド、テンプレート、事例、チェックリスト。',
+		translations: '翻訳：'
+	},
 	'ja-001': {
 		tagline: '重要な意思決定を記録するためのガイド、テンプレート、事例、チェックリスト。',
 		translations: '翻訳：'
@@ -122,6 +126,7 @@ export const ENDONYMS = {
 	'sv-001': 'Svenska',
 	'vi-001': 'Tiếng Việt',
 	'ja-001': '日本語',
+	'ja-jp': '日本語（日本）',
 	'id-001': 'Bahasa Indonesia',
 	'ur-001': 'اردو',
 	'pt-001': 'Português',
