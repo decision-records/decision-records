@@ -10,7 +10,7 @@ ROOT = os.path.join(os.path.dirname(os.path.abspath(__file__)), '..')
 LOCALES = os.path.join(ROOT, 'locales')
 SRC = 'en-us'
 # Exact copies: generated locale -> source locale.
-COPIES = {'cy-001': 'cy-gb', 'zh-001': 'zh-cn', 'hi-001': 'hi-in', 'ja-001': 'ja-jp', 'ko-001': 'ko-kr', 'sv-001': 'sv-se', 'nl-001': 'nl-nl'}
+COPIES = {'cy-001': 'cy-gb', 'zh-001': 'zh-cn', 'hi-001': 'hi-in', 'ja-001': 'ja-jp', 'ko-001': 'ko-kr', 'sv-001': 'sv-se', 'nl-001': 'nl-nl', 'vi-001': 'vi-vn'}
 
 # (American stem, British stem); matched at a word start, case-preserving, suffix kept.
 BRITISH = [('modeling', 'modelling'), ('modeled', 'modelled'), ('enrollment', 'enrolment'), ('enroll', 'enrol'),

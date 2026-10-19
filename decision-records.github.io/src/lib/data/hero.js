@@ -38,6 +38,10 @@ export const HERO = {
 		tagline: 'En vägledning, mallar, exempel och checklistor för att dokumentera viktiga beslut.',
 		translations: 'Översättningar: '
 	},
+	'vi-vn': {
+		tagline: 'Hướng dẫn, mẫu, ví dụ và danh mục kiểm tra để ghi lại các quyết định quan trọng.',
+		translations: 'Bản dịch: '
+	},
 	'vi-001': {
 		tagline: 'Hướng dẫn, mẫu, ví dụ và danh mục kiểm tra để ghi lại các quyết định quan trọng.',
 		translations: 'Bản dịch: '
@@ -139,6 +143,7 @@ export const ENDONYMS = {
 	'ko-kr': '한국어 (대한민국)',
 	'sv-se': 'Svenska (Sverige)',
 	'sv-001': 'Svenska',
+	'vi-vn': 'Tiếng Việt (Việt Nam)',
 	'vi-001': 'Tiếng Việt',
 	'ja-001': '日本語',
 	'ja-jp': '日本語（日本）',

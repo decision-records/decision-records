@@ -21,6 +21,7 @@
 * [한국어](ko-001/)
 * [Nederlands (Nederland)](nl-nl/)
 * [Nederlands](nl-001/)
+* [Tiếng Việt (Việt Nam)](vi-vn/)
 * [Tiếng Việt](vi-001/)
 * [Português](pt-001/)
 * [Русский](ru-001/)
