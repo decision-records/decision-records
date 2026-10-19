@@ -18,6 +18,10 @@ export const HERO = {
 		tagline: 'Een gids, sjablonen, voorbeelden en checklists voor het vastleggen van belangrijke beslissingen.',
 		translations: 'Vertalingen: '
 	},
+	'nl-nl': {
+		tagline: 'Een gids, sjablonen, voorbeelden en checklists voor het vastleggen van belangrijke beslissingen.',
+		translations: 'Vertalingen: '
+	},
 	'ko-001': {
 		tagline: '중요한 의사결정을 기록하기 위한 가이드, 템플릿, 예시, 체크리스트.',
 		translations: '번역: '
@@ -129,6 +133,7 @@ export const ENDONYMS = {
 	'it-001': 'Italiano',
 	'et-001': 'Eesti',
 	'da-001': 'Dansk',
+	'nl-nl': 'Nederlands (Nederland)',
 	'nl-001': 'Nederlands',
 	'ko-001': '한국어',
 	'ko-kr': '한국어 (대한민국)',

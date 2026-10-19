@@ -19,6 +19,7 @@
 * [日本語 (日本)](ja-jp/)
 * [한국어 (대한민국)](ko-kr/)
 * [한국어](ko-001/)
+* [Nederlands (Nederland)](nl-nl/)
 * [Nederlands](nl-001/)
 * [Tiếng Việt](vi-001/)
 * [Português](pt-001/)
