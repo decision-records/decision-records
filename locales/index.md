@@ -23,6 +23,7 @@
 * [Tiếng Việt](vi-001/)
 * [Português](pt-001/)
 * [Русский](ru-001/)
+* [Svenska (Sverige)](sv-se/)
 * [Svenska](sv-001/)
 * [اردو](ur-001/)
 * [中文 (世界)](zh-001/)

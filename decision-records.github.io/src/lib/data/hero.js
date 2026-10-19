@@ -26,6 +26,10 @@ export const HERO = {
 		tagline: '중요한 의사결정을 기록하기 위한 가이드, 템플릿, 예시, 체크리스트.',
 		translations: '번역: '
 	},
+	'sv-se': {
+		tagline: 'En vägledning, mallar, exempel och checklistor för att dokumentera viktiga beslut.',
+		translations: 'Översättningar: '
+	},
 	'sv-001': {
 		tagline: 'En vägledning, mallar, exempel och checklistor för att dokumentera viktiga beslut.',
 		translations: 'Översättningar: '
@@ -128,6 +132,7 @@ export const ENDONYMS = {
 	'nl-001': 'Nederlands',
 	'ko-001': '한국어',
 	'ko-kr': '한국어 (대한민국)',
+	'sv-se': 'Svenska (Sverige)',
 	'sv-001': 'Svenska',
 	'vi-001': 'Tiếng Việt',
 	'ja-001': '日本語',
