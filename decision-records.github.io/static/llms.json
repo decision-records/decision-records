@@ -7,7 +7,7 @@
     "sections": 6,
     "pages": 31,
     "examples": 25,
-    "locales": 28
+    "locales": 29
   },
   "sections": {
     "guide": [
@@ -169,6 +169,7 @@
     "ja_001",
     "ja_JP",
     "ko_001",
+    "ko_KR",
     "nl_001",
     "pt_001",
     "ru_001",
