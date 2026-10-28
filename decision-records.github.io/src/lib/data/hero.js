@@ -4,143 +4,143 @@
 export const HERO = {
 	'it-001': {
 		tagline: 'Una guida, modelli, esempi e checklist per registrare le decisioni importanti.',
-		translations: 'Traduzioni: '
+		translations: 'Lingua: '
 	},
 	'et-001': {
 		tagline: 'Juhend, mallid, näited ja kontrollnimekirjad oluliste otsuste talletamiseks.',
-		translations: 'Tõlked: '
+		translations: 'Keel: '
 	},
 	'da-001': {
 		tagline: 'En vejledning, skabeloner, eksempler og tjeklister til at registrere vigtige beslutninger.',
-		translations: 'Oversættelser: '
+		translations: 'Sprog: '
 	},
 	'nl-001': {
 		tagline: 'Een gids, sjablonen, voorbeelden en checklists voor het vastleggen van belangrijke beslissingen.',
-		translations: 'Vertalingen: '
+		translations: 'Taal: '
 	},
 	'nl-nl': {
 		tagline: 'Een gids, sjablonen, voorbeelden en checklists voor het vastleggen van belangrijke beslissingen.',
-		translations: 'Vertalingen: '
+		translations: 'Taal: '
 	},
 	'ko-001': {
 		tagline: '중요한 의사결정을 기록하기 위한 가이드, 템플릿, 예시, 체크리스트.',
-		translations: '번역: '
+		translations: '언어: '
 	},
 	'ko-kr': {
 		tagline: '중요한 의사결정을 기록하기 위한 가이드, 템플릿, 예시, 체크리스트.',
-		translations: '번역: '
+		translations: '언어: '
 	},
 	'sv-se': {
 		tagline: 'En vägledning, mallar, exempel och checklistor för att dokumentera viktiga beslut.',
-		translations: 'Översättningar: '
+		translations: 'Språk: '
 	},
 	'sv-001': {
 		tagline: 'En vägledning, mallar, exempel och checklistor för att dokumentera viktiga beslut.',
-		translations: 'Översättningar: '
+		translations: 'Språk: '
 	},
 	'sw-tz': {
 		tagline: 'Mwongozo, violezo, mifano na orodha hakiki za kurekodi maamuzi muhimu.',
-		translations: 'Tafsiri: '
+		translations: 'Lugha: '
 	},
 	'sw-001': {
 		tagline: 'Mwongozo, violezo, mifano na orodha hakiki za kurekodi maamuzi muhimu.',
-		translations: 'Tafsiri: '
+		translations: 'Lugha: '
 	},
 	'vi-vn': {
 		tagline: 'Hướng dẫn, mẫu, ví dụ và danh mục kiểm tra để ghi lại các quyết định quan trọng.',
-		translations: 'Bản dịch: '
+		translations: 'Ngôn ngữ: '
 	},
 	'vi-001': {
 		tagline: 'Hướng dẫn, mẫu, ví dụ và danh mục kiểm tra để ghi lại các quyết định quan trọng.',
-		translations: 'Bản dịch: '
+		translations: 'Ngôn ngữ: '
 	},
 	'ja-jp': {
 		tagline: '重要な意思決定を記録するためのガイド、テンプレート、事例、チェックリスト。',
-		translations: '翻訳：'
+		translations: '言語: '
 	},
 	'ja-001': {
 		tagline: '重要な意思決定を記録するためのガイド、テンプレート、事例、チェックリスト。',
-		translations: '翻訳：'
+		translations: '言語: '
 	},
 	'id-001': {
 		tagline: 'Panduan, templat, contoh, dan daftar periksa untuk mencatat keputusan penting.',
-		translations: 'Terjemahan: '
+		translations: 'Bahasa: '
 	},
 	'id-id': {
 		tagline: 'Panduan, templat, contoh, dan daftar periksa untuk mencatat keputusan penting.',
-		translations: 'Terjemahan: '
+		translations: 'Bahasa: '
 	},
 	'ur-001': {
 		tagline: 'اہم فیصلوں کو ریکارڈ کرنے کے لیے رہنما، سانچے، مثالیں اور جانچ فہرستیں۔',
-		translations: 'تراجم: '
+		translations: 'زبان: '
 	},
 	'pt-001': {
 		tagline: 'Guia, modelos, exemplos e listas de verificação para registrar decisões importantes.',
-		translations: 'Traduções: '
+		translations: 'Idioma: '
 	},
 	'ru-001': {
 		tagline: 'Руководство, шаблоны, примеры и контрольные списки для записи важных решений.',
-		translations: 'Переводы: '
+		translations: 'Язык: '
 	},
 	'bn-001': {
 		tagline: 'গুরুত্বপূর্ণ সিদ্ধান্ত লিপিবদ্ধ করার জন্য একটি নির্দেশিকা, টেমপ্লেট, উদাহরণ ও চেকলিস্ট।',
-		translations: 'অনুবাদ: '
+		translations: 'ভাষা: '
 	},
 	'fr-001': {
 		tagline: 'Un guide, des modèles, des exemples et des listes de contrôle pour consigner les décisions importantes.',
-		translations: 'Traductions : '
+		translations: 'Langue: '
 	},
 	'ar-001': {
 		tagline: 'دليل وقوالب وأمثلة وقوائم تحقق لتسجيل القرارات المهمة.',
-		translations: 'الترجمات: '
+		translations: 'اللغة: '
 	},
 	'hi-001': {
 		tagline: 'महत्वपूर्ण निर्णयों को दर्ज करने के लिए एक मार्गदर्शिका, टेम्पलेट, उदाहरण और जांच-सूचियां।',
-		translations: 'अनुवाद: '
+		translations: 'भाषा: '
 	},
 	'hi-in': {
 		tagline: 'महत्वपूर्ण निर्णयों को दर्ज करने के लिए एक मार्गदर्शिका, टेम्पलेट, उदाहरण और जांच-सूचियां।',
-		translations: 'अनुवाद: '
+		translations: 'भाषा: '
 	},
 	'zh-001': {
 		tagline: '用于记录重要决策的指南、模板、示例和检查清单。',
-		translations: '翻译：'
+		translations: '语言: '
 	},
 	'de-001': {
 		tagline: 'Ein Leitfaden, Vorlagen, Beispiele und Checklisten zum Festhalten wichtiger Entscheidungen.',
-		translations: 'Übersetzungen: '
+		translations: 'Sprache: '
 	},
 	'es-001': {
 		tagline: 'Una guía, plantillas, ejemplos y listas de verificación para registrar decisiones importantes.',
-		translations: 'Traducciones: '
+		translations: 'Idioma: '
 	},
 	'cy-001': {
 		tagline: 'Canllaw, templedi, enghreifftiau a rhestrau gwirio ar gyfer cofnodi penderfyniadau pwysig.',
-		translations: 'Cyfieithiadau: '
+		translations: 'Iaith: '
 	},
 	'cy-gb': {
 		tagline: 'Canllaw, templedi, enghreifftiau a rhestrau gwirio ar gyfer cofnodi penderfyniadau pwysig.',
-		translations: 'Cyfieithiadau: '
+		translations: 'Iaith: '
 	},
 	'zh-cn': {
 		tagline: '用于记录重要决策的指南、模板、示例和检查清单。',
-		translations: '翻译：'
+		translations: '语言: '
 	},
 	'en-001': {
 		tagline: 'A guide, templates, examples, and checklists for recording important decisions.',
-		translations: 'Translations: '
+		translations: 'Language: '
 	},
 	'en-gb': {
 		tagline: 'A guide, templates, examples, and checklists for recording important decisions.',
-		translations: 'Translations: '
+		translations: 'Language: '
 	},
 	'en-gb-oxendict': {
 		tagline: 'A guide, templates, examples, and checklists for recording important decisions.',
-		translations: 'Translations: '
+		translations: 'Language: '
 	},
 	'en-us': {
 		tagline: 'A guide, templates, examples, and checklists for recording important decisions.',
-		translations: 'Translations: '
+		translations: 'Language: '
 	}
 };
 
@@ -168,10 +168,10 @@ export const ENDONYMS = {
 	'ru-001': 'Русский',
 	'bn-001': 'বাংলা',
 	'fr-001': 'Français',
-	'ar-001': 'العربية (العالم)',
+	'ar-001': 'العربية',
 	'hi-001': 'हिन्दी',
 	'hi-in': 'हिन्दी (भारत)',
-	'zh-001': '中文（世界）',
+	'zh-001': '中文',
 	'de-001': 'Deutsch',
 	'es-001': 'Español',
 	'cy-001': 'Cymraeg',

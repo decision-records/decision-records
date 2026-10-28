@@ -68,7 +68,7 @@
 	// The GB locales say "Great Britain" (Welsh: "Prydain Fawr") rather than
 	// "United Kingdom" (Welsh: "Y Deyrnas Unedig").
 	// Intl's names for variant subtags are long; spell these out.
-	const LABEL_OVERRIDES: Record<string, string> = { en_GB_oxendict: 'English - Great Britain (Oxford spelling)' };
+	const LABEL_OVERRIDES: Record<string, string> = { en_GB_oxendict: 'English - Great Britain - Oxford' };
 	const REGION_OVERRIDES: Record<string, string> = { en_GB: 'Great Britain', cy_GB: 'Prydain Fawr' };
 	// Browsers lack Welsh display-name data and shorten Indonesian to "Indonesia".
 	const LANGUAGE_OVERRIDES: Record<string, string> = { cy: 'Cymraeg', id: 'Bahasa Indonesia' };

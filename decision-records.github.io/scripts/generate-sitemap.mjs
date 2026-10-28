@@ -3,7 +3,7 @@
 // src/lib/locale-pages.json (English is the en-us locale). URLs end in "/" to match `trailingSlash = 'always'` in src/routes/+layout.js. Reads only
 // files inside this directory (it also runs in the standalone published repo).
 //   pnpm run sitemap
-import { readFileSync, writeFileSync } from 'node:fs';
+import { readFileSync, writeFileSync, mkdirSync } from 'node:fs';
 import { fileURLToPath } from 'node:url';
 import path from 'node:path';
 import { NOINDEX_SLUGS } from '../src/lib/locales.js';
@@ -32,4 +32,21 @@ const xml = [
 ].join('\n');
 
 writeFileSync(path.join(root, 'static/sitemap.xml'), xml);
+// Each locale also gets static/<slug>/sitemap.xml, served at /<slug>/sitemap.xml.
+for (const slug of Object.keys(tree)) {
+	const localePaths = [`/${slug}/`];
+	for (const s of tree[slug]) {
+		if (s.hasIndex) localePaths.push(`/${slug}/${s.dir}/`);
+		for (const p of s.pages) localePaths.push(`/${slug}/${s.dir}/${p.dir}/`);
+	}
+	const localeXml = [
+		'<?xml version="1.0" encoding="UTF-8"?>',
+		'<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">',
+		...localePaths.map((p) => `  <url><loc>${escapeXml(SITE + encodeURI(p))}</loc></url>`),
+		'</urlset>',
+		''
+	].join('\n');
+	mkdirSync(path.join(root, 'static', slug), { recursive: true });
+	writeFileSync(path.join(root, 'static', slug, 'sitemap.xml'), localeXml);
+}
 console.log(`Wrote static/sitemap.xml (${paths.length} URLs).`);

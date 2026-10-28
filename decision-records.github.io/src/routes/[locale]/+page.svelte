@@ -5,6 +5,11 @@
 	import SearchResults from '#lib/components/SearchResults.svelte';
 	import { HERO, ENDONYMS } from '#lib/data/hero.js';
 
+	// The language line lists the world (-001) locales' endonyms, sorted by code.
+	const WORLD_ENDONYMS = Object.entries(ENDONYMS)
+		.filter(([code]) => code.endsWith('-001'))
+		.sort(([a], [b]) => a.localeCompare(b));
+
 	let { data } = $props();
 
 	const slug = $derived(data.locale);
@@ -32,9 +37,9 @@
 			<h1>{data.landing.hero.title}</h1>
 			{#if hero}<p class="hero-subheadline">{hero.tagline}</p>{/if}
 			<p>{data.landing.hero.text}</p>
-			{#if hero && Object.keys(ENDONYMS).length > 1}
+			{#if hero && WORLD_ENDONYMS.length > 1}
 				<p class="hero-translations">
-					{hero.translations}{#each Object.entries(ENDONYMS) as [code, name], i (code)}{i ? ', ' : ''}<a
+					{hero.translations}{#each WORLD_ENDONYMS as [code, name], i (code)}{i ? ', ' : ''}<a
 							href="/{code}/"
 							lang={slugToTag(code)}
 							aria-current={code === slug ? 'page' : undefined}>{name}</a
