@@ -66,6 +66,10 @@ export const HERO = {
 		tagline: 'Panduan, templat, contoh, dan daftar periksa untuk mencatat keputusan penting.',
 		translations: 'Terjemahan: '
 	},
+	'id-id': {
+		tagline: 'Panduan, templat, contoh, dan daftar periksa untuk mencatat keputusan penting.',
+		translations: 'Terjemahan: '
+	},
 	'ur-001': {
 		tagline: 'اہم فیصلوں کو ریکارڈ کرنے کے لیے رہنما، سانچے، مثالیں اور جانچ فہرستیں۔',
 		translations: 'تراجم: '
@@ -158,6 +162,7 @@ export const ENDONYMS = {
 	'ja-001': '日本語',
 	'ja-jp': '日本語（日本）',
 	'id-001': 'Bahasa Indonesia',
+	'id-id': 'Bahasa Indonesia (Indonesia)',
 	'ur-001': 'اردو',
 	'pt-001': 'Português',
 	'ru-001': 'Русский',
