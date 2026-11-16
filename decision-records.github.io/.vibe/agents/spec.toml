@@ -1,0 +1,10 @@
+description = "Spec: specification driven development that always loads spec/*"
+instructions = """
+At startup and before executing any task: list and read every file in the spec/ directory into context. Follow all specifications strictly.
+"""
+
+[tools.read_file]
+permission = "always"
+allowlist = [
+  "vibe-path:directory_recursive:spec"
+]
