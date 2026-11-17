@@ -16,7 +16,7 @@ fix that file to match the spec (or change the spec deliberately).
 | `README.md` | English overview; `locales/en-us/index.md` is built from it |
 | `locales/en-us/` | Source-of-truth English content (6 sections, 25 examples) |
 | `locales/en-001`, `en-gb`, `en-gb-oxendict`, `cy-001` | **Generated** by `scripts/build-english-variants.py`: English variants from `en-us`, `cy-001` copied from `cy-gb` |
-| `locales/<code>/` | Translations (none yet); directory names translated too |
+| `locales/<code>/` | Translations (see `spec/locales.md`); directory names translated too |
 | `AGENTS/` | Task guides: translate a locale, add example, website, publish, review |
 | `skills/` | `decision-records-skill`, `decision-records-maintainer-skill` |
 | `scripts/` | `audit-locales.py`, `build-root-index.py`, `build-english-variants.py` |
