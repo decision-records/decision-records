@@ -27,7 +27,7 @@ const cases = [
 	[['de-AT'], '/de-001/'],
 	// Spanish
 	[['es'], '/es-001/'],
-	[['es-MX'], '/es-001/'],
+	[['es-MX'], '/es-mx/'],
 	[['es-419'], '/es-001/'],
 	// Chinese
 	[['zh-CN'], '/zh-cn/'],
