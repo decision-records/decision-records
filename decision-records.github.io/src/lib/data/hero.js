@@ -10,6 +10,14 @@ export const HERO = {
 		tagline: 'Una guida, modelli, esempi e checklist per registrare le decisioni importanti.',
 		translations: 'Lingua: '
 	},
+	'tr-tr': {
+		tagline: 'Önemli kararları kaydetmek için bir kılavuz, şablonlar, örnekler ve kontrol listeleri.',
+		translations: 'Dil: '
+	},
+	'tr-001': {
+		tagline: 'Önemli kararları kaydetmek için bir kılavuz, şablonlar, örnekler ve kontrol listeleri.',
+		translations: 'Dil: '
+	},
 	'et-001': {
 		tagline: 'Juhend, mallid, näited ja kontrollnimekirjad oluliste otsuste talletamiseks.',
 		translations: 'Keel: '
@@ -172,6 +180,8 @@ export const HERO = {
 export const ENDONYMS = {
 	'it-001': 'Italiano',
 	'it-it': 'Italiano (Italia)',
+	'tr-tr': 'Türkçe (Türkiye)',
+	'tr-001': 'Türkçe',
 	'et-001': 'Eesti',
 	'da-001': 'Dansk',
 	'nl-nl': 'Nederlands (Nederland)',
