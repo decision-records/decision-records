@@ -2,7 +2,7 @@
 // source directory under ../locales/ is the lowercase form with "_" replaced by
 // "-" ("de_001" -> "de-001"). The source-of-truth locale is "en_US" (en-us).
 // See spec/locale-specific-search-picker/index.md.
-export const LOCALES = ['ar_001', 'ar_EG', 'ar_DZ', 'bn_001', 'bn_BD', 'bn_IN', 'cy_001', 'cy_GB', 'cy_AR', 'da_001', 'de_001', 'de_AT', 'de_DE', 'en_001', 'en_GB', 'en_GB_oxendict', 'en_US', 'es_001', 'es_ES', 'es_MX', 'et_001', 'fr_001', 'fr_FR', 'fr_CA', 'hi_001', 'hi_IN', 'hi_NP', 'id_001', 'id_ID', 'id_MY', 'it_001', 'it_IT', 'ja_001', 'ja_JP', 'ko_001', 'ko_KR', 'nl_001', 'nl_NL', 'pt_001', 'pt_PT', 'pt_BR', 'ru_001', 'ru_RU', 'ru_BY', 'sv_001', 'sv_SE', 'sw_001', 'sw_TZ', 'ur_001', 'vi_001', 'vi_VN', 'zh_001', 'zh_CN', 'zh_TH', 'tr_TR', 'tr_001'];
+export const LOCALES = ['ar_001', 'ar_EG', 'ar_DZ', 'bn_001', 'bn_BD', 'bn_IN', 'cy_001', 'cy_GB', 'cy_AR', 'da_001', 'de_001', 'de_AT', 'de_DE', 'en_001', 'en_GB', 'en_GB_oxendict', 'en_US', 'es_001', 'es_ES', 'es_MX', 'et_001', 'fr_001', 'fr_FR', 'fr_CA', 'hi_001', 'hi_IN', 'hi_NP', 'id_001', 'id_ID', 'id_MY', 'it_001', 'it_IT', 'ja_001', 'ja_JP', 'ko_001', 'ko_KR', 'nl_001', 'nl_NL', 'pt_001', 'pt_PT', 'pt_BR', 'ru_001', 'ru_RU', 'ru_BY', 'sv_001', 'sv_SE', 'sw_001', 'sw_TZ', 'ur_001', 'vi_001', 'vi_VN', 'zh_001', 'zh_CN', 'zh_TH', 'tr_TR', 'tr_001', 'th_TH', 'th_001'];
 
 /** English variants generated from en-us (scripts/build-english-variants.py): noindex, not in the sitemap. */
 export const NOINDEX_SLUGS = ['en-001', 'en-gb', 'en-gb-oxendict'];

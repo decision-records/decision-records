@@ -7,7 +7,7 @@
     "sections": 6,
     "pages": 31,
     "examples": 25,
-    "locales": 56
+    "locales": 58
   },
   "sections": {
     "guide": [
@@ -204,7 +204,9 @@
     "zh_CN",
     "zh_TH",
     "tr_TR",
-    "tr_001"
+    "tr_001",
+    "th_TH",
+    "th_001"
   ],
   "translations": "https://github.com/decision-records/decision-records/tree/main/locales"
 }

@@ -14,6 +14,14 @@ export const HERO = {
 		tagline: 'Önemli kararları kaydetmek için bir kılavuz, şablonlar, örnekler ve kontrol listeleri.',
 		translations: 'Dil: '
 	},
+	'th-th': {
+		tagline: 'คู่มือ แม่แบบ ตัวอย่าง และรายการตรวจสอบสำหรับการบันทึกการตัดสินใจที่สำคัญ',
+		translations: 'ภาษา: '
+	},
+	'th-001': {
+		tagline: 'คู่มือ แม่แบบ ตัวอย่าง และรายการตรวจสอบสำหรับการบันทึกการตัดสินใจที่สำคัญ',
+		translations: 'ภาษา: '
+	},
 	'tr-001': {
 		tagline: 'Önemli kararları kaydetmek için bir kılavuz, şablonlar, örnekler ve kontrol listeleri.',
 		translations: 'Dil: '
@@ -181,6 +189,8 @@ export const ENDONYMS = {
 	'it-001': 'Italiano',
 	'it-it': 'Italiano (Italia)',
 	'tr-tr': 'Türkçe (Türkiye)',
+	'th-th': 'ไทย (ประเทศไทย)',
+	'th-001': 'ไทย',
 	'tr-001': 'Türkçe',
 	'et-001': 'Eesti',
 	'da-001': 'Dansk',
