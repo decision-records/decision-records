@@ -23,8 +23,8 @@ const cases = [
 	[['cy_GB'], '/cy-gb/'],
 	// German
 	[['de'], '/de-001/'],
-	[['de-DE'], '/de-001/'],
-	[['de-AT'], '/de-001/'],
+	[['de-DE'], '/de-de/'],
+	[['de-AT'], '/de-at/'],
 	// Spanish
 	[['es'], '/es-001/'],
 	[['es-MX'], '/es-mx/'],

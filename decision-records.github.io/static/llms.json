@@ -7,7 +7,7 @@
     "sections": 6,
     "pages": 31,
     "examples": 25,
-    "locales": 48
+    "locales": 53
   },
   "sections": {
     "guide": [
@@ -157,8 +157,11 @@
     "bn_IN",
     "cy_001",
     "cy_GB",
+    "cy_AR",
     "da_001",
     "de_001",
+    "de_AT",
+    "de_DE",
     "en_001",
     "en_GB",
     "en_GB_oxendict",
@@ -172,10 +175,12 @@
     "fr_CA",
     "hi_001",
     "hi_IN",
+    "hi_NP",
     "id_001",
     "id_ID",
     "id_MY",
     "it_001",
+    "it_IT",
     "ja_001",
     "ja_JP",
     "ko_001",

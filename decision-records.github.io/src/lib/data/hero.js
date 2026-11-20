@@ -6,6 +6,10 @@ export const HERO = {
 		tagline: 'Una guida, modelli, esempi e checklist per registrare le decisioni importanti.',
 		translations: 'Lingua: '
 	},
+	'it-it': {
+		tagline: 'Una guida, modelli, esempi e checklist per registrare le decisioni importanti.',
+		translations: 'Lingua: '
+	},
 	'et-001': {
 		tagline: 'Juhend, mallid, näited ja kontrollnimekirjad oluliste otsuste talletamiseks.',
 		translations: 'Keel: '
@@ -102,11 +106,23 @@ export const HERO = {
 		tagline: 'महत्वपूर्ण निर्णयों को दर्ज करने के लिए एक मार्गदर्शिका, टेम्पलेट, उदाहरण और जांच-सूचियां।',
 		translations: 'भाषा: '
 	},
+	'hi-np': {
+		tagline: 'महत्वपूर्ण निर्णयों को दर्ज करने के लिए एक मार्गदर्शिका, टेम्पलेट, उदाहरण और जांच-सूचियां।',
+		translations: 'भाषा: '
+	},
 	'zh-001': {
 		tagline: '用于记录重要决策的指南、模板、示例和检查清单。',
 		translations: '语言: '
 	},
 	'de-001': {
+		tagline: 'Ein Leitfaden, Vorlagen, Beispiele und Checklisten zum Festhalten wichtiger Entscheidungen.',
+		translations: 'Sprache: '
+	},
+	'de-at': {
+		tagline: 'Ein Leitfaden, Vorlagen, Beispiele und Checklisten zum Festhalten wichtiger Entscheidungen.',
+		translations: 'Sprache: '
+	},
+	'de-de': {
 		tagline: 'Ein Leitfaden, Vorlagen, Beispiele und Checklisten zum Festhalten wichtiger Entscheidungen.',
 		translations: 'Sprache: '
 	},
@@ -122,7 +138,15 @@ export const HERO = {
 		tagline: 'Canllaw, templedi, enghreifftiau a rhestrau gwirio ar gyfer cofnodi penderfyniadau pwysig.',
 		translations: 'Iaith: '
 	},
+	'cy-ar': {
+		tagline: 'Canllaw, templedi, enghreifftiau a rhestrau gwirio ar gyfer cofnodi penderfyniadau pwysig.',
+		translations: 'Iaith: '
+	},
 	'zh-cn': {
+		tagline: '用于记录重要决策的指南、模板、示例和检查清单。',
+		translations: '语言: '
+	},
+	'zh-th': {
 		tagline: '用于记录重要决策的指南、模板、示例和检查清单。',
 		translations: '语言: '
 	},
@@ -147,6 +171,7 @@ export const HERO = {
 /** @type {Record<string, string>} */
 export const ENDONYMS = {
 	'it-001': 'Italiano',
+	'it-it': 'Italiano (Italia)',
 	'et-001': 'Eesti',
 	'da-001': 'Dansk',
 	'nl-nl': 'Nederlands (Nederland)',
@@ -171,12 +196,17 @@ export const ENDONYMS = {
 	'ar-001': 'العربية',
 	'hi-001': 'हिन्दी',
 	'hi-in': 'हिन्दी (भारत)',
+	'hi-np': 'हिन्दी (नेपाल)',
 	'zh-001': '中文',
 	'de-001': 'Deutsch',
+	'de-at': 'Deutsch (Österreich)',
+	'de-de': 'Deutsch (Deutschland)',
 	'es-001': 'Español',
 	'cy-001': 'Cymraeg',
 	'cy-gb': 'Cymraeg (Prydain Fawr)',
+	'cy-ar': 'Cymraeg (Ariannin)',
 	'zh-cn': '中文（中国）',
+	'zh-th': '中文（泰国）',
 	'en-001': 'English',
 	'en-gb': 'English (Great Britain)',
 	'en-gb-oxendict': 'English (Great Britain, Oxford spelling)',
